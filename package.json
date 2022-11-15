@@ -6,11 +6,16 @@
   "license": "MIT",
   "packageManager": "yarn@3.2.4",
   "prettier": "@yuzu441/prettier-config",
+  "scripts": {
+    "scraping": "ts-node src/index.ts",
+    "postscraping": "prettier --write data/"
+  },
   "devDependencies": {
     "@types/node": "18.11.9",
     "@types/puppeteer": "7.0.4",
     "@yuzu441/prettier-config": "1.0.2",
     "prettier": "2.7.1",
+    "ts-node": "10.9.1",
     "typescript": "4.8.4"
   },
   "dependencies": {
