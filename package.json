@@ -1,0 +1,19 @@
+{
+  "name": "meal-ticket-osaka-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/milkchoco/meal-ticket-osaka-scraping.git",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.4",
+  "prettier": "@yuzu441/prettier-config",
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/puppeteer": "7.0.4",
+    "@yuzu441/prettier-config": "1.0.2",
+    "prettier": "2.7.1",
+    "typescript": "4.8.4"
+  },
+  "dependencies": {
+    "puppeteer": "19.2.2"
+  }
+}
