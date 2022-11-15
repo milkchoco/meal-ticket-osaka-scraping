@@ -21,7 +21,7 @@ jobs:
           cache: "yarn"
       - name: Dependency install
         run: |-
-          yarn install --forzen-lockfile
+          yarn install --immutable
       - name: Fetch latest data
         run: |-
           yarn run scraping
