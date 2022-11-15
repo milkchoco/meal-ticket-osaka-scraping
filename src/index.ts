@@ -4,7 +4,8 @@ import path from 'node:path'
 import { ShopCard } from './types/ShopCard'
 
 const area = {
-  all: 'area_all',
+  // It takes so long time to enable this
+  //all: 'area_all',
   north: 'feas_0_0_0',
   south: 'feas_0_0_1',
   osakaCasle: 'feas_0_0_2',
