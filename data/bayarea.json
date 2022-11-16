@@ -1,0 +1,5992 @@
+[
+  {
+    "name": "餃子王 杜家",
+    "address": "558-0022\n大阪市住吉区 杉本１丁目４－３ ハイムアーキテクト１階",
+    "tel": "06-6692-8283",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372304/"
+  },
+  {
+    "name": "たのきゅう",
+    "address": "558-0011\n大阪市住吉区 苅田2丁目15-10 長居パークハイツ1F",
+    "tel": "06-6697-0537",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372295/"
+  },
+  {
+    "name": "茶房かのん",
+    "address": "559-0003\n大阪市住之江区 安立３－９－１８",
+    "tel": "06-4701-0075",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372260/"
+  },
+  {
+    "name": "呑んごろ",
+    "address": "558-0032\n大阪市住吉区 遠里小野1町目11ー27 呑んごろ",
+    "tel": "06-6607-8056",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372259/"
+  },
+  {
+    "name": "板前焼肉　一光　あびこ店",
+    "address": "558-0014\n大阪市住吉区 我孫子東3-1-4",
+    "tel": "06-6699-2989",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372241/"
+  },
+  {
+    "name": "三徳庵　大正店",
+    "address": "551-0011\n大阪市大正区 小林東2‐10‐12",
+    "tel": "0120-86-3109",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372227/"
+  },
+  {
+    "name": "懐石料理徳",
+    "address": "559-0012\n大阪市住之江区 東加賀屋３－１５－９",
+    "tel": "06-6683-0045",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372224/"
+  },
+  {
+    "name": "千両寿司",
+    "address": "552-0021\n大阪市港区 築港４－２－３",
+    "tel": "06-6577-5222",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372157/"
+  },
+  {
+    "name": "木村酒店",
+    "address": "552-0004\n大阪市港区 夕凪２－９－３０",
+    "tel": "06-6571-2340",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372097/"
+  },
+  {
+    "name": "幸園",
+    "address": "551-0031\n大阪市大正区 泉尾1-31-14",
+    "tel": "06-6553-4019",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372093/"
+  },
+  {
+    "name": "古民家カフェあーちゃん",
+    "address": "558-0052\n大阪市住吉区 帝塚山西4-4-41",
+    "tel": "06-6675-3588",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372073/"
+  },
+  {
+    "name": "居酒屋 まる藤",
+    "address": "559-0007\n大阪市住之江区 粉浜西1-10-3",
+    "tel": "06-7850-3791",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371970/"
+  },
+  {
+    "name": "酒菜三昧実乃里",
+    "address": "554-0012\n大阪市此花区 西九条１丁目２２番１１号",
+    "tel": "06-6462-1347",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371901/"
+  },
+  {
+    "name": "はん助",
+    "address": "558-0013\n大阪市住吉区 我孫子東2丁目3-18 第2伊加佐マンション101",
+    "tel": "06-6691-8686",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371848/"
+  },
+  {
+    "name": "築港横丁",
+    "address": "552-0021\n大阪市港区 築港4-1-30 外山ビル1階",
+    "tel": "06-6684-9693",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371847/"
+  },
+  {
+    "name": "酒処まるに",
+    "address": "551-0031\n大阪市大正区 泉尾1-31-15",
+    "tel": "06-6551-3679",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371818/"
+  },
+  {
+    "name": "ANTICO",
+    "address": "558-0052\n大阪市住吉区 帝塚山西１丁目1-24 パレセゾン帝塚山",
+    "tel": "06-6675-4446",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371580/"
+  },
+  {
+    "name": "PIZZERIA E TRATTORIA CIAO",
+    "address": "552-0014\n大阪市港区 八幡屋1-5-5",
+    "tel": "06-7172-1729",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371574/"
+  },
+  {
+    "name": "あびこ酒場ゆうひめ",
+    "address": "558-0011\n大阪市住吉区 苅田3-13-12 いずみハイツ",
+    "tel": "06-6697-6712",
+    "tags": [
+      "鍋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371535/"
+  },
+  {
+    "name": "Shot & Snack HIGASHI",
+    "address": "552-0001\n大阪市港区 波除3-8-16 サテライト弁天 5階",
+    "tel": "070-8423-9536",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371338/"
+  },
+  {
+    "name": "TRIBECA",
+    "address": "554-0012\n大阪市此花区 西九条1-33-15 永和テック西九条駅前ビル2階",
+    "tel": "06-7410-5405",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371326/"
+  },
+  {
+    "name": "和風ビア・バー彩sai",
+    "address": "558-0013\n大阪市住吉区 我孫子東2-4-21 M.Nハイツ1F",
+    "tel": "06-6608-0084",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371038/"
+  },
+  {
+    "name": "居酒屋　とんがらし",
+    "address": "558-0011\n大阪市住吉区 苅田5-6-5 １階　西より二号 メゾン大友",
+    "tel": "06-6607-7343",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371004/"
+  },
+  {
+    "name": "かじ村",
+    "address": "552-0004\n大阪市港区 夕凪1-13-2-103 ヴェルドール夕凪",
+    "tel": "06-6155-7030",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370999/"
+  },
+  {
+    "name": "立ち呑みバル咲くら",
+    "address": "552-0004\n大阪市港区 夕凪1-15-30 幸運ビル",
+    "tel": "06-6567-9866",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370995/"
+  },
+  {
+    "name": "呑み処　美和",
+    "address": "554-0013\n大阪市此花区 梅香3丁目31番10",
+    "tel": "070-8438-7384",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370969/"
+  },
+  {
+    "name": "グリル＆カフェ ヒロ",
+    "address": "558-0004\n大阪市住吉区 長居東4－16‐29",
+    "tel": "06-6698-0954",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370950/"
+  },
+  {
+    "name": "ヴィディヤカフェ　長居店",
+    "address": "558-0004\n大阪市住吉区 長居東4-9-13 昭栄マンション1階",
+    "tel": "06-6697-9133",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370929/"
+  },
+  {
+    "name": "ヴィ・ド・フランス弁天町店",
+    "address": "552-0007\n大阪市港区 弁天1-2-2-200 ベイタワーイースト2F",
+    "tel": "06-6577-1243",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370880/"
+  },
+  {
+    "name": "ぢどり亭大正駅前店",
+    "address": "551-0002\n大阪市大正区 三軒家東1－17－33　１－A",
+    "tel": "06-4394-2989",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370675/"
+  },
+  {
+    "name": "炭火焼鳥とと",
+    "address": "559-0013\n大阪市住之江区 御崎6-1-23 阪下ハウスマンションA棟103号",
+    "tel": "06-6654-4366",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370636/"
+  },
+  {
+    "name": "やきとり　とり芳",
+    "address": "559-0017\n大阪市住之江区 中加賀屋1-3-1",
+    "tel": "06-6686-0075",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370635/"
+  },
+  {
+    "name": "にしまる",
+    "address": "559-0017\n大阪市住之江区 中加賀屋1-2-3",
+    "tel": "06-6681-3967",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370634/"
+  },
+  {
+    "name": "あわび村　住之江店",
+    "address": "559-0024\n大阪市住之江区 新北島1-5-7 新北島ビル",
+    "tel": "06-6616-7657",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370626/"
+  },
+  {
+    "name": "焼鳥やすまろ",
+    "address": "554-0013\n大阪市此花区 梅香3-32-2-1A メロディハイツ吉積",
+    "tel": "06-6468-2271",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370588/"
+  },
+  {
+    "name": "大正　焼肉ホルモン　K2＋",
+    "address": "551-0001\n大阪市大正区 三軒家西1-9-36",
+    "tel": "06-6553-8929",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370563/"
+  },
+  {
+    "name": "焼肉家族亭",
+    "address": "558-0032\n大阪市住吉区 遠里小野3-7-76",
+    "tel": "06-6693-0805",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370483/"
+  },
+  {
+    "name": "板前焼肉　一光",
+    "address": "559-0024\n大阪市住之江区 新北島1-3-2",
+    "tel": "06-6682-2989",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370478/"
+  },
+  {
+    "name": "給仕當田",
+    "address": "552-0001\n大阪市港区 波除3丁目5-10 アミューズメントパーク弁天1F",
+    "tel": "06-6599-9138",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370464/"
+  },
+  {
+    "name": "黒毛和牛焼肉と韓国料理ハヌル",
+    "address": "558-0011\n大阪市住吉区 苅田7-12-5 セントラルハイツ103",
+    "tel": "06-4703-5529",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370431/"
+  },
+  {
+    "name": "大西亭",
+    "address": "556-0016\n大阪市浪速区 元町1-3-19",
+    "tel": "06-6649-0666",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370427/"
+  },
+  {
+    "name": "大安すし",
+    "address": "558-0011\n大阪市住吉区苅田 9丁目2番18 アビコマンション",
+    "tel": "06-7165-1673",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370425/"
+  },
+  {
+    "name": "串工房味いちもんめ",
+    "address": "558-0032\n大阪市住吉区 遠里小野1-2-5",
+    "tel": "06-6693-2237",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370414/"
+  },
+  {
+    "name": "炭火ぢどり焼きえん",
+    "address": "558-0011\n大阪市住吉区 苅田7-1-21",
+    "tel": "06-6697-2741",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370408/"
+  },
+  {
+    "name": "膾炙こじろう",
+    "address": "559-0024\n大阪市住之江区 新北島1-4-13-102 サニープレイス102号",
+    "tel": "06-6682-3875",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367708/"
+  },
+  {
+    "name": "だんらん",
+    "address": "558-0055\n大阪市住吉区 万代3丁目2-2 グレース帝塚山102",
+    "tel": "06-6678-2941",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367687/"
+  },
+  {
+    "name": "ジオラマ103",
+    "address": "556-0005\n大阪市浪速区 日本橋5丁目12-3 盛岡ビル二階",
+    "tel": "06-6585-7216",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367639/"
+  },
+  {
+    "name": "韓流 味愛",
+    "address": "559-0017\n大阪市住之江区 中加賀屋3-13-2",
+    "tel": "06-6683-7070",
+    "tags": [
+      "アジア・エスニック料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367612/"
+  },
+  {
+    "name": "三茶住吉店",
+    "address": "558-0041\n大阪市住吉区 南住吉4-5-3 ライフイン南住吉",
+    "tel": "06-6694-4877",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367483/"
+  },
+  {
+    "name": "田jyu 杉本町店",
+    "address": "558-0023\n大阪市住吉区 山之内3-2-20 東洋パンション南端",
+    "tel": "06-6608-0100",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367361/"
+  },
+  {
+    "name": "ホルモンたろちゃん大正橋店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-2-6",
+    "tel": "06-6551-8177",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367302/"
+  },
+  {
+    "name": "IL　MARE",
+    "address": "558-0011\n大阪市住吉区 苅田７丁目９番８号 ベルクレールアビコ",
+    "tel": "06-6691-3455",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367289/"
+  },
+  {
+    "name": "ミツワ",
+    "address": "552-0015\n大阪市港区 池島1-1-4 山村マンション１階",
+    "tel": "070-5434-2219",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367285/"
+  },
+  {
+    "name": "味味",
+    "address": "552-0014\n大阪市港区 八幡屋1丁目１０番１６号",
+    "tel": "06-6573-0773",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367214/"
+  },
+  {
+    "name": "めーぐゎーさー",
+    "address": "559-0012\n大阪市住之江区 東加賀屋1-6 平光マンション1階",
+    "tel": "06-7662-0967",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367213/"
+  },
+  {
+    "name": "焼き鳥　樹",
+    "address": "552-0014\n大阪市港区 八幡屋2-6-1-118 南朝潮コーポ",
+    "tel": "090-2064-4600",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367170/"
+  },
+  {
+    "name": "黒松直販所",
+    "address": "557-0041\n大阪市西成区 岸里１－２－７",
+    "tel": "06-6651-8912",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367137/"
+  },
+  {
+    "name": "鶏soba座銀　住之江店",
+    "address": "559-0022\n大阪市住之江区 緑木1丁目1-12",
+    "tel": "06-6657-5810",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367086/"
+  },
+  {
+    "name": "旬菜楽酒　昌家",
+    "address": "552-0001\n大阪市港区 波除2丁目9-25 アーバン波除101号",
+    "tel": "06-6584-0141",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367062/"
+  },
+  {
+    "name": "フレンチ食堂エスカルゴ",
+    "address": "558-0011\n大阪市住吉区 　苅田7-7-5 西村第2マンション",
+    "tel": "06-6697-7723",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367060/"
+  },
+  {
+    "name": "高梁",
+    "address": "558-0003\n大阪市住吉区 長居3-9-1 銀河マンション",
+    "tel": "06-6608-1556",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366743/"
+  },
+  {
+    "name": "割烹もりつね",
+    "address": "559-0001\n大阪市住之江区 粉浜３ー９ー２２",
+    "tel": "090-9289-5685",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366725/"
+  },
+  {
+    "name": "焼き鳥こっこや",
+    "address": "552-0003\n大阪市港区磯路 磯路3丁目16-14",
+    "tel": "06-4395-0120",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366721/"
+  },
+  {
+    "name": "三代目鳥メロ　大正駅前店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-17-28 淀川産業第一ビル1階",
+    "tel": "06-4394-3571",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366494/"
+  },
+  {
+    "name": "KOTOBUKI",
+    "address": "558-0031\n大阪市住吉区 沢之町２丁目６－１１",
+    "tel": "06-6627-9169",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366436/"
+  },
+  {
+    "name": "おかんの店",
+    "address": "558-0011\n大阪市住吉区 苅田7-9-3",
+    "tel": "00-0000-0000",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366384/"
+  },
+  {
+    "name": "草鍋えんや　大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-8-24",
+    "tel": "06-6553-9797",
+    "tags": [
+      "鍋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366337/"
+  },
+  {
+    "name": "七輪屋kitchen",
+    "address": "552-0007\n大阪市港区弁天 1丁目1-8 弁天コーポ1階",
+    "tel": "06-6574-8989",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365925/"
+  },
+  {
+    "name": "大衆中華と餃子専門　まるい飯店　",
+    "address": "558-0042\n大阪市住吉区 殿辻2-1-3 M's殿辻",
+    "tel": "06-6678-0123",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365911/"
+  },
+  {
+    "name": "串揚家三と九",
+    "address": "552-0016\n大阪市港区 三先2-12-2 奥ビル",
+    "tel": "06-4395-3109",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365850/"
+  },
+  {
+    "name": "焼きんしゃい弁天町店",
+    "address": "552-0001\n大阪市港区 波除3-8-7　２階",
+    "tel": "06-6582-7070",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365830/"
+  },
+  {
+    "name": "焼きんしゃい大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-9-15",
+    "tel": "06-6556-5800",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365827/"
+  },
+  {
+    "name": "網焼きと釜飯いその長居店",
+    "address": "558-0003\n大阪市住吉区 長居3-2-2 前田ビル1F",
+    "tel": "06-4700-5544",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365804/"
+  },
+  {
+    "name": "酔り所",
+    "address": "559-0024\n大阪市住之江区 新北島7-4-45",
+    "tel": "080-4658-3783",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365782/"
+  },
+  {
+    "name": "ハイホー×3",
+    "address": "554-0012\n大阪市此花区 西九条３丁目１１番１８号",
+    "tel": "06-6147-4577",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365695/"
+  },
+  {
+    "name": "全包",
+    "address": "556-0002\n大阪市浪速区 恵美須東２丁目８番地７号 ビジタル浪速３",
+    "tel": "090-1714-5814",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364539/"
+  },
+  {
+    "name": "蒼空",
+    "address": "559-0006\n大阪市住之江区浜口西 1丁目13番13号",
+    "tel": "06-6674-5000",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364532/"
+  },
+  {
+    "name": "ゆうなぎ庵　栞",
+    "address": "552-0004\n大阪市港区 夕凪1-17-2 民団ビル1F",
+    "tel": "06-6571-4011",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364519/"
+  },
+  {
+    "name": "炭火焼鳥 鳥繁",
+    "address": "554-0012\n大阪市此花区 西九条1-33-3",
+    "tel": "06-7163-2417",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364421/"
+  },
+  {
+    "name": "天天菜館",
+    "address": "554-0013\n大阪市此花区 梅香3-28-11",
+    "tel": "06-6463-9614",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364143/"
+  },
+  {
+    "name": "「響」",
+    "address": "551-0001\n大阪市大正区 三軒家西1-4-17 グランパレス大正駅前1F",
+    "tel": "06-6555-0115",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364038/"
+  },
+  {
+    "name": "手造りダイニングJOJO",
+    "address": "551-0001\n大阪市大正区 三軒家西1-2-29",
+    "tel": "06-6551-8266",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364026/"
+  },
+  {
+    "name": "立呑処オオサワ",
+    "address": "552-0021\n大阪市港区 築港1-14-13",
+    "tel": "06-6571-2838",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364025/"
+  },
+  {
+    "name": "コーヒーラウンジ『ロビーラウンジ』",
+    "address": "559-0034\n大阪市住之江区 南港北1丁目13番11号 ハイアットリージェンシー大阪",
+    "tel": "06-6612-1234",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364011/"
+  },
+  {
+    "name": "イタリア料理『バジリコ』",
+    "address": "559-0034\n大阪市住之江区 南港北1丁目13番11号 ハイアットリージェンシー大阪",
+    "tel": "06-6612-1234",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364010/"
+  },
+  {
+    "name": "鉄板焼『彩』",
+    "address": "559-0034\n大阪市住之江区 南港北1丁目13番11号 ハイアットリージェンシー大阪",
+    "tel": "06-6612-1234",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364009/"
+  },
+  {
+    "name": "カフェレストラン『ザ・カフェ』",
+    "address": "559-0034\n大阪市住之江区 南港北1丁目13番11号 ハイアットリージェンシー大阪",
+    "tel": "06-6612-1234",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364008/"
+  },
+  {
+    "name": "焼肉　げんや",
+    "address": "558-0011\n大阪市住吉区 苅田2-15-22",
+    "tel": "06-6607-0052",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363880/"
+  },
+  {
+    "name": "BISTRO309 ユニバーサルシティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2-61",
+    "tel": "06-4804-3090",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363869/"
+  },
+  {
+    "name": "豚骨らーめん春一番",
+    "address": "552-0021\n大阪市港区 築港4-3-24",
+    "tel": "06-6599-8550",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363579/"
+  },
+  {
+    "name": "BAR LOUNGE TWENTY",
+    "address": "552-0007\n大阪市港区 弁天1-2-1-20F アートホテル大阪ベイタワー",
+    "tel": "06-6572-7774",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363448/"
+  },
+  {
+    "name": "ヤタイ",
+    "address": "557-0041\n大阪市西成区 岸里１－３－３１",
+    "tel": "06-6115-8609",
+    "tags": [
+      "アジア・エスニック料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363415/"
+  },
+  {
+    "name": "そば処美松",
+    "address": "554-0013\n大阪市此花区 梅香３－１３－１１",
+    "tel": "06-6461-1992",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363308/"
+  },
+  {
+    "name": "南港ATC海鮮市場おーうえすと",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATCビルO’s棟北館２階Fー203",
+    "tel": "06-6655-0015",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363301/"
+  },
+  {
+    "name": "炭やん",
+    "address": "552-0003\n大阪市港区 磯路3-25-7 市岡グランドビル旧館101",
+    "tel": "06-6571-0629",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363289/"
+  },
+  {
+    "name": "松栄丸",
+    "address": "552-0001\n大阪市港区 波除3-5-16",
+    "tel": "06-6584-0345",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363276/"
+  },
+  {
+    "name": "大輪",
+    "address": "552-0012\n大阪市港区 市岡１－５－２０",
+    "tel": "06-6572-3678",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363271/"
+  },
+  {
+    "name": "呑み処こもだ",
+    "address": "552-0007\n大阪市港区 弁天4丁目5番６号",
+    "tel": "06-6572-8010",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363270/"
+  },
+  {
+    "name": "久友",
+    "address": "552-0016\n大阪市港区 三先1-4-19",
+    "tel": "090-8481-5015",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363266/"
+  },
+  {
+    "name": "なかよし家",
+    "address": "552-0003\n大阪市港区 磯路1-3-19 102号",
+    "tel": "06-6577-1551",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363225/"
+  },
+  {
+    "name": "（ヘバラギ）",
+    "address": "551-0012\n大阪市大正区 平尾2-23-17-111 平尾コーポ111",
+    "tel": "06-7410-3877",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363223/"
+  },
+  {
+    "name": "rico",
+    "address": "558-0011\n大阪市住吉区 苅田3-17-7 第二武田マンション1-E",
+    "tel": "06-6691-5536",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363206/"
+  },
+  {
+    "name": "pipiaina",
+    "address": "558-0014\n大阪市住吉区 我孫子3丁目5ー20 プラザ志ビル30 1F",
+    "tel": "06-6694-5577",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363186/"
+  },
+  {
+    "name": "TEZUKAYAMAよし田",
+    "address": "558-0053\n大阪市住吉区 帝塚山中1-5-29 帝塚山サンコーポユウ",
+    "tel": "06-6673-5100",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363182/"
+  },
+  {
+    "name": "大和庵",
+    "address": "552-0003\n大阪市港区 磯路２－１－２３ 森ビル",
+    "tel": "06-7172-0341",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363159/"
+  },
+  {
+    "name": "鶴橋風月LIGHT ATCフードコート店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC O's棟北2F",
+    "tel": "06-6690-7090",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363154/"
+  },
+  {
+    "name": "一番亭",
+    "address": "552-0014\n大阪市港区 八幡屋1-11-8",
+    "tel": "06-6575-0840",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363101/"
+  },
+  {
+    "name": "どん太郎",
+    "address": "558-0011\n大阪市住吉区 苅田７丁６番２０号 どん太郎",
+    "tel": "06-6606-8468",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363060/"
+  },
+  {
+    "name": "居酒屋 食堂 内蔵助",
+    "address": "554-0014\n大阪市此花区 四貫島1-5-15",
+    "tel": "06-6131-5867",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs362907/"
+  },
+  {
+    "name": "中華厨房　齊房",
+    "address": "559-0012\n大阪市住之江区 東加賀屋1-13-13 天祥コーポラス103",
+    "tel": "06-6681-9339",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs362343/"
+  },
+  {
+    "name": "旬彩工房その田",
+    "address": "559-0033\n大阪市住之江区 南港中3-2-68",
+    "tel": "06-4703-0123",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs362341/"
+  },
+  {
+    "name": "中華料理とり秀",
+    "address": "558-0023\n大阪市住吉区 山之内3-1-15",
+    "tel": "06-6693-7078",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs362333/"
+  },
+  {
+    "name": "信州そば処恵方",
+    "address": "551-0032\n大阪市大正区 北村1-1-11 山城マンション",
+    "tel": "06-6553-0098",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs362329/"
+  },
+  {
+    "name": "ＧＡＢＢＬＥ",
+    "address": "554-0012\n大阪市此花区 西九条３－９－１３",
+    "tel": "06-4977-3747",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs361707/"
+  },
+  {
+    "name": "ダイニングバーカルネ",
+    "address": "554-0051\n大阪市此花区 酉島1-14-14",
+    "tel": "06-6462-8668",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs361705/"
+  },
+  {
+    "name": "天保山 和食 帆",
+    "address": "552-0021\n大阪市港区 築港4-2-5",
+    "tel": "06-6577-5200",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs361591/"
+  },
+  {
+    "name": "博多ラーメンげんこつ四貫島店",
+    "address": "554-0014\n大阪市此花区 四貫島2-2-2 エルムすずき１階",
+    "tel": "06-6461-5532",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs361583/"
+  },
+  {
+    "name": "海鮮や活活丸",
+    "address": "559-0034\n大阪市住之江区 南港北２－１－１０ ＡＴＣオズ棟３１２",
+    "tel": "06-4703-2130",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360528/"
+  },
+  {
+    "name": "海鮮はし幸",
+    "address": "533-0014\n大阪市東淀川区 豊新5丁目10番12号",
+    "tel": "06-6329-1022",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360471/"
+  },
+  {
+    "name": "カフェダイニングセブン",
+    "address": "557-0004\n大阪市西成区 萩之茶屋2-3-4",
+    "tel": "06-6631-2102",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360468/"
+  },
+  {
+    "name": "洋食Shin",
+    "address": "558-0004\n大阪市住吉区 長居東4-21-2-101 泉第２ハイツ",
+    "tel": "06-6654-7233",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360435/"
+  },
+  {
+    "name": "海鮮寿司どっこい処",
+    "address": "558-0011\n大阪市住吉区 苅田７-12-２８ 常盤ビル一階",
+    "tel": "06-6697-5150",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360383/"
+  },
+  {
+    "name": "大衆食堂ちとり家",
+    "address": "557-0025\n大阪市西成区 長橋2－4－34",
+    "tel": "06-6562-1389",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360342/"
+  },
+  {
+    "name": "マクドナルドあべの筋遠里小野店",
+    "address": "558-0032\n大阪市住吉区 遠里小野4-1-18",
+    "tel": "06-6615-8816",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360085/"
+  },
+  {
+    "name": "マクドナルド南港ポートタウンんて",
+    "address": "559-0033\n大阪市住之江区 南港中2-1-109",
+    "tel": "06-6613-8180",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360083/"
+  },
+  {
+    "name": "マクドナルドあびこ店",
+    "address": "558-0011\n大阪市住吉区 苅田5-19-13 201",
+    "tel": "06-6607-2057",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360075/"
+  },
+  {
+    "name": "マクドナルド新北島店",
+    "address": "559-0024\n大阪市住之江区 新北島3-8-12",
+    "tel": "06-6683-8882",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360073/"
+  },
+  {
+    "name": "紫光",
+    "address": "559-0011\n大阪市住之江区 北加賀屋2-3-15 紫光",
+    "tel": "06-6685-6280",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360018/"
+  },
+  {
+    "name": "居酒屋貝塚",
+    "address": "559-0013\n大阪市住之江区 御崎6丁目4-4",
+    "tel": "06-4702-1223",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360005/"
+  },
+  {
+    "name": "菜酒muchaムチャ",
+    "address": "554-0013\n大阪市此花区梅香 ３丁目32ー7 白百合荘1階",
+    "tel": "06-6468-3168",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs359964/"
+  },
+  {
+    "name": "焼肉　一番亭",
+    "address": "552-0014\n大阪市港区 八幡屋1-11-8",
+    "tel": "06-6575-0840",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs359775/"
+  },
+  {
+    "name": "居酒屋海賊",
+    "address": "552-0014\n大阪市港区 八幡屋2-6-1-115 南朝潮コーポ",
+    "tel": "06-6576-0377",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs359769/"
+  },
+  {
+    "name": "お好み焼　むらやま",
+    "address": "559-0017\n大阪市住之江区 中加賀屋3-6-14",
+    "tel": "06-6681-1563",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs359767/"
+  },
+  {
+    "name": "火焼ＰＷＯ",
+    "address": "559-0011\n大阪市住之江区 北加賀屋2丁目9－18",
+    "tel": "06-6625-8619",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs358091/"
+  },
+  {
+    "name": "ば～る K2",
+    "address": "551-0002\n大阪市大正区 三軒家東1-4-16",
+    "tel": "06-6585-9738",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs323721/"
+  },
+  {
+    "name": "麺めん亭",
+    "address": "552-0021\n大阪市港区 築港3-7-15-102",
+    "tel": "06-6574-9400",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs318555/"
+  },
+  {
+    "name": "Nan Dak",
+    "address": "550-0023\n大阪市西区 千代崎2丁目1-32",
+    "tel": "06-7494-8741",
+    "tags": [
+      "アジア・エスニック料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs306680/"
+  },
+  {
+    "name": "焼肉の牛太本陣 弁天町ベイタワー店",
+    "address": "552-0007\n大阪市港区 弁天1丁目2-2 ベイタワーイースト3F",
+    "tel": "06-6536-8829",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs302030/"
+  },
+  {
+    "name": "チャイナハウス 大雅",
+    "address": "559-0024\n大阪市住之江区 新北島1丁目6-11 西川マンション1階",
+    "tel": "06-6682-3900",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs294029/"
+  },
+  {
+    "name": "バーガー酒場 ハンバーガー・ママ",
+    "address": "551-0002\n大阪市大正区 三軒家東1-10-20",
+    "tel": "06-7410-7058",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs288092/"
+  },
+  {
+    "name": "シャインカフェ",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC O's棟 北館 2F",
+    "tel": "06-6655-0788",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs283571/"
+  },
+  {
+    "name": "クーズコンセルボ 南港ATC店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC O's棟北館２F",
+    "tel": "06-6657-5116",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs283570/"
+  },
+  {
+    "name": "金久右衛門 南港ATC店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC O's棟北館3F",
+    "tel": "06-6627-9527",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs283569/"
+  },
+  {
+    "name": "花京　大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-4-6",
+    "tel": "06-6643-9199",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs283558/"
+  },
+  {
+    "name": "焼肉 えむかん 住吉大社駅店",
+    "address": "558-0044\n大阪市住吉区 長峡町3-14 ショップ南海住吉内",
+    "tel": "00-0000-0000",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs280181/"
+  },
+  {
+    "name": "焼肉 えむかん 北加賀谷店",
+    "address": "559-0011\n大阪市住之江区 北加賀屋5-6-18 シンセイハイツT16",
+    "tel": "06-6681-1129",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs280180/"
+  },
+  {
+    "name": "焼肉 えむかん 粉浜店",
+    "address": "559-0001\n大阪市住之江区 粉浜2-10-43",
+    "tel": "06-6115-8889",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs280179/"
+  },
+  {
+    "name": "restaurant KOBO",
+    "address": "559-0003\n大阪市住之江区 安立3-8-4",
+    "tel": "080-3829-7401",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs280153/"
+  },
+  {
+    "name": "洋食&バル Gros Navet",
+    "address": "550-0002\n大阪市西区 江戸堀3-7-14 日宝江戸堀西ビル1F",
+    "tel": "06-6940-6806",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs279248/"
+  },
+  {
+    "name": "とさ一",
+    "address": "554-0014\n大阪市此花区 四貫島1-7-6 ハイマート千鳥橋1階",
+    "tel": "06-6465-6188",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs277834/"
+  },
+  {
+    "name": "カフェ・ド・クリエ ATC店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC　ITM棟2階",
+    "tel": "06-6115-8838",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs277816/"
+  },
+  {
+    "name": "居酒屋 藍",
+    "address": "550-0027\n大阪市西区 九条1-15-16",
+    "tel": "06-6583-7352",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs277103/"
+  },
+  {
+    "name": "TEPPAN華",
+    "address": "552-0002\n大阪市港区 市岡元町3-1-5-1F",
+    "tel": "06-6585-9905",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs243792/"
+  },
+  {
+    "name": "風月　USA",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサルシティウォーク5階",
+    "tel": "06-6463-0030",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs215666/"
+  },
+  {
+    "name": "IKEA　鶴浜　イケアレストラン",
+    "address": "551-0023\n大阪市大正区 鶴町2-24-55",
+    "tel": "06-6556-2754",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs213360/"
+  },
+  {
+    "name": "餃子の王将 弁天町市岡店",
+    "address": "552-0012\n大阪市港区 市岡1丁目4-3",
+    "tel": "06-6573-3694",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211350/"
+  },
+  {
+    "name": "餃子の王将 西九条店",
+    "address": "554-0012\n大阪市此花区 西九条6-1-134",
+    "tel": "06-6460-0615",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211326/"
+  },
+  {
+    "name": "餃子の王将 住之江駅前店",
+    "address": "559-0005\n大阪市住之江区 西住之江1-1-41",
+    "tel": "06-6675-6332",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211268/"
+  },
+  {
+    "name": "餃子の王将 玉出店",
+    "address": "559-0007\n大阪市住之江区 粉浜西1-4-3",
+    "tel": "06-6672-6910",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211241/"
+  },
+  {
+    "name": "BamVino港区本店",
+    "address": "552-0003\n大阪市港区 磯路２－１１－１８",
+    "tel": "06-6616-9559",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210781/"
+  },
+  {
+    "name": "焼肉食堂　かど家　北巽店",
+    "address": "544-0004\n大阪市生野区 巽北３-２０-１１",
+    "tel": "06-7221-2772",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210513/"
+  },
+  {
+    "name": "焼肉味よし",
+    "address": "559-0012\n大阪市住之江区 東加賀屋4-7-12",
+    "tel": "06-6686-7223",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210484/"
+  },
+  {
+    "name": "鉄板焼・お好み焼　粉吉",
+    "address": "550-0001\n大阪市西区 土佐堀3-3-10 土佐堀コーポラス101号",
+    "tel": "06-7221-2327",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210249/"
+  },
+  {
+    "name": "台湾料理味軒",
+    "address": "554-0011\n大阪市此花区 朝日2ー17ー2",
+    "tel": "06-6468-5152",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs205005/"
+  },
+  {
+    "name": "すし源",
+    "address": "550-0027\n大阪市西区 九条1丁目17番17号",
+    "tel": "06-6582-3117",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204979/"
+  },
+  {
+    "name": "立ち呑みの　さのや",
+    "address": "551-0002\n大阪市大正区 三軒家東1-4-16",
+    "tel": "00-0000-0000",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204970/"
+  },
+  {
+    "name": "焼肉カルビチャンプユニバーサルシティーウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2番61号 ユニバーサルシティーウォーク5階",
+    "tel": "06-6469-1029",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204230/"
+  },
+  {
+    "name": "手打ち一筋うどんきんぼし",
+    "address": "552-0001\n大阪市港区 波除三丁目五番九号 大幸ビル一階",
+    "tel": "06-6586-0300",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204197/"
+  },
+  {
+    "name": "焼肉やこや　大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-8-10 サンコウビル2F",
+    "tel": "06-6552-3050",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203946/"
+  },
+  {
+    "name": "養老乃瀧玉出店",
+    "address": "559-0007\n大阪市住之江区 粉浜西1-1-6 蘭ビル",
+    "tel": "06-6678-3903",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203923/"
+  },
+  {
+    "name": "寿司＆たこ焼き居酒屋　ハッチ",
+    "address": "552-0021\n大阪市港区 築港4-2-29",
+    "tel": "06-7709-0783",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203898/"
+  },
+  {
+    "name": "割烹　喜世",
+    "address": "559-0024\n大阪市住之江区 新北島1-1-14-101",
+    "tel": "06-6682-2806",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203892/"
+  },
+  {
+    "name": "ひらた",
+    "address": "552-0003\n大阪市港区 磯路3丁目1-9 サンライズスクウェアー",
+    "tel": "06-6536-8224",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203730/"
+  },
+  {
+    "name": "居酒屋　ふじよし",
+    "address": "552-0001\n大阪市港区 波除3-2-3",
+    "tel": "06-6581-2444",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203584/"
+  },
+  {
+    "name": "タリーズコーヒーザ パーク フロント ホテル店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-52",
+    "tel": "06-6131-8802",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203425/"
+  },
+  {
+    "name": "池や池や",
+    "address": "559-0016\n大阪市住之江区 西加賀屋1-1-50 池や池や",
+    "tel": "06-4702-6262",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203384/"
+  },
+  {
+    "name": "新助バール",
+    "address": "559-0024\n大阪市住之江区 新北島1-1-14 サンライフ住之江",
+    "tel": "06-4702-0300",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203383/"
+  },
+  {
+    "name": "きぬや食堂",
+    "address": "552-0011\n大阪市港区 南市岡3-11-22",
+    "tel": "06-6582-0868",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203379/"
+  },
+  {
+    "name": "お好み焼　鉄板焼き　太郎",
+    "address": "559-0012\n大阪市住之江区 東加賀屋3-14-20 岡本ハイツ",
+    "tel": "06-6683-2618",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203378/"
+  },
+  {
+    "name": "pargolo",
+    "address": "554-0014\n大阪市此花区 四貫島１ー１ー３９",
+    "tel": "06-6464-0651",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203148/"
+  },
+  {
+    "name": "⑥HUSBAND",
+    "address": "554-0012\n大阪市此花区 西九条3-12-17 みづほビル1階",
+    "tel": "06-6463-7788",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203120/"
+  },
+  {
+    "name": "モスバーガー市岡みなと通り店",
+    "address": "552-0012\n大阪市港区 市岡1-5-24 小来田ビル１階",
+    "tel": "06-6571-0860",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202981/"
+  },
+  {
+    "name": "ケンタッキーフライドチキン大阪ドーム店",
+    "address": "550-0023\n大阪市西区 千代崎3丁目中2番1号 京セラドーム2階",
+    "tel": "06-6586-2132",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202980/"
+  },
+  {
+    "name": "安兵衛",
+    "address": "554-0012\n大阪市此花区 西九条3-11-18",
+    "tel": "06-6468-4397",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202490/"
+  },
+  {
+    "name": "サンマルクカフェ＆バー ユニバーサル・シティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61",
+    "tel": "06-6463-3095",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs201824/"
+  },
+  {
+    "name": "マール弁天町",
+    "address": "552-0003\n大阪市港区 磯路2-12-1-104",
+    "tel": "06-6710-9742",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs201307/"
+  },
+  {
+    "name": "やきとり・居酒屋 ほんでん",
+    "address": "550-0022\n大阪市西区 本田3-2-12 ダイアパレス本田",
+    "tel": "06-6582-0045",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs201121/"
+  },
+  {
+    "name": "マリーケント",
+    "address": "554-0012\n大阪市此花区 西九条5-3-43",
+    "tel": "06-7506-2364",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs200422/"
+  },
+  {
+    "name": "炭焼ホルモンでこ",
+    "address": "546-0014\n大阪市東住吉区 鷹合4-13-22 鷹合マンション",
+    "tel": "090-1953-4022",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199982/"
+  },
+  {
+    "name": "寿し・魚料理　うお家",
+    "address": "559-0024\n大阪市住之江区 新北島1-5-25 マンション新北島102号室",
+    "tel": "06-6685-7856",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199957/"
+  },
+  {
+    "name": "焼鳥・鶏料理　とりの樹",
+    "address": "559-0024\n大阪市住之江区 新北島1-4-11 サニープレイス住之江103号室",
+    "tel": "06-6683-0660",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199956/"
+  },
+  {
+    "name": "えい吉",
+    "address": "540-0029\n大阪市中央区 本町橋7-17 トウセン本町橋ビル１０１号",
+    "tel": "06-6947-0577",
+    "tags": [
+      "鍋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199809/"
+  },
+  {
+    "name": "ふぐ右衛門",
+    "address": "554-0014\n大阪市此花区 四貫島1-5-3 ナポリ千鳥橋ビル1F",
+    "tel": "06-6147-7621",
+    "tags": [
+      "鍋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199326/"
+  },
+  {
+    "name": "88",
+    "address": "552-0021\n大阪市港区 築港3-8-8",
+    "tel": "090-3491-3380",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199138/"
+  },
+  {
+    "name": "居酒屋ダルバート",
+    "address": "550-0027\n大阪市西区 九条１－１５－１０ エンウエストビル",
+    "tel": "06-7709-5814",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198379/"
+  },
+  {
+    "name": "かき小屋本舗　牡蠣舟",
+    "address": "550-0001\n大阪市西区 土佐堀3-5 ぽんぽん船船着き場",
+    "tel": "06-7656-1924",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198184/"
+  },
+  {
+    "name": "かき小屋本舗　東住吉本店",
+    "address": "546-0022\n大阪市東住吉区 住道矢田6-14-9",
+    "tel": "06-7656-1924",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198183/"
+  },
+  {
+    "name": "CLUB STADIUM（クラブスタジアム）",
+    "address": "550-0023\n大阪市西区 千代崎3-中2-1 京セラドーム大阪",
+    "tel": "06-6586-3101",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198155/"
+  },
+  {
+    "name": "Fam ふぁむ",
+    "address": "559-0012\n大阪市住之江区 東加賀屋3-10-18",
+    "tel": "06-6686-1443",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197414/"
+  },
+  {
+    "name": "喫茶館プロコップ",
+    "address": "559-0007\n大阪市住之江区 粉浜西1-4-3 エバーグリーン住吉1-5",
+    "tel": "06-6673-5587",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197350/"
+  },
+  {
+    "name": "穂まれ",
+    "address": "559-0017\n大阪市住之江区 中加賀屋3-7-7",
+    "tel": "06-6654-8499",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197264/"
+  },
+  {
+    "name": "北海道料理　楠",
+    "address": "551-0031\n大阪市大正区 泉尾2-16-10",
+    "tel": "06-6554-4313",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197193/"
+  },
+  {
+    "name": "楼船さえ㐂",
+    "address": "551-0001\n大阪市大正区 三軒屋西1-1-14 TUGBOAT_TAISHO 川の駅",
+    "tel": "090-4267-7278",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197145/"
+  },
+  {
+    "name": "神戸元町ドリアユニバーサルシティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61　5階 ユニバーサルシティウォーク大阪",
+    "tel": "06-6467-5138",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197089/"
+  },
+  {
+    "name": "旨手羽家朝潮橋店",
+    "address": "552-0004\n大阪市港区 夕凪2-18-13",
+    "tel": "06-6576-0141",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196962/"
+  },
+  {
+    "name": "とんかつ一番2deux",
+    "address": "550-0003\n大阪市西区 京町堀3丁目8ー13 フドウ京町堀ハイツ102号",
+    "tel": "06-6131-9717",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196950/"
+  },
+  {
+    "name": "沖縄酒場　きじむな～の森",
+    "address": "551-0001\n大阪市大正区 三軒家西1-1-14 タグボート大正　2F",
+    "tel": "06-6552-2773",
+    "tags": [
+      "アジア・エスニック料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196492/"
+  },
+  {
+    "name": "小林商店直売所",
+    "address": "554-0021\n大阪市此花区 春日出北2-6-2",
+    "tel": "06-6462-3881",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196478/"
+  },
+  {
+    "name": "かかし亭",
+    "address": "538-0044\n大阪市鶴見区 放出東3-23-24",
+    "tel": "06-6962-7872",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196457/"
+  },
+  {
+    "name": "焼鳥おばんざい ゆうじ1972",
+    "address": "552-0003\n大阪市港区 磯路2-6-9 赤丸第一ビル101",
+    "tel": "06-6572-2755",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196432/"
+  },
+  {
+    "name": "金海",
+    "address": "559-0012\n大阪市住之江区 東加賀屋4丁目5番20号",
+    "tel": "06-6681-1034",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196421/"
+  },
+  {
+    "name": "魚河岸料理　明石",
+    "address": "552-0007\n大阪市港区 弁天5丁目11番2号",
+    "tel": "06-6572-0723",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196229/"
+  },
+  {
+    "name": "串カツ居酒屋　明日への克力",
+    "address": "559-0034\n大阪市住之江区 南港北２－１－１０ ATCオズ棟北館3階",
+    "tel": "06-6614-9955",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196206/"
+  },
+  {
+    "name": "たなかつや。",
+    "address": "559-0034\n大阪市住之江区 南港北２－１－１０ ATCオズ棟北館3階",
+    "tel": "06-6614-9955",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196205/"
+  },
+  {
+    "name": "松のや千鳥橋店",
+    "address": "554-0014\n大阪市此花区 四貫島1-1-2 千鳥橋駅南館",
+    "tel": "06-4804-1203",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196183/"
+  },
+  {
+    "name": "松屋 御崎店",
+    "address": "559-0013\n大阪市住之江区 御崎7-15-21",
+    "tel": "06-4702-6100",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196137/"
+  },
+  {
+    "name": "松屋 住之江公園店",
+    "address": "559-0024\n大阪市住之江区 新北島1-1-7 ビックドックプラザ1F",
+    "tel": "06-4702-5221",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196088/"
+  },
+  {
+    "name": "松屋 あびこ店",
+    "address": "558-0011\n大阪市住吉区 苅田5-19-17 メトロアビコ1F",
+    "tel": "06-6690-1320",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196064/"
+  },
+  {
+    "name": "酒のいえK",
+    "address": "559-0005\n大阪市住之江区 西住之江2-17-8",
+    "tel": "06-6671-6217",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194426/"
+  },
+  {
+    "name": "中華風居酒屋　千客万来",
+    "address": "552-0015\n大阪市港区 池島1-2-16",
+    "tel": "06-7410-0628",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194210/"
+  },
+  {
+    "name": "ワイン食堂　バルグラン　大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-8-11－2Ｆ",
+    "tel": "06-6556-3171",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194202/"
+  },
+  {
+    "name": "ワイン食堂　バルグラン　九条店",
+    "address": "550-0027\n大阪市西区 九条1-16-25",
+    "tel": "06-6585-6858",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194201/"
+  },
+  {
+    "name": "Agrim",
+    "address": "552-0007\n大阪市港区 弁天4-4-2 城福",
+    "tel": "06-6572-2882",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194198/"
+  },
+  {
+    "name": "串カツ　どて焼き　松栄",
+    "address": "551-0001\n大阪市大正区 三軒家西1-5-22",
+    "tel": "06-6554-8970",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194183/"
+  },
+  {
+    "name": "炭火焼鳥　hanna 花",
+    "address": "558-0031\n大阪市住吉区 沢之町1-8-21",
+    "tel": "06-4700-8715",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193855/"
+  },
+  {
+    "name": "くら寿司朝潮橋店",
+    "address": "552-0004\n大阪市港区 夕凪2丁目18番32号",
+    "tel": "06-6314-6187",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs310183/"
+  },
+  {
+    "name": "くら寿司住之江北島店",
+    "address": "559-0014\n大阪市住之江区 北島2-5-15",
+    "tel": "06-4702-5152",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193708/"
+  },
+  {
+    "name": "くら寿司長居店",
+    "address": "558-0003\n大阪市住吉区 長居1-2-3",
+    "tel": "06-4700-5237",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193701/"
+  },
+  {
+    "name": "くら寿司加賀屋店",
+    "address": "559-0012\n大阪市住之江区 東加賀屋1-10-26",
+    "tel": "06-6684-5581",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193700/"
+  },
+  {
+    "name": "済州",
+    "address": "559-0017\n大阪市住之江区 中加賀屋4-1-18",
+    "tel": "06-6683-2078",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193629/"
+  },
+  {
+    "name": "吉野家 ＪＲ西九条駅店",
+    "address": "554-0012\n大阪市此花区 西九条１丁目３２－１６",
+    "tel": "06-4804-8035",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193555/"
+  },
+  {
+    "name": "吉野家 朝潮橋店",
+    "address": "552-0014\n大阪市港区 八幡屋１丁目１－１５",
+    "tel": "06-4395-6088",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193554/"
+  },
+  {
+    "name": "吉野家 大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東１丁目１９－９",
+    "tel": "06-6556-2198",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193552/"
+  },
+  {
+    "name": "吉野家 玉出店",
+    "address": "559-0007\n大阪市住之江区 粉浜西１丁目１－２３",
+    "tel": "06-4701-6701",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193521/"
+  },
+  {
+    "name": "吉野家 住之江公園店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋２丁目８－２６",
+    "tel": "06-6684-2178",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193516/"
+  },
+  {
+    "name": "吉野家 長居店",
+    "address": "558-0004\n大阪市住吉区 長居東４丁目２－３",
+    "tel": "06-6690-2698",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193512/"
+  },
+  {
+    "name": "クック　ドゥ　イケダ",
+    "address": "550-0027\n大阪市西区 九条2丁目23番15号",
+    "tel": "06-6584-2981",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193339/"
+  },
+  {
+    "name": "ItalianBar CaNoah",
+    "address": "558-0011\n大阪市住吉区 苅田2-15-10 長居パークハイツ",
+    "tel": "06-7890-1960",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193011/"
+  },
+  {
+    "name": "月山 祐寿司",
+    "address": "554-0013\n大阪市此花区 梅香３丁目３３ー１０",
+    "tel": "06-6460-7897",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192999/"
+  },
+  {
+    "name": "居酒屋　小次郎",
+    "address": "599-0033\n大阪市住之江区 南港中2丁目1 カリヨンプラザ内",
+    "tel": "06-4703-1129",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192973/"
+  },
+  {
+    "name": "焼肉いろり庵",
+    "address": "599-0033\n大阪市住之江区 南港中2-1 カリヨンプラザ内",
+    "tel": "06-6614-2915",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192972/"
+  },
+  {
+    "name": "あぶり屋　まんま",
+    "address": "552-0001\n大阪市港区 波除３－２－１１",
+    "tel": "06-6584-1113",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192662/"
+  },
+  {
+    "name": "大正酒場　情熱ホルモン",
+    "address": "551-0001\n大阪市大正区 三軒家西１－２５－８",
+    "tel": "06-6553-4129",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192643/"
+  },
+  {
+    "name": "じゅうじゅううめぇ家　住之江店",
+    "address": "559-0024\n大阪市住之江区 新北島１－５－８",
+    "tel": "06-6686-8678",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192629/"
+  },
+  {
+    "name": "西九条酒場　情熱ホルモン",
+    "address": "554-0012\n大阪市此花区 西九条３－８－１７",
+    "tel": "06-6464-4129",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192618/"
+  },
+  {
+    "name": "焼肉五苑　大正店",
+    "address": "551-0003\n大阪市大正区 千島１－１３－１６",
+    "tel": "06-6555-6222",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192596/"
+  },
+  {
+    "name": "焼肉五苑　住之江店",
+    "address": "559-0024\n大阪市住之江区 新北島１－５－３３",
+    "tel": "06-6686-3669",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192590/"
+  },
+  {
+    "name": "梅の小町住之江公園店",
+    "address": "559-0024\n大阪市住之江区 新北島1丁目1-7 ビックドックプラザ2F",
+    "tel": "06-6625-8706",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192483/"
+  },
+  {
+    "name": "赤から住之江公園店",
+    "address": "559-0024\n大阪市住之江区 新北島1丁目1-7 ビックドックプラザ2F",
+    "tel": "06-6625-8705",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192482/"
+  },
+  {
+    "name": "千年の宴　インテックス大阪前店",
+    "address": "559-0034\n大阪市住之江区 南港北1-13-65 コスモプラザビル 1階",
+    "tel": "06-6616-0188",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192404/"
+  },
+  {
+    "name": "本場博多ラーメン・油そば　麺匠　一号艇",
+    "address": "558-0011\n大阪市住吉区 苅田7-12-19 北野マンション",
+    "tel": "06-6627-9595",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192023/"
+  },
+  {
+    "name": "呑処　津喜",
+    "address": "559-0012\n大阪市住之江区 東加賀屋４丁目７ー１１",
+    "tel": "06-6683-7241",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191466/"
+  },
+  {
+    "name": "焼き鳥居酒屋ゴリさん",
+    "address": "559-0011\n大阪市住之江区 北加賀屋2丁目12番13地",
+    "tel": "06-6684-0053",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191405/"
+  },
+  {
+    "name": "一笑閣",
+    "address": "554-0024\n大阪市此花区 島屋1-1-35",
+    "tel": "06-6147-2881",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190727/"
+  },
+  {
+    "name": "やきとり大吉",
+    "address": "552-0021\n大阪市港区 築港1-14-30 境目ビル1F",
+    "tel": "06-6577-6024",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190454/"
+  },
+  {
+    "name": "波平弁天町駅前店",
+    "address": "552-0003\n大阪市港区 磯路 1-6-23",
+    "tel": "06-6573-8411",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190381/"
+  },
+  {
+    "name": "丸得酒場 とくとく弁天町波除店",
+    "address": "552-0001\n大阪市港区 波除 3-8-7",
+    "tel": "06-6599-9929",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190380/"
+  },
+  {
+    "name": "王道居酒屋 のりを弁天町駅前店",
+    "address": "552-0002\n大阪市港区 市岡元町 3-8-7",
+    "tel": "06-6583-0220",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190376/"
+  },
+  {
+    "name": "王道居酒屋 のりを長居店",
+    "address": "558-0004\n大阪市住吉区 長居東 4-6-3 阪下ビルB1階",
+    "tel": "06-6697-3606",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190373/"
+  },
+  {
+    "name": "味まほろば",
+    "address": "558-0051\n大阪市住吉区 東粉浜3-11-9 ユニーブル住吉公園１F",
+    "tel": "06-6672-3715",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190296/"
+  },
+  {
+    "name": "立呑み　木村屋",
+    "address": "552-0012\n大阪市港区 市岡1－4－12",
+    "tel": "06-6571-2089",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190205/"
+  },
+  {
+    "name": "中国料理　唐朝",
+    "address": "550-0024\n大阪市西区 境川1-4-38",
+    "tel": "06-6583-0428",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190119/"
+  },
+  {
+    "name": "味空",
+    "address": "554-0022\n大阪市此花区 春日出中1-25-13 レリアンス1F",
+    "tel": "06-6461-0550",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189988/"
+  },
+  {
+    "name": "チャイニーズキッチン　上海",
+    "address": "551-0003\n大阪市大正区 千島1-18-12",
+    "tel": "06-6555-0039",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189977/"
+  },
+  {
+    "name": "ココス千鳥橋店",
+    "address": "554-0014\n大阪市此花区 四貫島1-1-4",
+    "tel": "06-6147-4132",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189949/"
+  },
+  {
+    "name": "ココス天保山マーケットプレース店",
+    "address": "552-0022\n大阪市港区 海岸通1-1-10 天保山マーケットプレース内",
+    "tel": "06-4395-7856",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189944/"
+  },
+  {
+    "name": "鳥焼　鳥タイム大正店",
+    "address": "551-0001\n大阪市大正区 三軒家西1-17-7",
+    "tel": "06-6556-9915",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189834/"
+  },
+  {
+    "name": "石窯バール　デコレ",
+    "address": "551-0001\n大阪市大正区 三軒家西1-5-10",
+    "tel": "06-6555-2139",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189654/"
+  },
+  {
+    "name": "もんじゃ彩",
+    "address": "554-0012\n大阪市此花区 西九条4丁目3-36 JUMAⅡビル　２階",
+    "tel": "06-6462-3751",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189572/"
+  },
+  {
+    "name": "居酒屋　千成",
+    "address": "551-0023\n大阪市大正区 鶴町2-8-16",
+    "tel": "06-6553-2251",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189539/"
+  },
+  {
+    "name": "海鮮居酒屋　はるか",
+    "address": "551-0031\n大阪市大正区 泉尾四丁目3ー23 イスズハイツベル101",
+    "tel": "06-65513969",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189494/"
+  },
+  {
+    "name": "ハイタッチ",
+    "address": "559-0024\n大阪市住之江区 新北島1-2-1 オスカードリーム1Fハイタッチ",
+    "tel": "06-6655-1334",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189421/"
+  },
+  {
+    "name": "KumaKafe",
+    "address": "552-0021\n大阪市港区 築港4-4-15",
+    "tel": "06-6572-2450",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs188516/"
+  },
+  {
+    "name": "ケンタッキーフライドチキン天保山店",
+    "address": "552-0022\n大阪市港区 海岸通１－３ 天保山マーケットプレイス",
+    "tel": "06-6576-5653",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs188009/"
+  },
+  {
+    "name": "tartaruga",
+    "address": "558-0011\n大阪市住吉区 苅田3-13-22 フローラルハイツ1F",
+    "tel": "06-6616-7146",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187999/"
+  },
+  {
+    "name": "ロイヤルホスト朝潮橋店",
+    "address": "552-0014\n大阪市港区 八幡屋1-8-8",
+    "tel": "06-6574-9711",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187817/"
+  },
+  {
+    "name": "ロイヤルホストおりおの店",
+    "address": "558-0032\n大阪市住吉区 遠里小野7-10-1",
+    "tel": "06-6693-0778",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187807/"
+  },
+  {
+    "name": "ロイヤルホスト帝塚山店",
+    "address": "558-0055\n大阪市住吉区 万代2-2-24",
+    "tel": "06-6674-3344",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187804/"
+  },
+  {
+    "name": "かつや住之江粉浜店",
+    "address": "559-0001\n大阪市住之江区 粉浜3-4-28",
+    "tel": "06-6676-5033",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187740/"
+  },
+  {
+    "name": "炭焼茶屋　やけぼっくい",
+    "address": "551-0001\n大阪市大正区 三軒家西1-4-17 大正シティハイツ",
+    "tel": "06-4394-6500",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187547/"
+  },
+  {
+    "name": "居酒屋 竜馬",
+    "address": "552-0005\n大阪市港区 田中2-14-9",
+    "tel": "06-6575-0035",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187365/"
+  },
+  {
+    "name": "京都北白川ラーメン魁力屋　イオン大阪ドームシティ店",
+    "address": "550-0023\n大阪市西区 千代崎３丁目13番1 イオン大阪ドームシティ店",
+    "tel": "06-6585-7814",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210755/"
+  },
+  {
+    "name": "立ち飲み なかもと",
+    "address": "552-0016\n大阪市港区 三先1-4-21",
+    "tel": "06-6571-1296",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187164/"
+  },
+  {
+    "name": "粉もん屋八　森小路店",
+    "address": "535-0022\n大阪市旭区 新森2丁目1-20",
+    "tel": "06-6180-3777",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187161/"
+  },
+  {
+    "name": "ほんもの焼肉　平安苑",
+    "address": "554-0021\n大阪市此花区 春日出北3-11-14",
+    "tel": "090-5651-5932",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187064/"
+  },
+  {
+    "name": "居酒屋 なかもと",
+    "address": "552-0001\n大阪市港区 波除3-9-6 中元ビル",
+    "tel": "06-6583-1802",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186302/"
+  },
+  {
+    "name": "居酒屋　夢咲亭　2号店",
+    "address": "554-0024\n大阪市此花区 島屋3ー1ー2",
+    "tel": "06-6468-6033",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186275/"
+  },
+  {
+    "name": "丸亀製麺住之江",
+    "address": "559-0011\n大阪市住之江区 北加賀屋3-1-63",
+    "tel": "06-6685-4822",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186200/"
+  },
+  {
+    "name": "とりどーる大正",
+    "address": "551-0003\n大阪市大正区 千島1-23-89",
+    "tel": "06-4394-9112",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186095/"
+  },
+  {
+    "name": "オトト水産",
+    "address": "551-0002\n大阪市大正区 三軒家東1-17-33-104",
+    "tel": "06-6551-8169",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185965/"
+  },
+  {
+    "name": "居酒屋　いのおか",
+    "address": "552-0016\n大阪市港区 三先2-13-1 アットイージ",
+    "tel": "06-6577-7708",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185945/"
+  },
+  {
+    "name": "スシローユニバーサル・シティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2番61号 3階",
+    "tel": "06-6463-7176",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs308541/"
+  },
+  {
+    "name": "スシロー大正店",
+    "address": "551-0003\n大阪市大正区 千島3-20-3",
+    "tel": "06-6554-3031",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185830/"
+  },
+  {
+    "name": "スシロー北加賀屋店",
+    "address": "559-0011\n大阪市住之江区 北加賀屋5-1-1",
+    "tel": "06-4702-7873",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185803/"
+  },
+  {
+    "name": "黒毛和牛ダイニング　様",
+    "address": "559-0034\n大阪市住之江区 南港北1-13-11 ハイアットリージェンシー大阪B1",
+    "tel": "06-6612-2941",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185745/"
+  },
+  {
+    "name": "THE MARKET BENTO",
+    "address": "551-0001\n大阪市大正区 三軒家西1-1-14 TUGBOAT_TAISHO",
+    "tel": "06-7175-9575",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198465/"
+  },
+  {
+    "name": "ザめしや　住之江店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋 ３－８－３１",
+    "tel": "06-4702-1161",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185644/"
+  },
+  {
+    "name": "広島お好み焼き　かじ多",
+    "address": "557-0041\n大阪市西成区 岸里1-3-10 ビックハイツ1階",
+    "tel": "06-6629-8155",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185450/"
+  },
+  {
+    "name": "和らび",
+    "address": "551-0031\n大阪市大正区 泉尾3-12-8",
+    "tel": "080-6633-5920",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185442/"
+  },
+  {
+    "name": "しのぶ庵　ユニバーサルシティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサル・シティウォーク大阪５F",
+    "tel": "06-4804-3848",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185228/"
+  },
+  {
+    "name": "伊勢屋",
+    "address": "552-0001\n大阪市港区 波除3-8-8",
+    "tel": "06-6584-5151",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185210/"
+  },
+  {
+    "name": "ロンフーダイニング　イオンモール大阪ドームシティ店",
+    "address": "550-0023\n大阪市西区 千代崎3-13-1 イオンモール大阪ドームシティ４Ｆ",
+    "tel": "06-6581-0038",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184594/"
+  },
+  {
+    "name": "やよい軒フォレオ大阪ドームシティ店",
+    "address": "550-0025\n大阪市西区 九条南1-12-33",
+    "tel": "06-6585-3101",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184425/"
+  },
+  {
+    "name": "濱いち",
+    "address": "554-0021\n大阪市此花区 春日出北1-4-13 濱いちビル",
+    "tel": "06-6461-0627",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184413/"
+  },
+  {
+    "name": "濱寿司",
+    "address": "554-0022\n大阪市此花区 春日出中1-25-15 濱ビル",
+    "tel": "06-6461-4228",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184412/"
+  },
+  {
+    "name": "高崎流居酒屋　道場　西九条店",
+    "address": "554-0012\n大阪市此花区 西九条3-16-26",
+    "tel": "06-6460-5678",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184345/"
+  },
+  {
+    "name": "居酒屋　仁",
+    "address": "550-0006\n大阪市西区 江之子島1-5-8 ロイヤルハイツたそがれB1",
+    "tel": "06-6445-6633",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184219/"
+  },
+  {
+    "name": "ひろおか",
+    "address": "552-0012\n大阪市港区 市岡2丁目11-16 ドエル市岡",
+    "tel": "06-6573-5739",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184162/"
+  },
+  {
+    "name": "串まん西九条店",
+    "address": "554-0012\n大阪市此花区 西九条4-3-37",
+    "tel": "06-6467-1192",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs183800/"
+  },
+  {
+    "name": "ニュークレヤ",
+    "address": "551-0002\n大阪市大正区 三軒家東1-9-20",
+    "tel": "06-4393-8909",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs183783/"
+  },
+  {
+    "name": "コーヒーショップＡＢＣ　地下西店",
+    "address": "535-0012\n大阪市旭区 千林2-2-15",
+    "tel": "06-6952-7787",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs183764/"
+  },
+  {
+    "name": "板前焼肉一笑 西九条店",
+    "address": "554-0012\n大阪市此花区 西九条3-14-15",
+    "tel": "06-6466-1129",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs306681/"
+  },
+  {
+    "name": "ゴンチャ　ザ パーク フロント ホテル店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-52-303 ザパークフロントホテル",
+    "tel": "090-6678-8979",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182968/"
+  },
+  {
+    "name": "餃子の王将南港ポートタウン店",
+    "address": "559-0033\n大阪市住之江区 南港中2-1-109",
+    "tel": "06-6613-5090",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182898/"
+  },
+  {
+    "name": "三好屋商店",
+    "address": "550-0025\n大阪市西区 九条南2-14-1 三好屋商店",
+    "tel": "06-6581-3448",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182538/"
+  },
+  {
+    "name": "浜ちゃん",
+    "address": "550-0027\n大阪市西区 九条3-21-3",
+    "tel": "06-6581-8204",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182378/"
+  },
+  {
+    "name": "パームガーデン舞洲 by ＷＢＦ",
+    "address": "554-0042\n大阪市此花区 北港緑地２丁目３番５７号",
+    "tel": "06-6465-4690",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182171/"
+  },
+  {
+    "name": "mon doux vie",
+    "address": "552-0012\n大阪市港区 市岡1-6-4 サンハイツ市岡　101",
+    "tel": "080-1406-8812",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182128/"
+  },
+  {
+    "name": "SUNBASH",
+    "address": "554-0012\n大阪市此花区 西九条3-16-28",
+    "tel": "06-6467-6262",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs181131/"
+  },
+  {
+    "name": "モスバーガー南港ATC店",
+    "address": "559-0034\n大阪市住之江区 南港北２丁目１-１０ ＡＴＣ Ｏ’ｓ北２階",
+    "tel": "06-6615-1510",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189871/"
+  },
+  {
+    "name": "モスバーガー 長居店",
+    "address": "558-0004\n大阪市住吉区 長居東　４－２－１０",
+    "tel": "06-4703-3322",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180629/"
+  },
+  {
+    "name": "菜花野",
+    "address": "552-0001\n大阪市港区 波除3-3-9 第二吉川ハイツ1階.2階",
+    "tel": "06-6584-4666",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180563/"
+  },
+  {
+    "name": "bistro la Mer",
+    "address": "558-0044\n大阪市住吉区 長峡町8-16 ライオンズ長峡1F",
+    "tel": "06-6676-2215",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180557/"
+  },
+  {
+    "name": "1968古潭イオンモール大阪ドームシティ店",
+    "address": "550-0023\n大阪市西区 千代崎3－13－1 イオンモール大阪ドームシティ",
+    "tel": "06-6583-1968",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180258/"
+  },
+  {
+    "name": "風神雷神",
+    "address": "554-0024\n大阪市此花区 島屋6－2－61 ユニバーサルシティウォーク大阪",
+    "tel": "06-4804-3855",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180255/"
+  },
+  {
+    "name": "たこ家輝　御幣島店",
+    "address": "555-0012\n大阪市西淀川区 御幣島2-8-17",
+    "tel": "06-6474-8899",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180138/"
+  },
+  {
+    "name": "たこ家輝　西九条店",
+    "address": "554-0012\n大阪市此花区 西九条2-5-18",
+    "tel": "06-6460-0009",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180137/"
+  },
+  {
+    "name": "たこ家輝",
+    "address": "555-0031\n大阪市西淀川区 出来島1-4-23",
+    "tel": "06-6478-8899",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180136/"
+  },
+  {
+    "name": "たこ家輝　千鳥橋店",
+    "address": "554-0014\n大阪市此花区 四貫島1-5-1",
+    "tel": "06-6465-8989",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180135/"
+  },
+  {
+    "name": "マガーリ食堂",
+    "address": "554-0012\n大阪市此花区 西九条3-11-18",
+    "tel": "06-6460-5750",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs319093/"
+  },
+  {
+    "name": "鮮魚と鴨 酒 蕎麦 みかど西九条店",
+    "address": "554-0012\n大阪市此花区 西九条3-11-18",
+    "tel": "06-6460-5750",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180112/"
+  },
+  {
+    "name": "博多もつ鍋いっぱち　あびこ本店",
+    "address": "558-0011\n大阪市住吉区 苅田７－４－２３ ハイマートあびこ１F",
+    "tel": "06-6694-8410",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180079/"
+  },
+  {
+    "name": "我孫子前焼そばセンター",
+    "address": "558-0032\n大阪市住吉区 遠里小野１－１１－１５ ショップ南海あびこ",
+    "tel": "06-4700-7030",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179841/"
+  },
+  {
+    "name": "どうとんぼり神座 住之江店",
+    "address": "559-0006\n大阪市住之江区 浜口西3丁目12-2",
+    "tel": "06-6655-0688",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs221663/"
+  },
+  {
+    "name": "八剣伝　弁天町店",
+    "address": "552-0007\n大阪市港区 弁天2-1-8 弁天コーポ107",
+    "tel": "06-6599-0818",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179623/"
+  },
+  {
+    "name": "互談や　インテックス大阪店",
+    "address": "559-0034\n大阪市住之江区 南港北１－５－１０２ インテックス大阪５号館２階",
+    "tel": "06-4703-0588",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179499/"
+  },
+  {
+    "name": "楽膳きわき",
+    "address": "552-0011\n大阪市港区 南市岡3-10-7",
+    "tel": "090-8237-5726",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179486/"
+  },
+  {
+    "name": "かつ庵",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5632",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179170/"
+  },
+  {
+    "name": "イスタンブール・テーブル",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5717",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179169/"
+  },
+  {
+    "name": "自家製麺 杵屋",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5634",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179168/"
+  },
+  {
+    "name": "串まる",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5631",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179166/"
+  },
+  {
+    "name": "桃谷いかやき屋",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5824",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179165/"
+  },
+  {
+    "name": "自由軒",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5821",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179164/"
+  },
+  {
+    "name": "牛の福",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5729",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179162/"
+  },
+  {
+    "name": "まぐろ屋　天",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5704",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179161/"
+  },
+  {
+    "name": "逢阪にこにこ庵",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5820",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179160/"
+  },
+  {
+    "name": "昆北",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5650",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179158/"
+  },
+  {
+    "name": "阿倍野屋",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5761",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179157/"
+  },
+  {
+    "name": "甚平",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5759",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179156/"
+  },
+  {
+    "name": "SUBWAY/ラ・クレープ・ド・天保山",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5570",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179155/"
+  },
+  {
+    "name": "丼丼亭",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5656",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179152/"
+  },
+  {
+    "name": "祭",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5652",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179151/"
+  },
+  {
+    "name": "ケンタッキーフライドチキン",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース",
+    "tel": "06-6576-5653",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179149/"
+  },
+  {
+    "name": "串家物語　ユニバーサルシティウォーク",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 UNIVERSAL CITY WALK 4F　402区画",
+    "tel": "06-6468-7833",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs177118/"
+  },
+  {
+    "name": "ながさき本店",
+    "address": "554-0012\n大阪市此花区 西九条3-15-10",
+    "tel": "06-6466-2014",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176883/"
+  },
+  {
+    "name": "餃子の王将　住之江店",
+    "address": "559-0024\n大阪市住之江区 新北島１－５－３３",
+    "tel": "06-6685-2468",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176827/"
+  },
+  {
+    "name": "ラーメン魁力屋　我孫子店",
+    "address": "558-0013\n大阪市住吉区 我孫子東１丁目５－２",
+    "tel": "06-6654-4156",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs218285/"
+  },
+  {
+    "name": "お好み焼きふる里",
+    "address": "554-0022\n大阪市此花区 春日出中2-13-24",
+    "tel": "06-6462-7148",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176530/"
+  },
+  {
+    "name": "GoodBBQ舞洲　オーチャードグラス",
+    "address": "554-0042\n大阪市此花区 北港緑地2-1-107 舞洲スポーツアイランド内",
+    "tel": "06-6460-1646",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176473/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋 マグ住之江店",
+    "address": "559-0023\n大阪市住之江区 泉一丁目1番82号 マグスミノエ内",
+    "tel": "06-6681-0955",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175361/"
+  },
+  {
+    "name": "しゃぶ菜　ユニバーサルシティーウォーク",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61",
+    "tel": "06-4804-3850",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175330/"
+  },
+  {
+    "name": "源家",
+    "address": "558-0011\n大阪市住吉区 苅田7-12-28 常盤ビル6号",
+    "tel": "06-6654-3338",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175220/"
+  },
+  {
+    "name": "黒船屋",
+    "address": "558-0011\n大阪市住吉区 苅田5-19-8 日伸マンション",
+    "tel": "06-6608-6333",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175219/"
+  },
+  {
+    "name": "BISTRO LAMPE",
+    "address": "550-0015\n大阪市西区 南堀江4-14-14 コートネクスト南堀江　1階",
+    "tel": "06-6568-9929",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175174/"
+  },
+  {
+    "name": "ふるさと住之江公園店",
+    "address": "559-0024\n大阪市住之江区 新北島3ー2ー４６ 東ビル１階",
+    "tel": "06-6686-3818",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175166/"
+  },
+  {
+    "name": "やきとり　乃ノ家分店",
+    "address": "551-0001\n大阪市大正区 三軒家西1-4-15",
+    "tel": "06-6552-3535",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175143/"
+  },
+  {
+    "name": "焼肉　くじら",
+    "address": "551-0001\n大阪市大正区 三軒家西1-16-17",
+    "tel": "06-7162-2566",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175142/"
+  },
+  {
+    "name": "やきとん　乃ノ家",
+    "address": "551-0001\n大阪市大正区 三軒家西1-4-8",
+    "tel": "06-6554-5050",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175141/"
+  },
+  {
+    "name": "おでん　乃ノ家",
+    "address": "551-0001\n大阪市大正区 三軒家西1-5-16",
+    "tel": "06-6553-9889",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175140/"
+  },
+  {
+    "name": "乃ノ家本店",
+    "address": "551-0001\n大阪市大正区 三軒家西1-4-15",
+    "tel": "06-7653-6224",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175139/"
+  },
+  {
+    "name": "キッチンマカロン",
+    "address": "551-0002\n大阪市大正区 三軒家東5-13-10 キッチンマカロン",
+    "tel": "06-6552-5150",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175136/"
+  },
+  {
+    "name": "炭火焼 柴家",
+    "address": "550-0027\n大阪市西区 九条1-17-17",
+    "tel": "06-6581-4880",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175012/"
+  },
+  {
+    "name": "居心伝　天保山店",
+    "address": "552-0021\n大阪市港区 築港４－２－１　 ハーバーウインズ天保山１Ｆ",
+    "tel": "06-6576-3731",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174836/"
+  },
+  {
+    "name": "いざかや飛ん馬",
+    "address": "558-0015\n大阪市住吉区 我孫子西２－１１－２６",
+    "tel": "06-6693-0394",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174765/"
+  },
+  {
+    "name": "味処やまもと",
+    "address": "551-0012\n大阪市大正区 平尾4-8-9 カサすずき1階",
+    "tel": "06-6555-9115",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174748/"
+  },
+  {
+    "name": "鳥貴族住之江公園店",
+    "address": "559-0024\n大阪市住之江区 新北島1-5-7",
+    "tel": "06-6682-1928",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174662/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋 住吉区長居公園前店",
+    "address": "558-0004\n大阪市住吉区 長居東四丁目1-12 パークサイド南栄ビル1F",
+    "tel": "06-6606-1512",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174557/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋 住吉区我孫子店",
+    "address": "558-0011\n大阪市住吉区 苅田五丁目19-26",
+    "tel": "06-6699-6266",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174556/"
+  },
+  {
+    "name": "大阪ふくちぁんラーメン　南加賀屋店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋4-1-20",
+    "tel": "06-6681-2630",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174492/"
+  },
+  {
+    "name": "ロッテリア　Ｎ．ＫＬＡＳＳ住ノ江店",
+    "address": "559-0005\n大阪市住之江区 西住之江１ー１ー４１",
+    "tel": "06-6675-1923",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174393/"
+  },
+  {
+    "name": "ロッテリア　オスカー住之江店",
+    "address": "559-0024\n大阪市住之江区 新北島１丁目２番１号",
+    "tel": "06-6684-2371",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174380/"
+  },
+  {
+    "name": "武いち",
+    "address": "550-0027\n大阪市西区 九条1-9-6 メゾンラフィネ１Ｆ",
+    "tel": "06-6583-1880",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174360/"
+  },
+  {
+    "name": "団欒中華　萬集楼",
+    "address": "552-0021\n大阪市港区 築港1-14-26",
+    "tel": "0120-57-3308",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174355/"
+  },
+  {
+    "name": "カフェ＆バルリーベル",
+    "address": "554-0031\n大阪市此花区 桜島１-1-35 リーベルホテル1F",
+    "tel": "06-6462-2222",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174170/"
+  },
+  {
+    "name": "ダイニングブリックサイド",
+    "address": "554-0031\n大阪市此花区 桜島１－１－３５ リーベルホテル3F",
+    "tel": "06-6462-2222",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174169/"
+  },
+  {
+    "name": "しろくまストア　西九条店",
+    "address": "554-0012\n大阪市此花区 西九条4-3-41 1階",
+    "tel": "06-6469-8111",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174090/"
+  },
+  {
+    "name": "焼肉タイム住之江店",
+    "address": "559-0014\n大阪市住之江区 北島2-7-38",
+    "tel": "06-6681-8929",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs255114/"
+  },
+  {
+    "name": "ワンカルビ大正店",
+    "address": "551-0003\n大阪市大正区 千島1-23-121 千島ガーデンモール内",
+    "tel": "06-6552-2941",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173581/"
+  },
+  {
+    "name": "うめし",
+    "address": "552-0016\n大阪市港区 三先2丁目13番地22号 朝潮ギャラクシービル103",
+    "tel": "06-6574-5305",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172822/"
+  },
+  {
+    "name": "サーティワンアイスクリーム　住之江北加賀屋ＲＳ店",
+    "address": "559-0011\n大阪市住之江区 北加賀屋2丁目3-23",
+    "tel": "06-6615-9931",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172745/"
+  },
+  {
+    "name": "サーティワンアイスクリーム　イオンモール大阪ドームシティ店",
+    "address": "550-0023\n大阪市西区 千代崎3丁目13-1 イオンモール大阪ドーム４F",
+    "tel": "06-6556-7531",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172743/"
+  },
+  {
+    "name": "ガスト大阪ＡＴＣ",
+    "address": "559-0034\n大阪市住之江区 南港北２丁目１番１０号 ＩＴＭ棟２階",
+    "tel": "06-6569-1502",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172526/"
+  },
+  {
+    "name": "ガスト住之江スポーツビレッジ",
+    "address": "559-0023\n大阪市住之江区 泉１丁目１番１０５号",
+    "tel": "06-6682-0581",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172525/"
+  },
+  {
+    "name": "ガスト住ノ江駅",
+    "address": "559-0005\n大阪市住之江区 西住之江１丁目１－４１ Ｎ．ＫＬＡＳＳ住ノ江２４号区画",
+    "tel": "06-6676-3050",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172524/"
+  },
+  {
+    "name": "ガスト我孫子町駅前",
+    "address": "558-0015\n大阪市住吉区 我孫子西２丁目３－１",
+    "tel": "06-6609-9886",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172515/"
+  },
+  {
+    "name": "バーミヤン大正千島",
+    "address": "551-0003\n大阪市大正区 千島１丁目２３－１２１ 千島ガーデンモール内",
+    "tel": "06-4394-5525",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172505/"
+  },
+  {
+    "name": "ガスト港弁天町",
+    "address": "552-0003\n大阪市港区 磯路２丁目２０番地１７",
+    "tel": "06-6577-2030",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172504/"
+  },
+  {
+    "name": "あべのたこやき　やまちゃん　ユニバーサルシティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサル・シティウォーク大阪",
+    "tel": "06-6467-5225",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172007/"
+  },
+  {
+    "name": "びっくりドンキーユニバーサル・シティ店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-82 ユニバーサル・シティビル4F",
+    "tel": "06-6147-5588",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs294003/"
+  },
+  {
+    "name": "かつや住之江北加賀屋店",
+    "address": "559-0011\n大阪市住之江区 北加賀屋2-3-23",
+    "tel": "06-6685-7777",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171979/"
+  },
+  {
+    "name": "びっくりドンキー住之江店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋4-7-40",
+    "tel": "06-6682-9451",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171964/"
+  },
+  {
+    "name": "とんかつかつ喜　玉出店",
+    "address": "559-0012\n大阪市住之江区 東加賀屋1-11-30",
+    "tel": "06-4702-6888",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171576/"
+  },
+  {
+    "name": "しゃぶ扇南港店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATCビル南館3階",
+    "tel": "06-6612-2911",
+    "tags": [
+      "鍋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171488/"
+  },
+  {
+    "name": "とんかついなば和幸 ユニバーサル・シティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋６丁目２ー６１ ユニバーサル・シティウォーク大阪5F",
+    "tel": "06-4804-3898",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171250/"
+  },
+  {
+    "name": "ウルフギャング・パック ピッツア バー 大阪 ザ パーク フロント ホテル店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-52-304",
+    "tel": "06-4804-1550",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171223/"
+  },
+  {
+    "name": "和食さと　住之江公園前店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋2-8-18",
+    "tel": "06-6686-2154",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171068/"
+  },
+  {
+    "name": "Cafe&Dining LOCUS",
+    "address": "558-0051\n大阪市住吉区 東粉浜2-9-15 丸和ビル",
+    "tel": "06-6671-7815",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170880/"
+  },
+  {
+    "name": "たんぽぽ北加賀屋店",
+    "address": "559-0001\n大阪市住之江区 北加賀屋2-12-13",
+    "tel": "06-6686-3777",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170867/"
+  },
+  {
+    "name": "たんぽぽ弁天町店",
+    "address": "552-0001\n大阪市港区 波除3-8-12",
+    "tel": "06-6584-1622",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170866/"
+  },
+  {
+    "name": "モスバーガーユニバーサルシティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61",
+    "tel": "06-4804-3813",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170851/"
+  },
+  {
+    "name": "北極星　天保山店",
+    "address": "552-0022\n大阪市港区 海岸通1-1-10 天保山マーケットプレース2階",
+    "tel": "06-6576-5823",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170840/"
+  },
+  {
+    "name": "Bar FREAK",
+    "address": "550-0027\n大阪市西区 九条1―１７―２２ 寺本ビル",
+    "tel": "080-2540-2834",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170442/"
+  },
+  {
+    "name": "鶴橋風月南港店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC O's棟3F",
+    "tel": "06-6615-5370",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170335/"
+  },
+  {
+    "name": "鶴橋風月弁天町店",
+    "address": "552-0007\n大阪市港区 弁天1-2-2 大阪ベイタワーイースト3F",
+    "tel": "06-6576-6665",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170331/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋 大正区三軒家店",
+    "address": "551-0002\n大阪市大正区 三軒家4-6-19",
+    "tel": "06-4394-9800",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170226/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋　 港区弁天町店",
+    "address": "552-0003\n大阪市港区 磯路2-20-21",
+    "tel": "06-6599-0751",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170225/"
+  },
+  {
+    "name": "丸源ラーメン住之江店",
+    "address": "559-0016\n大阪市住之江区 西加賀屋2-13-25",
+    "tel": "06-6685-2929",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170182/"
+  },
+  {
+    "name": "ポムの樹ユニバーサルシティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2番61号 ユニバーサルシティウォーク5F",
+    "tel": "06-4804-7105",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169855/"
+  },
+  {
+    "name": "焼鳥ながさき本店",
+    "address": "554-0012\n大阪市此花区 西九条3-15-10",
+    "tel": "06-6466-2014",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169418/"
+  },
+  {
+    "name": "満マル　弁天町店",
+    "address": "552-0001\n大阪市港区 波除3-9-2 弁天町駅前ビル１階",
+    "tel": "06-6568-9178",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169274/"
+  },
+  {
+    "name": "中華そば埜邑　弁天町店",
+    "address": "552-0001\n大阪市港区 波除3-9-2 弁天町駅前ビル１階",
+    "tel": "06-6568-9278",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169270/"
+  },
+  {
+    "name": "鳥貴族　大正駅前店",
+    "address": "551-0002\n大阪市大正区 三軒家東1-8-23",
+    "tel": "06-4394-3088",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169245/"
+  },
+  {
+    "name": "鳥貴族　弁天町店",
+    "address": "552-0001\n大阪市港区 波除3-8-8　2F",
+    "tel": "06-6584-3131",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169242/"
+  },
+  {
+    "name": "京都勝牛　ユニバーサルシティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサル・シティウォーク大阪 3F",
+    "tel": "06-6468-6887",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169116/"
+  },
+  {
+    "name": "京都勝牛　イオンモール大阪ドームシティ店",
+    "address": "550-0023\n大阪市西区 千代崎3-13-1 イオンモール大阪ドームシティー 4F",
+    "tel": "06-6584-2749",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169115/"
+  },
+  {
+    "name": "Gottie's BEEF　ユニバーサル・シティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサル・シティウォーク大阪 5F",
+    "tel": "06-6468-2000",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169114/"
+  },
+  {
+    "name": "テーブルオーダーバイキング 焼肉 王道　住之江店",
+    "address": "559-0024\n大阪市住之江区 新北島6-1-39",
+    "tel": "06-6686-8929",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168764/"
+  },
+  {
+    "name": "肉匠　牛虎　あびこ店",
+    "address": "558-0013\n大阪市住吉区 我孫子東2丁目7-5",
+    "tel": "06-6692-2941",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168605/"
+  },
+  {
+    "name": "会津屋ユニバーサル・シティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋６－２－６１－４１１ ユニバーサル・シティウォーク大阪TM４F",
+    "tel": "06-6467-1622",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168161/"
+  },
+  {
+    "name": "会津屋天保山店",
+    "address": "552-0022\n大阪市港区 海岸通り１－１－１０ 天保山マーケットプレイス",
+    "tel": "06-6576-5817",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168159/"
+  },
+  {
+    "name": "ぼてぢゅう　天保山店",
+    "address": "552-0022\n大阪市港区 海岸通り1-1-10 天保山マーケットプレース 2F",
+    "tel": "06-6576-5822",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168149/"
+  },
+  {
+    "name": "ひいろ亭",
+    "address": "558-0014\n大阪市住吉区 我孫子5-1-18",
+    "tel": "06-6609-6828",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168139/"
+  },
+  {
+    "name": "たこ酒場くれおーるＴＵＧＢＯＡＴ　ＴＡＩＳＨＯＵ",
+    "address": "551-0001\n大阪市大正区 三軒家西1-1-14（B-6)",
+    "tel": "06-6211-2203",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168130/"
+  },
+  {
+    "name": "家族亭　住之江店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋2-3-25",
+    "tel": "06-6685-0161",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs168046/"
+  },
+  {
+    "name": "そじ坊　大阪ベイタワー店",
+    "address": "552-0007\n大阪市港区 弁天1-2-3 大阪ベイタワーイースト３Ｆ",
+    "tel": "06-6574-7925",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192464/"
+  },
+  {
+    "name": "杵屋　南港ＡＴＣ ２F店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ＡＴＣビルＯ’Ｓ棟2F",
+    "tel": "06-6615-5309",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192463/"
+  },
+  {
+    "name": "丼丼亭　大阪ベイタワー店",
+    "address": "552-0007\n大阪市港区 弁天1-2-2 大阪ベイタワーイースト1Ｆ",
+    "tel": "06-6576-6185",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167851/"
+  },
+  {
+    "name": "丼丼亭　南港ＡＴＣ ２F店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ＡＴＣビルＯ’Ｓ棟2F",
+    "tel": "06-6615-5310",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167850/"
+  },
+  {
+    "name": "杵屋麦丸　大阪ユニバーサルシティウオーク店",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2-61 ユニバーサルシティウォーク大阪3F",
+    "tel": "06-4804-5015",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167837/"
+  },
+  {
+    "name": "杵屋　京セラドーム大阪店",
+    "address": "550-0023\n大阪市西区 千代崎3中2-1 京セラドーム2F",
+    "tel": "06-6586-1924",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167806/"
+  },
+  {
+    "name": "杵屋　南港ポートタウン店",
+    "address": "559-0033\n大阪市住之江区 南港中2-1-109 ポートタウンカリヨン館",
+    "tel": "06-6612-8016",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167791/"
+  },
+  {
+    "name": "鳥貴族ATC店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ATC　O's棟南館3F",
+    "tel": "06-6625-8828",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167777/"
+  },
+  {
+    "name": "居酒屋じゅん平",
+    "address": "551-0031\n大阪市大正区 泉尾4-3-4 ビックバーン１階",
+    "tel": "06-6553-5055",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167666/"
+  },
+  {
+    "name": "ラーメン＆Cafe　なにわ新風大正店",
+    "address": "551-0003\n大阪市大正区 千島1-1-41",
+    "tel": "06-6555-3377",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167649/"
+  },
+  {
+    "name": "サムギョプサルと鍋　y.s.s.",
+    "address": "552-0001\n大阪市港区 波除3-2-17",
+    "tel": "06-6581-5266",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167634/"
+  },
+  {
+    "name": "炭火焼鳥　匠",
+    "address": "535-0013\n大阪市旭区 森小路2-8-13",
+    "tel": "06-7710-1635",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167629/"
+  },
+  {
+    "name": "サガルマタ",
+    "address": "552-0021\n大阪市港区 築港4丁目2-31",
+    "tel": "06-6576-3385",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167626/"
+  },
+  {
+    "name": "やきやき酒場ブン太",
+    "address": "551-0002\n大阪市大正区 三軒家東1-17-32 一文字ビル1階",
+    "tel": "06-6552-0728",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167608/"
+  },
+  {
+    "name": "焼肉じゅじゅ庵東三国店",
+    "address": "532-0002\n大阪市淀川区 東三国4-11-4 新大阪明成ビル",
+    "tel": "06-6395-2933",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167587/"
+  },
+  {
+    "name": "焼肉じゅじゅ庵西中島店",
+    "address": "532-0011\n大阪市淀川区 西中島3-21-15 1F アクシスプラザビル",
+    "tel": "06-6886-3029",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167586/"
+  },
+  {
+    "name": "鯛出汁らーめん　琴ね　西九条店",
+    "address": "554-0012\n大阪市此花区 西九条3-14-15",
+    "tel": "06-6463-9800",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167543/"
+  },
+  {
+    "name": "活　鉄板焼き　森本",
+    "address": "552-0004\n大阪市港区 夕凪2-18-8",
+    "tel": "06-7508-3310",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167518/"
+  },
+  {
+    "name": "寿司ダイニングＳａｂｕ",
+    "address": "559-0011\n大阪市住之江区 北加賀屋１－４－２６ ニュー北加賀屋マンション",
+    "tel": "06-6655-1001",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167350/"
+  },
+  {
+    "name": "ゆずっこ あびこ店",
+    "address": "558-0011\n大阪市住吉区 苅田7-12-29 はりまやあびこビル7F",
+    "tel": "06-6699-2718",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167444/"
+  },
+  {
+    "name": "ユニバーサルスタジオジャパン",
+    "address": "554-0031\n大阪市此花区 桜島2丁目1番33号",
+    "tel": "0570-20-0606",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167288/"
+  },
+  {
+    "name": "すし半　大正店",
+    "address": "551-0001\n大阪市大正区 三軒家西1-26-2",
+    "tel": "06-6551-8108",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167159/"
+  },
+  {
+    "name": "すし半　市岡店",
+    "address": "552-0011\n大阪市港区 南市岡3-11-24",
+    "tel": "06-6582-1554",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167156/"
+  },
+  {
+    "name": "大阪アメリカ村甲賀流　　　　　　ユニバ－サルシティウォ－ク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2番61号",
+    "tel": "06-6467-5102",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167136/"
+  },
+  {
+    "name": "七人の盗賊",
+    "address": "552-0001\n大阪市港区 波除3-8-18 ル・パンタン",
+    "tel": "06-6583-7277",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167024/"
+  },
+  {
+    "name": "SUNSET2117",
+    "address": "551-0001\n大阪市大正区 三軒家西１－１－１４ TUGBOAT　TAISHO　B棟２F",
+    "tel": "06-6554-9670",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167023/"
+  },
+  {
+    "name": "nolboo",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサルシティウォーク５Ｆ",
+    "tel": "06-6460-2147",
+    "tags": [
+      "アジア・エスニック料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166951/"
+  },
+  {
+    "name": "屋台居酒屋 大阪 満マル 西九条南店",
+    "address": "554-0012\n大阪市此花区 西九条４丁目１－２７",
+    "tel": "06-6131-9898",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166894/"
+  },
+  {
+    "name": "回転寿司新竹　大正店",
+    "address": "551-0031\n大阪市大正区 泉尾3-12-12 泉尾商店街２番街",
+    "tel": "06-6551-3201",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166187/"
+  },
+  {
+    "name": "回転寿司新竹　ベイタワー店",
+    "address": "552-0007\n大阪市港区 弁天1-2-2 大阪ベイタワーイースト３F",
+    "tel": "06-6576-6616",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166186/"
+  },
+  {
+    "name": "かごの屋　長居西店",
+    "address": "558-0041\n大阪市住吉区 南住吉2-1-18",
+    "tel": "06-6605-7707",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166107/"
+  },
+  {
+    "name": "かごの屋　大阪ドームシティ店",
+    "address": "550-0023\n大阪市西区 千代崎３丁目南2-13",
+    "tel": "06-6582-0015",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166088/"
+  },
+  {
+    "name": "焼肉　伊まりや",
+    "address": "558-0011\n大阪市住吉区 苅田7-6-2",
+    "tel": "06-6699-2855",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165956/"
+  },
+  {
+    "name": "鉄板ダイニングＯＫＯＮＯＭＩＹＡ",
+    "address": "550-0025\n大阪市西区 九条南2丁目16-7",
+    "tel": "06-6582-8543",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165928/"
+  },
+  {
+    "name": "やきとり雷鳥",
+    "address": "551-0002\n大阪市大正区 三軒家東1-18-6",
+    "tel": "06-6555-0102",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165679/"
+  },
+  {
+    "name": "Bonne Chance",
+    "address": "552-0021\n大阪市港区 築港1-14-8",
+    "tel": "06-6576-0285",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165662/"
+  },
+  {
+    "name": "ビストロ　ベッセ・ヴォワール",
+    "address": "551-0001\n大阪市大正区 三軒家西１－４－１７ グランパレス大正駅前１F",
+    "tel": "06-6553-6916",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165525/"
+  },
+  {
+    "name": "お好み焼き巽",
+    "address": "544-0012\n大阪市生野区 巽西2-12-28",
+    "tel": "06-7161-3833",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164959/"
+  },
+  {
+    "name": "鶴橋風月　天保山店",
+    "address": "552-0022\n大阪市港区 海岸通1-1-10 天保山マーケットプレース　3階",
+    "tel": "06-6576-5748",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164916/"
+  },
+  {
+    "name": "焼肉レストラン　ソウル",
+    "address": "552-0007\n大阪市港区 弁天 3-22-11",
+    "tel": "06-6574-0550",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164849/"
+  },
+  {
+    "name": "回転寿司・海鮮丼　蔵銀",
+    "address": "552-0022\n大阪市港区 海岸通1-1-10 天保山マーケットプレース 2F",
+    "tel": "06-6576-5741",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164853/"
+  },
+  {
+    "name": "麺屋　蔵政",
+    "address": "552-0022\n大阪市港区 海岸通1-1-10 天保山マーケットプレース 2F",
+    "tel": "06-6576-5660",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164852/"
+  },
+  {
+    "name": "帝塚山本店　帝塚山季",
+    "address": "558-0054\n大阪市住吉区 帝塚山東1-4-12",
+    "tel": "06-6671-5840",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164815/"
+  },
+  {
+    "name": "薩摩郷土料理・名物もも炭火焼　ぢどり亭　弁天町",
+    "address": "552-0001\n大阪市港区 波除3-3-10 吉川マンション",
+    "tel": "06-6582-7289",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164308/"
+  },
+  {
+    "name": "炭火ダイニングはや 天保山店",
+    "address": "552-0021\n大阪市港区 築港4-3-26",
+    "tel": "06-6577-3088",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164299/"
+  },
+  {
+    "name": "居酒屋　四季",
+    "address": "559-0001\n大阪市住之江区 粉浜1-13-17",
+    "tel": "06-6671-9991",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163773/"
+  },
+  {
+    "name": "めしや宮本むなし JR大正駅前店",
+    "address": "551-0001\n大阪市大正区 三軒家西1-16-18 栄大正ビル 1Ｆ",
+    "tel": "06-6554-7674",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163857/"
+  },
+  {
+    "name": "めしや宮本むなし パウ住之江公園店",
+    "address": "559-0024\n大阪市住之江区 新北島1-1-B",
+    "tel": "06-6685-0674",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163849/"
+  },
+  {
+    "name": "満マルあびこ店",
+    "address": "558-0011\n大阪市住吉区 苅田5丁目19－7　 シルバーハイツ一階",
+    "tel": "06-6657-5668",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163755/"
+  },
+  {
+    "name": "満マル長居店",
+    "address": "558-8004\n大阪市住吉区 長居東4－3－56",
+    "tel": "06-6654-9399",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163754/"
+  },
+  {
+    "name": "ＢｏｏＢｏｏキッチン長居店",
+    "address": "558-8004\n大阪市住吉区 長居東4－1－12　 パークサイド南栄ビル1階",
+    "tel": "06-7709-1847",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163753/"
+  },
+  {
+    "name": "焼き鳥きらく",
+    "address": "559-0003\n大阪市住之江区 安立2-7-7",
+    "tel": "06-6672-1194",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163040/"
+  },
+  {
+    "name": "森とリルのＢＢＱフィールド",
+    "address": "554-0042\n大阪市此花区 北港緑地2-3-75 ホテル・ロッジ舞洲",
+    "tel": "06-6460-6688",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163020/"
+  },
+  {
+    "name": "舞洲キッチン",
+    "address": "554-0042\n大阪市此花区 北港緑地2-3-75 ホテル・ロッジ舞洲",
+    "tel": "06-6460-6688",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163019/"
+  },
+  {
+    "name": "AKASHIYA弁天町",
+    "address": "552-0001\n大阪市港区 波除3-3-6",
+    "tel": "06-6585-3737",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162652/"
+  },
+  {
+    "name": "SEA SAW",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 海遊館エントランスビル２階",
+    "tel": "06-6576-5751",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162183/"
+  },
+  {
+    "name": "Café R.O.F",
+    "address": "552-0022\n大阪市港区 海岸通1-1-1 海遊館メインビル４階",
+    "tel": "06-6576-5610",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162182/"
+  },
+  {
+    "name": "炭火焼肉　三先肉焼屋",
+    "address": "552-0016\n大阪市港区 三先1-10-34",
+    "tel": "06-6571-4129",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162164/"
+  },
+  {
+    "name": "炭火焼肉　此花肉焼屋",
+    "address": "554-0013\n大阪市此花区 梅香3-26-9",
+    "tel": "06-6465-4129",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162163/"
+  },
+  {
+    "name": "道頓堀くくるユニバーサル・シティウォーク大阪TM店　",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 411-2区画",
+    "tel": "06-6878-9262",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162055/"
+  },
+  {
+    "name": "黒毛和牛　焼肉一　市岡店",
+    "address": "552-0003\n大阪市港区 磯路3-8-24",
+    "tel": "06-6573-2911",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161922/"
+  },
+  {
+    "name": "黒毛和牛　焼肉一　九条店",
+    "address": "550-0027\n大阪市西区 九条1-6-20",
+    "tel": "06-6585-2989",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161919/"
+  },
+  {
+    "name": "ババ・ガンプ・シュリンプ大阪",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサルシティウォーク大阪5階",
+    "tel": "06-4804-3880",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161135/"
+  },
+  {
+    "name": "ハードロックカフェユニバーサル・シティウォーク大阪",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサル・シティウォーク大阪3,4階",
+    "tel": "06-4804-3870",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161134/"
+  },
+  {
+    "name": "ホルモン本舗 長居店",
+    "address": "558-0004\n大阪市住吉区 長居東3丁目14-22",
+    "tel": "06-6691-8929",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161041/"
+  },
+  {
+    "name": "にぎり長次郎北加賀谷店",
+    "address": "559-0011\n大阪市住之江区 北加賀屋2丁目2-21",
+    "tel": "06-6684-2366",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs160899/"
+  },
+  {
+    "name": "洋食屋なにわ亭",
+    "address": "550-0006\n大阪市西区 江之子島1-6-2 地下一階 奥内第8ビル",
+    "tel": "06-6445-8638",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs159191/"
+  },
+  {
+    "name": "焼肉　微吟",
+    "address": "554-0021\n大阪市此花区 春日出北２－１５－２９",
+    "tel": "06-6461-8767",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs159186/"
+  },
+  {
+    "name": "お料理まほろ",
+    "address": "551-0001\n大阪市大正区 三軒家西1-25-4",
+    "tel": "06-6554-7776",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs159113/"
+  },
+  {
+    "name": "海ごこち　あびこ店",
+    "address": "558-0011\n大阪市住吉区 苅田5-19-26",
+    "tel": "06-7890-7888",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs159054/"
+  },
+  {
+    "name": "矢場とん　大丸心斎橋店",
+    "address": "542-0085\n大阪市中央区 心斎橋1-7-1 大丸心斎橋店本館10階",
+    "tel": "06-6241-8810",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158920/"
+  },
+  {
+    "name": "PIZZERIA　DA　DOTS",
+    "address": "551-0001\n大阪市大正区 三軒家西1-1-14 TUGBOAT　TAISHO内",
+    "tel": "06-4967-4064",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158822/"
+  },
+  {
+    "name": "モアナキッチン ユニバーサル・シティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサルシティウォーク5F",
+    "tel": "06-6940-7517",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158813/"
+  },
+  {
+    "name": "SARAS CAFE & BRASSERIE",
+    "address": "552-0007\n大阪市港区 弁天1-2-1 アートホテル大阪ベイタワー2F",
+    "tel": "06-6577-1117",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs274922/"
+  },
+  {
+    "name": "SARAS DELI＆PASTRY",
+    "address": "552-0007\n大阪市港区 弁天1-2-1 アートホテル大阪ベイタワー2F",
+    "tel": "06-6573-3132",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158761/"
+  },
+  {
+    "name": "鉄板焼RURI",
+    "address": "552-0007\n大阪市港区 弁天1-2-1 アートホテル大阪ベイタワー20F",
+    "tel": "06-6573-3145",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158760/"
+  },
+  {
+    "name": "割烹みなと",
+    "address": "552-0007\n大阪市港区 弁天1-2-1 アートホテル大阪ベイタワー20F",
+    "tel": "06-6573-3202",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158759/"
+  },
+  {
+    "name": "SKYBUFFET51",
+    "address": "552-0007\n大阪市港区 弁天1-2-1 アートホテル大阪ベイタワー51F",
+    "tel": "06-6577-1101",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158758/"
+  },
+  {
+    "name": "鳥貴族西九条店",
+    "address": "554-0012\n大阪市此花区 西九条3-15-24 中島ビル1F",
+    "tel": "06-6464-2531",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158710/"
+  },
+  {
+    "name": "味ごころ　四季彩",
+    "address": "558-0023\n大阪市住吉区 山之内1-5-16",
+    "tel": "06-6692-5445",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158594/"
+  },
+  {
+    "name": "ダイニングがんがん",
+    "address": "547-0005\n大阪市平野区 加美西1-15-9",
+    "tel": "06-6791-4911",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158570/"
+  },
+  {
+    "name": "ダルブリガンテ",
+    "address": "553-0003\n大阪市福島区 福島3丁目6-14",
+    "tel": "06-6451-4605",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158169/"
+  },
+  {
+    "name": "地鶏食彩　陶",
+    "address": "554-0012\n大阪市此花区 西九条3－13－2 HBBビル１F",
+    "tel": "06-6462-0333",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158168/"
+  },
+  {
+    "name": "焼肉まえだ",
+    "address": "552-0003\n大阪市港区 磯路1-1-17",
+    "tel": "06-6576-2929",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158160/"
+  },
+  {
+    "name": "や台ずし　あびこ町",
+    "address": "558-0011\n大阪市住吉区 苅田7-12-34",
+    "tel": "06-6692-7128",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158259/"
+  },
+  {
+    "name": "や台ずし　九条ナインモール町",
+    "address": "550-0027\n大阪市西区 九条1-16-23",
+    "tel": "06-6581-1528",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158241/"
+  },
+  {
+    "name": "LA VIE 1923",
+    "address": "552-0022\n大阪市港区 海岸通2-6-39",
+    "tel": "06-6573-3110",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158228/"
+  },
+  {
+    "name": "AKARENGA STEAK HOUSE",
+    "address": "552-0022\n大阪市港区 海岸通2-6-39",
+    "tel": "06-6573-3100",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158227/"
+  },
+  {
+    "name": "こてこて西九条",
+    "address": "554-0012\n大阪市此花区 西九条4-1-23",
+    "tel": "06-4804-1580",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158182/"
+  },
+  {
+    "name": "バイキング左近　ATC店",
+    "address": "559-0034\n大阪市住之江区 南港北2-1-10 ＡＴＣビルO's棟 南館2階",
+    "tel": "06-6613-0284",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158164/"
+  },
+  {
+    "name": "ホテルソビアル大阪ドーム前　レストランモリノ",
+    "address": "551-0002\n大阪市大正区 三軒家東１－１７－２９　１階",
+    "tel": "06-6552-8011",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs157914/"
+  },
+  {
+    "name": "たこ焼き王国",
+    "address": "552-2201\n大阪市港区 築港3-9-8",
+    "tel": "06-6567-9194",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156707/"
+  },
+  {
+    "name": "炙り家すやま",
+    "address": "551-0002\n大阪市大正区 三軒家東1-8-27",
+    "tel": "06-6537-9116",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156392/"
+  },
+  {
+    "name": "居酒屋天下一",
+    "address": "554-0012\n大阪市此花区 西九条１丁目２２番１３号",
+    "tel": "06-6463-9598",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156312/"
+  },
+  {
+    "name": "すし処　裕喜",
+    "address": "553-0007\n大阪市福島区 大開1-16-25 ミカドマンション1F",
+    "tel": "06-6460-6477",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156289/"
+  },
+  {
+    "name": "焼肉酒場　玄家",
+    "address": "5520021\n大阪市港区 築港4-3-21",
+    "tel": "06-6576-2941",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156362/"
+  },
+  {
+    "name": "鉄板焼き　もり家",
+    "address": "5520021\n大阪市港区 築港3-8-5",
+    "tel": "06-6574-2715",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156361/"
+  },
+  {
+    "name": "本格四川料理 中村屋",
+    "address": "547-0044\n大阪市平野区 平野本町1-15-19",
+    "tel": "06-6793-9388",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156235/"
+  },
+  {
+    "name": "銀杏",
+    "address": "554-0014\n大阪市此花区 四貫島　1丁目７－６ 千鳥橋ハイマート1階",
+    "tel": "06-6466-1008",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156172/"
+  },
+  {
+    "name": "居酒屋福家",
+    "address": "554-0012\n大阪市此花区 西九条3-16-23",
+    "tel": "06-6461-7558",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156137/"
+  },
+  {
+    "name": "まる阿波座",
+    "address": "550-0004\n大阪市西区 靱本町3-10-23 あわやビル一階",
+    "tel": "06-6479-1125",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156116/"
+  },
+  {
+    "name": "レッドロブスターユニバーサルシティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサルシティウォーク５F",
+    "tel": "06-6940-6351",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156115/"
+  },
+  {
+    "name": "愉快酒場加島店",
+    "address": "532-0031\n大阪市淀川区 加島3丁目中2-3",
+    "tel": "06-6308-2911",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156086/"
+  },
+  {
+    "name": "拉麺屋　めん塾",
+    "address": "546-0002\n大阪市東住吉区 杭全6－5－1",
+    "tel": "090-6604-1620",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155980/"
+  },
+  {
+    "name": "STAR DINER（スターダイナー）",
+    "address": "550-0023\n大阪市西区 千代崎3-中2-1 京セラドーム大阪2F",
+    "tel": "06-6586-3101",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155971/"
+  },
+  {
+    "name": "luvwine大正店",
+    "address": "551-0002\n大阪市大正区 三軒家東1町目4-13-2F",
+    "tel": "06-6675-9050",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156159/"
+  },
+  {
+    "name": "木曽路住之江公園店",
+    "address": "559-0015\n大阪市住之江区 南加賀屋3-3-2",
+    "tel": "06-6681-6655",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155999/"
+  },
+  {
+    "name": "山形牛焼肉　うし昌",
+    "address": "558-0011\n大阪市住吉区 苅田7-10-10",
+    "tel": "06-6695-6600",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155099/"
+  },
+  {
+    "name": "がんこ天保山店",
+    "address": "552-0022\n大阪市港区 海岸通1‐1‐10 天保山マーケットプレイス 3F",
+    "tel": "06-6576-5708",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155069/"
+  },
+  {
+    "name": "がんこユニバーサル・シティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサル・シティーウォーク大阪 5F",
+    "tel": "06-4804-5255",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155068/"
+  },
+  {
+    "name": "ひろ",
+    "address": "544-0014\n大阪市生野区 巽東1-1-31",
+    "tel": "06-6751-6562",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154939/"
+  },
+  {
+    "name": "ホテル近鉄ユニバーサル・シティ　カジュアルレストラン　イーポック",
+    "address": "554-0024\n大阪市此花区 島屋6-2-68",
+    "tel": "06-6465-6030",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154870/"
+  },
+  {
+    "name": "焼き鳥　かんぱ　御幣島店",
+    "address": "555-0013\n大阪市西淀川区 千舟1-1-23",
+    "tel": "06-6474-9810",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154255/"
+  },
+  {
+    "name": "焼き鳥　かんぱ　大和田店",
+    "address": "555-0032\n大阪市西淀川区 大和田4-1-24",
+    "tel": "06-6472-7734",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154254/"
+  },
+  {
+    "name": "トップ・オブ・ユニバーサル",
+    "address": "554-0024\n大阪市此花区 島屋6丁目2-45 ホテル京阪ユニバーサル・タワー32階",
+    "tel": "06-6465-0360",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154143/"
+  },
+  {
+    "name": "ウエンディーズ・ファーストキッチン天保山マーケットプレース店",
+    "address": "552-0022\n大阪市港区 海岸通１－１－１０ 天保山マーケットプレース２F",
+    "tel": "06-6576-5659",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154135/"
+  },
+  {
+    "name": "ぼて茶屋",
+    "address": "546-0014\n大阪市東住吉区 鷹合2-17-30",
+    "tel": "06-66991187",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153760/"
+  },
+  {
+    "name": "酒菜やいしもん　西中島店",
+    "address": "532-0011\n大阪市淀川区 西中島4－7－12 新大阪スターハイツ１Ｆ",
+    "tel": "06-4862-7141",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153733/"
+  },
+  {
+    "name": "十割蕎麦　香寿庵　住之江本店",
+    "address": "559-0005\n大阪市住之江区 西住之江２－１６－１５",
+    "tel": "06-7712-8322",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153739/"
+  },
+  {
+    "name": "居酒屋ジャック",
+    "address": "559-0002\n大阪市住之江区 浜口東3-11-8 南海住之江ユーリプラザ",
+    "tel": "06-6674-6560",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153684/"
+  },
+  {
+    "name": "居酒屋いざ新",
+    "address": "552-0001\n大阪市港区 波除3-4-7-1F",
+    "tel": "06-6584-9000",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153607/"
+  },
+  {
+    "name": "笑家",
+    "address": "551-0001\n大阪市大正区 三軒家西1-2-1",
+    "tel": "06-6551-1447",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153575/"
+  },
+  {
+    "name": "鎌倉パスタ　ユニバーサルシティウォーク店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61",
+    "tel": "06-6467-5309",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153648/"
+  },
+  {
+    "name": "鎌倉パスタ　北加賀屋店",
+    "address": "559-0016\n大阪市住之江区 西加賀屋2丁目13-24",
+    "tel": "06-6682-5309",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153641/"
+  },
+  {
+    "name": "さくら",
+    "address": "554-0012\n大阪市此花区 西九条3-11-28",
+    "tel": "06-6450-8177",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153610/"
+  },
+  {
+    "name": "しん左衛門",
+    "address": "554-0012\n大阪市此花区 西九条3-11-27",
+    "tel": "06-6462-4716",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153609/"
+  },
+  {
+    "name": "わさびの花",
+    "address": "554-0012\n大阪市此花区 西九条3-16-23",
+    "tel": "06-6460-8181",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153608/"
+  },
+  {
+    "name": "炭のあかり松本",
+    "address": "558-0051\n大阪市住吉区 東粉浜1-8-19",
+    "tel": "06-6655-1277",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153566/"
+  },
+  {
+    "name": "大戸屋ごはん処ユニバーサルシティ店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-68 ホテル近鉄ユニバーサル・シティ5F",
+    "tel": "06-6461-0113",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153150/"
+  },
+  {
+    "name": "会席料理・仕出し　一平",
+    "address": "559-0001\n大阪市住之江区 粉浜3-10-18",
+    "tel": "0120-77-9130",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153051/"
+  },
+  {
+    "name": "丹頂",
+    "address": "552-0021\n大阪市港区 築港３－８－７",
+    "tel": "06-6576-6826",
+    "tags": [
+      "ラーメン・つけ麺",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153009/"
+  },
+  {
+    "name": "炭火焼　櫻坊",
+    "address": "552-0004\n大阪市港区 夕凪２-１７-７ 拓マンション1F",
+    "tel": "06-6577-8994",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152937/"
+  },
+  {
+    "name": "洋食にし",
+    "address": "559-0012\n大阪市住之江区 東加賀屋2-14-19",
+    "tel": "06-6115-6797",
+    "tags": [
+      "洋食・西洋料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152917/"
+  },
+  {
+    "name": "旬味まゆとろ",
+    "address": "553-0005\n大阪市福島区 野田4丁目1番39号",
+    "tel": "06-6469-1000",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152757/"
+  },
+  {
+    "name": "得正　あびこ店",
+    "address": "558-0011\n大阪市住吉区 苅田９丁目１５ー３８",
+    "tel": "06-6694-7341",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152738/"
+  },
+  {
+    "name": "ふる里",
+    "address": "552-0003\n大阪市港区 磯路２－１－８",
+    "tel": "06-6571-1160",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152677/"
+  },
+  {
+    "name": "赤丸食堂",
+    "address": "552-0003\n大阪市港区 磯路２－６－３",
+    "tel": "06-6571-1275",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152661/"
+  },
+  {
+    "name": "玉屋 ユニバーサルシティウォーク大阪店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61-411",
+    "tel": "06-6465-1650",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152716/"
+  },
+  {
+    "name": "中国料理かなめ",
+    "address": "555-0012\n大阪市西淀川区 御幣島5-9-13",
+    "tel": "06-6472-3247",
+    "tags": [
+      "中華料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152566/"
+  },
+  {
+    "name": "たこ焼十八番UCW店",
+    "address": "554-0024\n大阪市此花区 島屋6-2-61 ユニバーサルシティウォーク内",
+    "tel": "06-6467-5918",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152580/"
+  },
+  {
+    "name": "ホルモン大吾朗",
+    "address": "551-0002\n大阪市大正区 三軒家東1-18-9",
+    "tel": "06-6616-9862",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152540/"
+  },
+  {
+    "name": "串カツ　はなおか",
+    "address": "546-0043\n大阪市東住吉区 駒川３丁目27-30",
+    "tel": "06-66289988",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152532/"
+  },
+  {
+    "name": "創作寿司ひかり",
+    "address": "552-0021\n大阪市港区 築港３ー６ー１６",
+    "tel": "06-6563-9295",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152436/"
+  },
+  {
+    "name": "舞洲陶芸館",
+    "address": "554-0042\n大阪市此花区 北港緑地２－２－９８",
+    "tel": "06-6463-7282",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152453/"
+  },
+  {
+    "name": "舞洲バーベキューパーク",
+    "address": "554-0042\n大阪市此花区 北港緑地２－１－１０７",
+    "tel": "06-6147-5858",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152452/"
+  },
+  {
+    "name": "居酒屋　津野",
+    "address": "555-0033\n大阪市西淀川区 姫島6-3-6",
+    "tel": "06-6477-1346",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152350/"
+  },
+  {
+    "name": "お好み焼　よつ葉",
+    "address": "559-0004\n大阪市住之江区 住之江2-1-21 メゾン澤田1F",
+    "tel": "06-6626-4498",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152252/"
+  },
+  {
+    "name": "ソリスグラーティア",
+    "address": "554-0024\n大阪市此花区 島屋6-1-16 ホテル ユニバーサル ポート ヴィータ",
+    "tel": "06-6460-8200",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152157/"
+  },
+  {
+    "name": "創作串揚げ　一正",
+    "address": "551-0002\n大阪市大正区 三軒家東1丁目17-33 平和相互大正第一ビル103",
+    "tel": "06-4393-8021",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152113/"
+  },
+  {
+    "name": "居酒屋まるに",
+    "address": "551-0021\n大阪市大正区 南恩加島4-4-74",
+    "tel": "06-6552-0745",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152099/"
+  },
+  {
+    "name": "ふぐ克",
+    "address": "552-0007\n大阪市港区 弁天4-11-24",
+    "tel": "06-6571-2941",
+    "tags": [
+      "鍋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152077/"
+  },
+  {
+    "name": "福寿司",
+    "address": "554-0022\n大阪市此花区 春日出中1-28-12",
+    "tel": "06-6461-4398",
+    "tags": [
+      "寿司・魚料理",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152064/"
+  },
+  {
+    "name": "大正焼肉 ＳＵＮナスビ！！",
+    "address": "551-0002\n大阪市大正区 三軒家東1-5-10",
+    "tel": "06-7508-5821",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152141/"
+  },
+  {
+    "name": "肉を喰らえワインを浴びろ　Ｆｉｏｒｅ ｋｕｃｉｎａ",
+    "address": "552-0001\n大阪市港区 波除3-3-10 吉川マンション1階",
+    "tel": "06-7492-6605",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152140/"
+  },
+  {
+    "name": "創作串揚げ料理専門店　青空",
+    "address": "558-0044\n大阪市住吉区 長峡町3-14",
+    "tel": "06-6678-9401",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151667/"
+  },
+  {
+    "name": "Mandarin阿波座新町店",
+    "address": "550-0012\n大阪市西区 立売堀4-9-7 1F",
+    "tel": "070-1747-8803",
+    "tags": [
+      "カレー",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151626/"
+  },
+  {
+    "name": "焼肉どたんこ",
+    "address": "551-0031\n大阪市大正区 泉尾3－2－5",
+    "tel": "06-6554-4362",
+    "tags": [
+      "焼肉・ホルモン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151612/"
+  },
+  {
+    "name": "レックスカフェ",
+    "address": "554-0031\n大阪市此花区 桜島1-1-111 ホテル ユニバーサル ポート",
+    "tel": "06-6463-5048",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151691/"
+  },
+  {
+    "name": "ラウンジR",
+    "address": "554-0031\n大阪市此花区 桜島1-1-111 ホテル ユニバーサル ポート",
+    "tel": "06-6463-5048",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151690/"
+  },
+  {
+    "name": "ポートダイニング　リコリコ",
+    "address": "554-0031\n大阪市此花区 桜島1-1-111 ホテル ユニバーサル ポート",
+    "tel": "06-6463-5047",
+    "tags": [
+      "ホテルレストラン",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151689/"
+  },
+  {
+    "name": "たこ郎",
+    "address": "552-0014\n大阪市港区 八幡屋1-1-20",
+    "tel": "06-6571-5522",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151532/"
+  },
+  {
+    "name": "SHE, SIDE DINER",
+    "address": "552-0012\n大阪市港区 市岡1-2-5 HOTEL SHE, OSAKA",
+    "tel": "06-6577-5500",
+    "tags": [
+      "カフェ・スイーツ",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151472/"
+  },
+  {
+    "name": "居酒屋おもろ　大正本店",
+    "address": "551-0002\n大阪市大正区 三軒家東１－８－７",
+    "tel": "06-6554-0330",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151403/"
+  },
+  {
+    "name": "北浜　づけや",
+    "address": "541-0044\n大阪市中央区 伏見町1丁目1番1号 ホテルブライトンシティ大阪北浜１階",
+    "tel": "06-6222-7388",
+    "tags": [
+      "和食",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151391/"
+  },
+  {
+    "name": "お好み焼き　くにちゃん",
+    "address": "554-0013\n大阪市此花区 梅香３ー３２ー２１",
+    "tel": "06-6468-9292",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151383/"
+  }
+]
