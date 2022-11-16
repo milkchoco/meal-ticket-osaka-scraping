@@ -2,12 +2,13 @@
   "name": "meal-ticket-osaka-scraping",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "ssh://git@github.com/milkchoco/meal-ticket-osaka-scraping.git",
   "license": "MIT",
   "packageManager": "yarn@3.2.4",
   "prettier": "@yuzu441/prettier-config",
   "scripts": {
-    "scraping": "ts-node src/index.ts",
+    "scraping": "ts-node-esm src/index.ts",
     "postscraping": "prettier --write data/"
   },
   "devDependencies": {
