@@ -4,4 +4,5 @@ export type ShopCard = {
   tel: string
   tags: string[]
   url: string
+  openingHours: string
 }

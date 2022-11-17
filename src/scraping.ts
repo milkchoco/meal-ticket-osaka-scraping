@@ -36,7 +36,9 @@ export async function downloadAndCreateShopData(area: string, areaKey: string, g
   console.log(`${areaKey} area scraping start`)
   // 次のページが無くなるまでデータを取得する
   while (await page.$('.nextpostslink')) {
-    ++pageCounter / 10 === 0 && console.log(`${areaKey} area scraping working...`)
+    if (++pageCounter % 10 === 0) {
+      console.log(`${areaKey} area scraping working...`)
+    }
 
     const shopList =
       (await page.evaluate(() => {
@@ -48,6 +50,7 @@ export async function downloadAndCreateShopData(area: string, areaKey: string, g
             name: dom.querySelector('p')?.innerText ?? '',
             address: tableContent[0].innerText ?? '',
             tel: tableContent[1].innerText ?? '',
+            openingHours: tableContent[2].innerText ?? '',
             tags,
             url: dom.querySelector('a')?.href ?? '',
           }
