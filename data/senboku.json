@@ -1,0 +1,3302 @@
+[
+  {
+    "name": "Bar L’ami",
+    "address": "594-0071\n和泉市 府中町1-3-12",
+    "tel": "080-9165-5078",
+    "openingHours": "18:30-25:00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379604/"
+  },
+  {
+    "name": "居酒屋伏屋町三丁目",
+    "address": "594-0031\n和泉市 伏屋町3-5-57 第16進化ビル",
+    "tel": "0725-55-7750",
+    "openingHours": "17時30分から23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379403/"
+  },
+  {
+    "name": "Stand MIRAKURU",
+    "address": "592-0014\n高石市 綾園1丁2-18",
+    "tel": "090-6668-3777",
+    "openingHours": "10:00～22:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379292/"
+  },
+  {
+    "name": "SANTASAN",
+    "address": "592-0014\n高石市 綾園2-12-2",
+    "tel": "070-6509-1015",
+    "openingHours": "17:30～",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379167/"
+  },
+  {
+    "name": "焼肉ダイニング弘",
+    "address": "594-0032\n和泉市 池田下町1908-1",
+    "tel": "0725-55-9600",
+    "openingHours": "11時30分～14時30分(L.O.14時)　17時～23時(L.O.22時)",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373971/"
+  },
+  {
+    "name": "鶴屋",
+    "address": "594-0042\n和泉市 箕形町4-6-86 鶴屋",
+    "tel": "0725-53-4208",
+    "openingHours": "",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373500/"
+  },
+  {
+    "name": "味道楽　無法松",
+    "address": "595-0072\n泉大津市 松之浜町１丁目１－１０",
+    "tel": "0725-23-3729",
+    "openingHours": "17:00～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373452/"
+  },
+  {
+    "name": "Cafe Bean",
+    "address": "595-0071\n泉大津市 助松町3-18-13",
+    "tel": "0725-32-8743",
+    "openingHours": "7時～17時",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373252/"
+  },
+  {
+    "name": "Member's Bar Lana",
+    "address": "592-0002\n高石市 羽衣 1-16-6",
+    "tel": "090-5664-3334",
+    "openingHours": "19時から24時",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373218/"
+  },
+  {
+    "name": "中華ダイニング結",
+    "address": "594-1151\n和泉市 唐国町2丁目７-６４ アミューレット和泉中央101",
+    "tel": "0725-25-5056",
+    "openingHours": "１１時から２１時３０分",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372985/"
+  },
+  {
+    "name": "なごみ料理　夢風景　YUMEKESIKI",
+    "address": "594-1105\n和泉市 のぞみ野３－１１－４ セジュールのぞみ野１０１号室",
+    "tel": "0725-55-4545",
+    "openingHours": "１１時～１４時、１７時～２２時",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372940/"
+  },
+  {
+    "name": "カフェ ら・さぼうる",
+    "address": "592-0013\n高石市 取石4-15-28",
+    "tel": "072-289-7896",
+    "openingHours": "営業時間 朝９時（土曜は８時半、日祝は８時）から夜6時（土日祝は７時）",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372696/"
+  },
+  {
+    "name": "萌えぎ",
+    "address": "594-1105\n和泉市 のぞみ野1丁目12-25",
+    "tel": "0725-92-5322",
+    "openingHours": "ランチ11:30～14:00 ディナー17:00～22:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372665/"
+  },
+  {
+    "name": "藁sumi",
+    "address": "594-0071\n和泉市 府中町1-24-6 西辻マンション1階",
+    "tel": "0725-43-0123",
+    "openingHours": "ランチ11:30～14:00 ディナー17:00～24:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372664/"
+  },
+  {
+    "name": "肴、一品料理　だんだん。",
+    "address": "595-0062\n泉大津市 田中町4-10",
+    "tel": "0725-24-5855",
+    "openingHours": "16時から23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372554/"
+  },
+  {
+    "name": "ホルモン満福屋",
+    "address": "592-0013\n高石市 取石7丁目4の1",
+    "tel": "072-349-9877",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372470/"
+  },
+  {
+    "name": "ぴよぴよ",
+    "address": "594-0065\n和泉市 観音寺町656 興和ビル1F",
+    "tel": "0725-43-1048",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs372231/"
+  },
+  {
+    "name": "焼肉ばーる やま龍",
+    "address": "594-1105\n和泉市 のぞみ野1-2-41 イチクラビル2F",
+    "tel": "0725-25-5717",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371954/"
+  },
+  {
+    "name": "チャイナテーブル　喜心",
+    "address": "592-0012\n高石市 西取石6丁６番71",
+    "tel": "072-264-7724",
+    "openingHours": "",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371865/"
+  },
+  {
+    "name": "やよい軒高石店",
+    "address": "592-0012\n高石市 西取石5丁目2-24",
+    "tel": "072-267-1310",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371857/"
+  },
+  {
+    "name": "鉄板焼・お好み焼 きん太 泉北和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野5-7-1",
+    "tel": "0725-55-2345",
+    "openingHours": "",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371601/"
+  },
+  {
+    "name": "焼肉たむら和泉府中店",
+    "address": "595-0021\n泉大津市 東豊中町3-1-15 うお健ビル2F",
+    "tel": "0725-92-6606",
+    "openingHours": "ランチ11:30~14:30 ディナー17:00~22:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371553/"
+  },
+  {
+    "name": "鉄板焼かつら",
+    "address": "594-0023\n和泉市 伯太町5-4-22",
+    "tel": "0725-41-4378",
+    "openingHours": "17:00～24:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371329/"
+  },
+  {
+    "name": "仔牛屋",
+    "address": "595-0024\n泉大津市 池浦町1-192-1",
+    "tel": "0725-20-1429",
+    "openingHours": "17:00-22:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs371328/"
+  },
+  {
+    "name": "焼肉かわしま",
+    "address": "594-0023\n和泉市 伯太町2-30-7",
+    "tel": "0725-44-8288",
+    "openingHours": "17：00～22：00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370949/"
+  },
+  {
+    "name": "ヴィ・ド・フランス和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野5丁目1番1号",
+    "tel": "0725-50-5254",
+    "openingHours": "平日 土 7:00 ～ 21:00　　日祝 7:00～20:00",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370890/"
+  },
+  {
+    "name": "和牛焼肉　駿",
+    "address": "594-0081\n和泉市 葛の葉町2-1-7",
+    "tel": "0725-44-5100",
+    "openingHours": "11:30～14:00、17:00～23:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370578/"
+  },
+  {
+    "name": "焼肉　玄",
+    "address": "594-1105\n和泉市 のぞみ野2-2-21",
+    "tel": "0725-57-0006",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs370551/"
+  },
+  {
+    "name": "居酒屋ダイニングくろかわ",
+    "address": "592-0014\n高石市 綾園7-6-19",
+    "tel": "072-249-5033",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367953/"
+  },
+  {
+    "name": "晩酌万吞",
+    "address": "592-0011\n高石市 加茂1丁目19番18号 ユタカマンション",
+    "tel": "072-266-5257",
+    "openingHours": "17時～24時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367946/"
+  },
+  {
+    "name": "御食事処 エクボ",
+    "address": "594-1142\n和泉市 久井町1709-1",
+    "tel": "0725-53-2237",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367605/"
+  },
+  {
+    "name": "すし兆",
+    "address": "592-0011\n高石市 加茂4丁目8-28",
+    "tel": "072-266-7366",
+    "openingHours": "",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367603/"
+  },
+  {
+    "name": "大阪王将　北信太店",
+    "address": "594-0003\n和泉市 太町560",
+    "tel": "0725-45-6323",
+    "openingHours": "11時～21時",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367502/"
+  },
+  {
+    "name": "遊食彩宴居酒屋Jambo家",
+    "address": "594-0071\n和泉市 府中町4-16-10 グランコートにしの　2階",
+    "tel": "0725-41-4154",
+    "openingHours": "17:30～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367451/"
+  },
+  {
+    "name": "食べ処　呑み処　いまむら",
+    "address": "595-0805\n泉北郡忠岡町 忠岡東1-16-1 スペース西村　1階",
+    "tel": "0725-29-0383",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367217/"
+  },
+  {
+    "name": "焼肉酒場　居心家",
+    "address": "592-0014\n高石市 綾園1-3-1 明勝第一ビル",
+    "tel": "072-261-2917",
+    "openingHours": "17:00～23:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366532/"
+  },
+  {
+    "name": "ASAインド料理",
+    "address": "592-0013\n高石市 取石2-13-12",
+    "tel": "072-274-0118",
+    "openingHours": "11:00~15:00,17:00~22:00",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366521/"
+  },
+  {
+    "name": "食事とうどんの味緒吉",
+    "address": "594-0032\n和泉市 池田下町1908-1",
+    "tel": "0725-56-4720",
+    "openingHours": "11時から22時",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366440/"
+  },
+  {
+    "name": "淡路島バーガー和泉中央店",
+    "address": "594-1151\n和泉市 唐国町2-7-64 アミューレット和泉中央103",
+    "tel": "0725-90-5329",
+    "openingHours": "11時～19時　日曜日のみ18時まで",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs365904/"
+  },
+  {
+    "name": "たますし",
+    "address": "595-0805\n泉北郡忠岡町 忠岡東二丁目八番五号",
+    "tel": "0725-23-0955",
+    "openingHours": "",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364538/"
+  },
+  {
+    "name": "ハレルヤ",
+    "address": "594-0023\n和泉市 伯太町六丁目9-12",
+    "tel": "0725-43-5864",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364424/"
+  },
+  {
+    "name": "Restaurant en cachette",
+    "address": "594-0031\n和泉市 伏屋町三丁目22-50 進化第18ビル2F",
+    "tel": "0725-55-8638",
+    "openingHours": "11時30分～15時　18時～22時30分",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364300/"
+  },
+  {
+    "name": "一品料理はかた",
+    "address": "594-0071\n和泉市 府中町７丁目２番２８号",
+    "tel": "0725-44-0508",
+    "openingHours": "17：00～23：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364060/"
+  },
+  {
+    "name": "BISTRO309　ららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野4丁目4番地",
+    "tel": "0725-53-4309",
+    "openingHours": "11：00～22：00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363870/"
+  },
+  {
+    "name": "ステーキハウスゲラン",
+    "address": "594-0032\n和泉市 池田下町268-1",
+    "tel": "0725-57-2289",
+    "openingHours": "11：30～14：00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363421/"
+  },
+  {
+    "name": "京都高台寺「天風」納花店",
+    "address": "594-1116\n和泉市 納花町331",
+    "tel": "0725-50-6030",
+    "openingHours": "",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363348/"
+  },
+  {
+    "name": "季節料理　味彩",
+    "address": "595-0026\n泉大津市 東雲町1-20 プランドール東雲1階",
+    "tel": "0725-32-5727",
+    "openingHours": "17:00～24:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs361793/"
+  },
+  {
+    "name": "中国菜房　豪也",
+    "address": "594-0031\n和泉市 伏屋町3丁目5-57 進化第16ビル",
+    "tel": "0725-57-5008",
+    "openingHours": "11:30～14:30 17:30～21:30",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs361729/"
+  },
+  {
+    "name": "ステーキハウスＫふぁーむ",
+    "address": "594-0041\n和泉市 いぶき野３－１６－１１",
+    "tel": "0725-55-4919",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360755/"
+  },
+  {
+    "name": "季節料理　よこ山",
+    "address": "595-0032\n泉大津市 穴田56-2",
+    "tel": "0725-26-0000",
+    "openingHours": "17:30～23:30",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360535/"
+  },
+  {
+    "name": "Vifasa",
+    "address": "592-0005\n高石市 千代田１－２７－５",
+    "tel": "072-248-5965",
+    "openingHours": "11:30-14:30, 18:30-21:30",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs360295/"
+  },
+  {
+    "name": "ちゃんこ鍋専門店 両国",
+    "address": "595-0012\n泉大津市 北豊中町1-2-5",
+    "tel": "0725-22-2469",
+    "openingHours": "",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs337390/"
+  },
+  {
+    "name": "Rode",
+    "address": "594-1104\n和泉市 万町2026",
+    "tel": "050-7119-5043",
+    "openingHours": "",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs310386/"
+  },
+  {
+    "name": "にぎわいや",
+    "address": "595-0024\n泉大津市 池浦町1-17-11",
+    "tel": "0725-22-9339",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs283614/"
+  },
+  {
+    "name": "立ち飲みバル　タッタシーテ",
+    "address": "595-0025\n泉大津市 旭町19-2 N.KLASS 泉大津 1F",
+    "tel": "0725-33-5335",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs283548/"
+  },
+  {
+    "name": "ほうせん",
+    "address": "594-0071\n和泉市 府中町1-3-18",
+    "tel": "0725-92-9588",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs280160/"
+  },
+  {
+    "name": "レストラン Mamma Pappa",
+    "address": "594-0032\n和泉市 池田下町1095-1",
+    "tel": "0725-55-7053",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs277833/"
+  },
+  {
+    "name": "炭火焼肉 備",
+    "address": "592-0004\n高石市 高師浜4-1-32",
+    "tel": "072-261-7773",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs250753/"
+  },
+  {
+    "name": "焼肉ホルモン Meets",
+    "address": "594-1105\n和泉市 のぞみ野3丁目799-13",
+    "tel": "0725-56-1129",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs219605/"
+  },
+  {
+    "name": "居酒屋末よし",
+    "address": "594-0076\n和泉市 肥子町1-11-6",
+    "tel": "0725-41-1892",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs218184/"
+  },
+  {
+    "name": "ジョイフル大阪和泉店",
+    "address": "594-0074\n和泉市 小田町3-9-3",
+    "tel": "0725-47-6780",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs215946/"
+  },
+  {
+    "name": "やよい軒泉大津店",
+    "address": "595-0051\n泉大津市 東港町15-18",
+    "tel": "0725-20-0115",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs215872/"
+  },
+  {
+    "name": "香の川製麺　泉大津店",
+    "address": "595-0004\n泉大津市 千原町1丁目57-1",
+    "tel": "0725-22-2173",
+    "openingHours": "",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs215680/"
+  },
+  {
+    "name": "洋食焼・ネギ焼・かっぱ",
+    "address": "595-0025\n泉大津市 旭町23-49",
+    "tel": "0725-33-5775",
+    "openingHours": "",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs215673/"
+  },
+  {
+    "name": "チャイニーズダイニング真",
+    "address": "595-0021\n泉大津市 東豊中町1丁目7-1 グリーンファンタン106",
+    "tel": "0725-45-1455",
+    "openingHours": "11:15～21:30",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs212855/"
+  },
+  {
+    "name": "鮨人",
+    "address": "595-0026\n泉大津市 東雲町1-19",
+    "tel": "0725-21-6565",
+    "openingHours": "18:00-02:00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs212477/"
+  },
+  {
+    "name": "あがさ",
+    "address": "595-0072\n泉大津市 松之浜町1-1-2",
+    "tel": "0725-23-0968",
+    "openingHours": "17:00~24:00",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs212476/"
+  },
+  {
+    "name": "楽庵",
+    "address": "592-0002\n高石市 羽衣1-14-23",
+    "tel": "072-265-2744",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs212428/"
+  },
+  {
+    "name": "餃子の王将 泉大津北店",
+    "address": "595-0012\n泉大津市 北豊中町3-979-13",
+    "tel": "0725-44-1101",
+    "openingHours": "月～土／11:00～23:30（ラストオーダー23:00)",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211298/"
+  },
+  {
+    "name": "餃子の王将 国道高石店",
+    "address": "592-0012\n高石市 西取石8-4-14",
+    "tel": "072-264-8787",
+    "openingHours": "月～土／11:00～23:30（ラストオーダー23:00）",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211297/"
+  },
+  {
+    "name": "餃子の王将 和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野3-16-13",
+    "tel": "0725-57-8131",
+    "openingHours": "月～土／11:00～23:30（ラストオーダー23:00）",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211278/"
+  },
+  {
+    "name": "餃子の王将 和泉府中店",
+    "address": "594-0071\n和泉市 府中町7-2-30",
+    "tel": "0725-43-8007",
+    "openingHours": "11:00～23:00（ラストオーダー22:30）",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs211269/"
+  },
+  {
+    "name": "阪本焼肉店",
+    "address": "595-0021\n泉大津市 東豊中町2-1-7",
+    "tel": "0725-90-7618",
+    "openingHours": "11時～23時（15時～16時まで休憩）",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210753/"
+  },
+  {
+    "name": "TOMAS？",
+    "address": "595-0021\n泉大津市 東豊中町1-6-2 ユタカビル102",
+    "tel": "072-590-6112",
+    "openingHours": "18:00-27:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210441/"
+  },
+  {
+    "name": "焼肉　久蒔",
+    "address": "594-1101\n和泉市 室堂町 進化第14ビル",
+    "tel": "0725-56-2346",
+    "openingHours": "11:30～14:00　17:00～22:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210336/"
+  },
+  {
+    "name": "もつ鍋屋かっさん",
+    "address": "592-0005\n高石市 千代田4-1-7",
+    "tel": "072-247-7588",
+    "openingHours": "18:00～24:00",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210291/"
+  },
+  {
+    "name": "焼肉とっちゃん　泉大津店",
+    "address": "595-0031\n泉大津市 我孫子115-1",
+    "tel": "0725-23-2955",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs210213/"
+  },
+  {
+    "name": "禾田喜山",
+    "address": "594-0031\n和泉市 伏屋町3丁目32-1 進化第10ビル　102号室",
+    "tel": "072-551-7711",
+    "openingHours": "17時～22時",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs205028/"
+  },
+  {
+    "name": "道頓堀名物　串揚げ　鍋　串のれん",
+    "address": "594-0023\n和泉市 伯太町1-12-17",
+    "tel": "0725-99-8929",
+    "openingHours": "18:00/23:30",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204660/"
+  },
+  {
+    "name": "嘉平",
+    "address": "594-1151\n和泉市 唐国町1-18-60",
+    "tel": "0725-51-3368",
+    "openingHours": "17時～24時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204025/"
+  },
+  {
+    "name": "天下一品　和泉国道２６号線店",
+    "address": "594-0081\n和泉市 葛の葉町3-3-5",
+    "tel": "072-543-6545",
+    "openingHours": "１１時から２４時まで",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203971/"
+  },
+  {
+    "name": "すーさんのインド料理　泉大津店",
+    "address": "595-0037\n泉大津市 虫取町1-1-11",
+    "tel": "072-533-5341",
+    "openingHours": "11:00～15:00.17:00～23:00",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203790/"
+  },
+  {
+    "name": "こうぜん",
+    "address": "594-0032\n和泉市 池田下町118-2",
+    "tel": "0725-56-1010",
+    "openingHours": "17:30～23:30(ラストオーダー23:00)",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203711/"
+  },
+  {
+    "name": "Felice",
+    "address": "595-0006\n泉大津市 東助松町1-13-8",
+    "tel": "0725-30-3254",
+    "openingHours": "11:00～14:00 18:00～22:00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203640/"
+  },
+  {
+    "name": "FORNO ITALICO",
+    "address": "594-0031\n和泉市 伏屋町3-5-57 進化第16ビル",
+    "tel": "0725-25-5507",
+    "openingHours": "",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203636/"
+  },
+  {
+    "name": "中国料理工房　三好",
+    "address": "595-0031\n泉大津市 我孫子2-2-6 プランドール大原",
+    "tel": "072-533-1458",
+    "openingHours": "11：30～15：00　17：30～22：00",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203480/"
+  },
+  {
+    "name": "イタリア料理LA CASA",
+    "address": "594-0065\n和泉市 観音寺町656 グリーンビル2F",
+    "tel": "0725-417717",
+    "openingHours": "11:30～14:00 17:30～21:00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203463/"
+  },
+  {
+    "name": "たくみ",
+    "address": "595-0811\n泉北郡忠岡町 忠岡北2-7-21",
+    "tel": "0725-90-4129",
+    "openingHours": "17:00～24:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203436/"
+  },
+  {
+    "name": "こなモン大王",
+    "address": "595-0031\n泉大津市 我孫子1-2-47 ホワイトビル１",
+    "tel": "0725-21-7290",
+    "openingHours": "18:00-26:00",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs203230/"
+  },
+  {
+    "name": "レストランフランボワーズ",
+    "address": "595-0012\n泉大津市 北豊中町2-17-1",
+    "tel": "0725-21-7310",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202998/"
+  },
+  {
+    "name": "手打ちそば　かけはし",
+    "address": "594-0062\n和泉市 寺田町2-1-2",
+    "tel": "0725-46-0655",
+    "openingHours": "",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202880/"
+  },
+  {
+    "name": "個室麺屋ひいらぎ和泉府中店",
+    "address": "594-0071\n和泉市 府中町1-20-1",
+    "tel": "0725-43-7012",
+    "openingHours": "",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202873/"
+  },
+  {
+    "name": "喜連園",
+    "address": "594-0002\n和泉市 上町436-38",
+    "tel": "0725-92-8220",
+    "openingHours": "17時～23時",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202732/"
+  },
+  {
+    "name": "oggi",
+    "address": "594-0071\n和泉市 府中町4-8-41",
+    "tel": "072-599-8505",
+    "openingHours": "11時から１５時　18時から22時",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202079/"
+  },
+  {
+    "name": "サンマルクカフェ イズミヤカナートモール和泉府中店",
+    "address": "595-0023\n泉大津市 東豊中町1丁目5番10号",
+    "tel": "0725-90-7990",
+    "openingHours": "10:00 ～ 20:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs201838/"
+  },
+  {
+    "name": "インドレストラン　ナマステルンビニ",
+    "address": "594-0031\n和泉市 伏屋町　3-5-57 進化第16ビル",
+    "tel": "0725-57-8239",
+    "openingHours": "11:30～15:00 17:00～10:30",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs201249/"
+  },
+  {
+    "name": "炭火やきとり 鶏子屋",
+    "address": "594-0042\n和泉市 箕形町4-6-86",
+    "tel": "0725-51-2929",
+    "openingHours": "17時～23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs200916/"
+  },
+  {
+    "name": "ベビーフェイス和泉R26店",
+    "address": "594-0082\n和泉市 富秋町２－１０－７",
+    "tel": "0725-46-2955",
+    "openingHours": "１１時～22時",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs200917/"
+  },
+  {
+    "name": "焼肉ホルモン焼き　松力",
+    "address": "592-0005\n高石市 千代田1-7-1",
+    "tel": "072-264-2911",
+    "openingHours": "17:00-23:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199943/"
+  },
+  {
+    "name": "牛串焼 昭和屋",
+    "address": "595-0031\n泉大津市 我孫子1-2-47 ホワイトビル1F",
+    "tel": "0725-22-1194",
+    "openingHours": "18時～24時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199942/"
+  },
+  {
+    "name": "焼肉玄",
+    "address": "594-1105\n和泉市 のぞみ野2-1378-5",
+    "tel": "0725-57-0006",
+    "openingHours": "11時30分～15時　　　17時～23時",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199845/"
+  },
+  {
+    "name": "洋食屋クローバー",
+    "address": "594-1101\n和泉市 室堂町596－15",
+    "tel": "0725-57-6968",
+    "openingHours": "平日11：00～14：00　土日祝11：00～14：00　17：30～20：00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199835/"
+  },
+  {
+    "name": "居酒屋 勝ちゃん",
+    "address": "594-0071\n和泉市 府中町3-16-11",
+    "tel": "0725-44-8767",
+    "openingHours": "17時～24時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs199799/"
+  },
+  {
+    "name": "和牛亭おかむら",
+    "address": "594-0005\n和泉市 幸2-2-39-103",
+    "tel": "0725-46-2929",
+    "openingHours": "17時～23時",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198490/"
+  },
+  {
+    "name": "めんya伊勢家",
+    "address": "595-0036\n泉大津市 昭和町3-34 めんya 伊勢家",
+    "tel": "0725-92-5407",
+    "openingHours": "11:00-15:00(14:30L.O.) 17:00-24:00(23:30L.O.)",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198249/"
+  },
+  {
+    "name": "串かつ　しんや",
+    "address": "595-0036\n泉大津市 昭和町１０－１７",
+    "tel": "0725-21-9476",
+    "openingHours": "17：00～26：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs198234/"
+  },
+  {
+    "name": "はま寿司泉大津松之浜店",
+    "address": "595-0072\n泉大津市 松之浜町1丁目1番26号",
+    "tel": "0725-20-1223",
+    "openingHours": "11:00～23：00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197242/"
+  },
+  {
+    "name": "Green Room",
+    "address": "594-1131\n和泉市 槇尾山町86-1",
+    "tel": "0725-90-5325",
+    "openingHours": "11:00-17:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs197164/"
+  },
+  {
+    "name": "おふくろの味　ゆう",
+    "address": "595-0021\n泉大津市 東豊中町一丁目5-30 星和ビル一階",
+    "tel": "0725-45-7797",
+    "openingHours": "夕方18時から深夜3時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196365/"
+  },
+  {
+    "name": "松屋 和泉中央駅店",
+    "address": "594-0041\n和泉市 いぶき野5-1-1",
+    "tel": "0725-50-4770",
+    "openingHours": "7時から23時30分（ラストオーダー23:00）",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196144/"
+  },
+  {
+    "name": "松屋 和泉店",
+    "address": "594-0082\n和泉市 富秋町3-2-36",
+    "tel": "0725-31-8121",
+    "openingHours": "5：00～2：00　土曜24H",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs196074/"
+  },
+  {
+    "name": "中国菜館あんずの花",
+    "address": "594-0041\n和泉市 いぶき野5-8-2",
+    "tel": "0725-55-7576",
+    "openingHours": "11:30～15:00 17:00～22:00",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194513/"
+  },
+  {
+    "name": "和食工房　水しま",
+    "address": "595-0024\n泉大津市 池浦町4-5-38",
+    "tel": "0725-21-9949",
+    "openingHours": "11:30～14:00 17:30～22:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194221/"
+  },
+  {
+    "name": "Bar UKA",
+    "address": "594-0031\n和泉市 伏屋町2丁目2-15-C号 有本ビル",
+    "tel": "0725-56-3666",
+    "openingHours": "19:00~",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs194188/"
+  },
+  {
+    "name": "千代菊",
+    "address": "595-0006\n泉大津市 東助松町４丁目４番３２号",
+    "tel": "0725-32-8587",
+    "openingHours": "１７時～２２時",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193830/"
+  },
+  {
+    "name": "くら寿司泉大津店",
+    "address": "595-0061\n泉大津市 春日町3番24号",
+    "tel": "0725-23-6101",
+    "openingHours": "平日:11時～23時　土日祝：11時～23時",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193754/"
+  },
+  {
+    "name": "くら寿司和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野5-5-8",
+    "tel": "0725-50-6600",
+    "openingHours": "平日:11時～23時　土日祝：11時～23時",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193753/"
+  },
+  {
+    "name": "くら寿司高石店",
+    "address": "592-0012\n高石市 西取石7-6-40",
+    "tel": "072-267-1501",
+    "openingHours": "平日:11時～23時　土日祝：11時～23時",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193724/"
+  },
+  {
+    "name": "吉野家 エコールいずみ店",
+    "address": "594-0041\n和泉市 いぶき野５丁目１－１４ 東館",
+    "tel": "0725-50-5221",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193498/"
+  },
+  {
+    "name": "吉野家 第二阪和泉大津店",
+    "address": "595-0012\n泉大津市 北豊中町３丁目１－３",
+    "tel": "0725-40-2336",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193489/"
+  },
+  {
+    "name": "大衆居酒屋　SAKICHI",
+    "address": "595-0066\n泉大津市 菅原町2-27 星和ナイトビル",
+    "tel": "0725-21-0707",
+    "openingHours": "17：00～23：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs193010/"
+  },
+  {
+    "name": "らーめん小鉄泉大津店",
+    "address": "595-0025\n泉大津市 旭町19番2号 N.KLASS泉大津内",
+    "tel": "0725-58-7227",
+    "openingHours": "11時～24時",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192895/"
+  },
+  {
+    "name": "とんかついなば和幸　泉大津店",
+    "address": "595-0025\n泉大津市 旭町18-3 いずみおおつＣＩＴＹ1Ｆ",
+    "tel": "0725-22-9601",
+    "openingHours": "11:00-21:30",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192849/"
+  },
+  {
+    "name": "泉大津太郎寿司",
+    "address": "595-0062\n泉大津市 田中町11-11",
+    "tel": "0725-32-6333",
+    "openingHours": "17時~23時",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192788/"
+  },
+  {
+    "name": "割烹　日菜",
+    "address": "595-0072\n泉大津市 松之浜町2丁目5-15",
+    "tel": "0725-23-8003",
+    "openingHours": "11:30~14:00　17:00~22:00　日曜日は夜営業のみ",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192666/"
+  },
+  {
+    "name": "和泉府中酒場　情熱ホルモン",
+    "address": "594-0071\n和泉市 府中町６－１－１",
+    "tel": "0725-40-4129",
+    "openingHours": "17：00～25：00 日祝17：00～24：00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192622/"
+  },
+  {
+    "name": "牛庵　高石店",
+    "address": "592-0012\n高石市 西取石8-8-12",
+    "tel": "072-264-8554",
+    "openingHours": "11：00～翌1：00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192455/"
+  },
+  {
+    "name": "めでた家　泉大津西口駅前店",
+    "address": "595-0062\n泉大津市 田中町3-1 福板屋貸し店舗",
+    "tel": "0725-32-7688",
+    "openingHours": "詳細は店舗従業員までお問い合わせください。",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192406/"
+  },
+  {
+    "name": "白木屋　忠岡東口駅前店",
+    "address": "595-0805\n泉北郡忠岡町 忠岡東1-132-6 ショップ南海忠岡 1階",
+    "tel": "0725-20-5988",
+    "openingHours": "詳細は店舗従業員までお問い合わせください。",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192400/"
+  },
+  {
+    "name": "白木屋　和泉府中駅前店",
+    "address": "594-0071\n和泉市 府中町1-6-19 伸光ビル 2階",
+    "tel": "0725-46-4588",
+    "openingHours": "詳細は店舗従業員までお問い合わせください。",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192397/"
+  },
+  {
+    "name": "白木屋　泉大津西口駅前店",
+    "address": "595-0062\n泉大津市 田中町3-19 雅苑ビル 1階",
+    "tel": "0725-21-4688",
+    "openingHours": "詳細は店舗従業員までお問い合わせください。",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192388/"
+  },
+  {
+    "name": "笑笑　和泉府中駅前店",
+    "address": "594-0071\n和泉市 府中町1-2-22 和泉府中駅前ビル ２階３階",
+    "tel": "0725-46-1988",
+    "openingHours": "詳細は店舗従業員までお問い合わせください。",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192373/"
+  },
+  {
+    "name": "魚民　高石駅前店",
+    "address": "592-0014\n高石市 綾園1-9-1 アプラたかいし　2階",
+    "tel": "072-267-2288",
+    "openingHours": "詳細は店舗従業員までお問い合わせください。",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192360/"
+  },
+  {
+    "name": "インドレストラン＆バー　シタル泉大津店",
+    "address": "595-0024\n泉大津市 池浦町５丁目１２ー８",
+    "tel": "0725-20-5234",
+    "openingHours": "11:00～14:30 17:00～22:00 (L.O.)",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192209/"
+  },
+  {
+    "name": "Labelleequipe",
+    "address": "595-0037\n泉大津市 虫取1-4-18",
+    "tel": "0725-32-2870",
+    "openingHours": "11:00 ～14:00. 17:00 ～ 21:30 lo",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs192199/"
+  },
+  {
+    "name": "えびす堂",
+    "address": "594-0032\n和泉市 池田下町1911-1",
+    "tel": "0725-56-0259",
+    "openingHours": "17時30分～22時30分",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191896/"
+  },
+  {
+    "name": "ぢどり亭　泉大津店",
+    "address": "595-0062\n泉大津市 田中町11-8",
+    "tel": "0725-22-7879",
+    "openingHours": "17時～25時　日曜祝日17時～24時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191630/"
+  },
+  {
+    "name": "鉄板居酒屋しえろ",
+    "address": "594-0065\n和泉市 観音寺町681-1 松山ビル",
+    "tel": "0725-41-1770",
+    "openingHours": "17～25時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191561/"
+  },
+  {
+    "name": "焼肉くろちゃん",
+    "address": "594-0031\n和泉市 伏屋町1-12-27 進化第12ビル",
+    "tel": "072-546-2941",
+    "openingHours": "11:30～L.O.13:00(月.水.金のみ)17:00～23:00(L.O.22:00)",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191462/"
+  },
+  {
+    "name": "Casual Kitchen N-51",
+    "address": "595-0071\n泉大津市 助松町1-1-25 助松山内ビル1階",
+    "tel": "0725-22-2980",
+    "openingHours": "11.5～23",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191397/"
+  },
+  {
+    "name": "喫茶店なんくる",
+    "address": "595-0061\n泉大津市 春日町3-11 荒木ハイツA101",
+    "tel": "0725-58-7090",
+    "openingHours": "07時30分～17時",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191114/"
+  },
+  {
+    "name": "割烹　味どころ　吉野",
+    "address": "595-0026\n泉大津市 東雲町1-5",
+    "tel": "0725-23-6800",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191101/"
+  },
+  {
+    "name": "酒とさかな　そもそもきさんじ",
+    "address": "594-0071\n和泉市 府中町1-8-3",
+    "tel": "072-46-5110",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191092/"
+  },
+  {
+    "name": "やよい軒和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野5-1-14",
+    "tel": "0725-57-1048",
+    "openingHours": "10：00～23：00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191043/"
+  },
+  {
+    "name": "炭火焼鶏　まるなか",
+    "address": "595-0072\n泉大津市 松之浜町2-10-46",
+    "tel": "0725-22-9889",
+    "openingHours": "18:00～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190610/"
+  },
+  {
+    "name": "焼肉きんぐ 和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野3-16-19",
+    "tel": "090-8141-9370",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs258683/"
+  },
+  {
+    "name": "もぐら",
+    "address": "595-0021\n泉大津市 東豊中町3-15-11",
+    "tel": "080-4022-6823",
+    "openingHours": "11:30～13:45 17:30～22:00",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190297/"
+  },
+  {
+    "name": "イタリアン料理　BAR OLIORI",
+    "address": "592-0014\n高石市 綾園1丁目6-18",
+    "tel": "072-220-0236",
+    "openingHours": "18時から23時",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190268/"
+  },
+  {
+    "name": "焼肉処　わらび",
+    "address": "594-0066\n和泉市 桑原町279-2 第一泉陽ビル",
+    "tel": "0725-46-2911",
+    "openingHours": "17：00～23：30",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs190116/"
+  },
+  {
+    "name": "ココス泉大津店　　　　　　",
+    "address": "595-0025\n泉大津市 旭町22－45 テクスピアビル1F",
+    "tel": "0725-20-2075",
+    "openingHours": "平日10:00～24:00\n土日祭日7:00～24:00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189942/"
+  },
+  {
+    "name": "八剣伝富木店",
+    "address": "592-0013\n高石市 取石7-4-1",
+    "tel": "072-260-1690",
+    "openingHours": "17時～2時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189900/"
+  },
+  {
+    "name": "四六時中",
+    "address": "594-0076\n和泉市 肥後町2-2-1 イオン和泉府中店　1階",
+    "tel": "0725-41-7751",
+    "openingHours": "11：00-20：00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189411/"
+  },
+  {
+    "name": "ケンタッキー・フライド・チキン",
+    "address": "594-0076\n和泉市 肥後町2-2-1 イオン和泉府中店　1階",
+    "tel": "0725-45-7911",
+    "openingHours": "10：00-21：00",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs189409/"
+  },
+  {
+    "name": "かつや泉大津店",
+    "address": "595-0061\n泉大津市 春日町8-20",
+    "tel": "0725-20-5200",
+    "openingHours": "10:30-24:30(LO24:00)",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187744/"
+  },
+  {
+    "name": "大阪国際ユースホステル内レストラン",
+    "address": "592-0002\n高石市 羽衣公園丁 バーベキューガーデン羽衣　1Ｆ",
+    "tel": "072-265-8539",
+    "openingHours": "10:00～20:00　",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187080/"
+  },
+  {
+    "name": "おやこカフェmamarest",
+    "address": "592-0014\n高石市 綾園3丁目7-1",
+    "tel": "072-275-6999",
+    "openingHours": "11時から16時半",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186517/"
+  },
+  {
+    "name": "炭焼彩菜KAMADO",
+    "address": "594-0032\n和泉市 池田下町386-1",
+    "tel": "0725-57-2222",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186455/"
+  },
+  {
+    "name": "キッチン凛",
+    "address": "594-0031\n和泉市 伏屋町5丁目13-1 光明池運転免許試験場",
+    "tel": "0725-55-7414",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs186119/"
+  },
+  {
+    "name": "スシロー和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野3-16-10",
+    "tel": "0725-55-8146",
+    "openingHours": "月～金11：00～23：00\n土日祝10：30～23：00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185834/"
+  },
+  {
+    "name": "スシロー和泉府中店",
+    "address": "595-0021\n泉大津市 東豊中町2-2-1",
+    "tel": "0725-47-0106",
+    "openingHours": "月～金11：00～23：00\n土日祝10：30～23：00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185816/"
+  },
+  {
+    "name": "夢一喜　羽衣店",
+    "address": "592-0004\n高石市 高師浜2－7－15",
+    "tel": "072-266-2552",
+    "openingHours": "11：30－14：00　17：00－20：30",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185710/"
+  },
+  {
+    "name": "酒楽亭　楽しや",
+    "address": "592-0014\n高石市 綾園　1 - 4 -15",
+    "tel": "072-266-0903",
+    "openingHours": "17:00 ～ 23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185444/"
+  },
+  {
+    "name": "Bar DOLUDORU",
+    "address": "595-0031\n泉大津市 我孫子1-2-47 ホワイトビル1階",
+    "tel": "0725-33-0077",
+    "openingHours": "20時～",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185335/"
+  },
+  {
+    "name": "All day dining Hikari",
+    "address": "592-0014\n高石市 綾園1-9-1 アプラたかいし",
+    "tel": "072-275-4825",
+    "openingHours": "",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184768/"
+  },
+  {
+    "name": "organickitchen菜花",
+    "address": "595-0021\n泉大津市 東豊中町1-9-11",
+    "tel": "0725-46-2460",
+    "openingHours": "17:00～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184469/"
+  },
+  {
+    "name": "ごもん",
+    "address": "595-0072\n泉大津市 松之浜町1-1-34",
+    "tel": "0725-23-1612",
+    "openingHours": "11:00~13:30 / 17:00~23:00",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184369/"
+  },
+  {
+    "name": "らーめん小鉄　泉大津店",
+    "address": "595-0025\n泉大津市 旭町19-2 N.KLASS泉大津",
+    "tel": "0725-58-7227",
+    "openingHours": "11:00～24:00",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184205/"
+  },
+  {
+    "name": "焼き鳥大吉光明池店",
+    "address": "594-0031\n和泉市 伏屋町3-5-57 進化第16ビル",
+    "tel": "0725-57-8681",
+    "openingHours": "Pm５時～11時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184163/"
+  },
+  {
+    "name": "大津屋　泉大津店",
+    "address": "595-0072\n泉大津市 松之浜町2-5-12",
+    "tel": "0725-33-2947",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184094/"
+  },
+  {
+    "name": "大津屋　高石店",
+    "address": "592-0005\n高石市 千代田3-2-1",
+    "tel": "072-264-1129",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs184093/"
+  },
+  {
+    "name": "サーティワンアイスクリーム 高石ロードサイド",
+    "address": "592-0012\n高石市 西取石7-20-3",
+    "tel": "072-261-5657",
+    "openingHours": "10:30~22:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs183523/"
+  },
+  {
+    "name": "道とん堀　和泉和気店",
+    "address": "594-0073\n和泉市 和気町1-7-18",
+    "tel": "0725-43-3880",
+    "openingHours": "",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182685/"
+  },
+  {
+    "name": "居酒屋殿来",
+    "address": "592-0013\n高石市 取石2-2-19",
+    "tel": "072-273-5151",
+    "openingHours": "17時～23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182549/"
+  },
+  {
+    "name": "コメダ珈琲店泉大津店",
+    "address": "595-0031\n泉大津市 我孫子2-5-2",
+    "tel": "0725-92-7480",
+    "openingHours": "7:00-23:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182516/"
+  },
+  {
+    "name": "和楽",
+    "address": "594-0031\n和泉市 伏屋町3-5-57 進化第16ビルＤ棟1階",
+    "tel": "072-592-7541",
+    "openingHours": "17時～23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182149/"
+  },
+  {
+    "name": "揚げたて天ぷら　てん仁さん",
+    "address": "592-0014\n高石市 綾園1-9-1 アプラ高石1階",
+    "tel": "072-275-6214",
+    "openingHours": "11時から21時",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs182121/"
+  },
+  {
+    "name": "海鮮炉端　匠",
+    "address": "594-0031\n和泉市 伏屋町3-22-5 進化第18ビル 4F",
+    "tel": "0725-58-7551",
+    "openingHours": "17:00~23:30",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180617/"
+  },
+  {
+    "name": "お好み焼・鉄板焼　きん太　泉大津店",
+    "address": "595-0021\n泉大津市 東豊中町2-959-6",
+    "tel": "0725-51-7016",
+    "openingHours": "",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180477/"
+  },
+  {
+    "name": "お好み焼・鉄板焼　きん太　和泉店",
+    "address": "594-0081\n和泉市 葛の葉町2丁目7-8",
+    "tel": "0725-40-0089",
+    "openingHours": "",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs180476/"
+  },
+  {
+    "name": "ひまわり　和泉府中店",
+    "address": "595-0021\n泉大津市 東豊中町1丁目5-10",
+    "tel": "0725-45-0890",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179890/"
+  },
+  {
+    "name": "一蘭　泉大津店",
+    "address": "595-0023\n泉大津市 豊中町2-7-10",
+    "tel": "0725-32-1877",
+    "openingHours": "24時間",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179878/"
+  },
+  {
+    "name": "力士料理　天籟山",
+    "address": "592-0012\n高石市 西取石6ー6ー71",
+    "tel": "072-263-4118",
+    "openingHours": "17:00~22:45",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179631/"
+  },
+  {
+    "name": "酒と肴　櫻井",
+    "address": "592-0014\n高石市 綾園1丁目14番10号",
+    "tel": "072-264-1617",
+    "openingHours": "11時から23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179611/"
+  },
+  {
+    "name": "タリーズコーヒー光明池店",
+    "address": "594-1101\n和泉市 室堂町824-36 コムボックス光明池2階",
+    "tel": "0725-57-4147",
+    "openingHours": "",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs177355/"
+  },
+  {
+    "name": "和泉富秋食堂",
+    "address": "594-0082\n和泉市 富秋町3-2-44",
+    "tel": "0725-20-6665",
+    "openingHours": "11:00～22:00(LO.21:30)",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs177153/"
+  },
+  {
+    "name": "串家物語　ららぽーと和泉",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉 2F",
+    "tel": "0725-53-1194",
+    "openingHours": "11:00～22:00(ランチラスト入店15:30 / ディナーラスト入店20:30、",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs177129/"
+  },
+  {
+    "name": "うちの食堂　ららぽーと和泉",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉 2F",
+    "tel": "0725-53-1099",
+    "openingHours": "11:00～22:00(LO.21:00)",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs177128/"
+  },
+  {
+    "name": "ビッグボーイ 高石店",
+    "address": "592-0012\n高石市 西取石5丁目5-11",
+    "tel": "0120-181-120",
+    "openingHours": "10:00～0:00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176723/"
+  },
+  {
+    "name": "やきとりの扇屋　高石店",
+    "address": "592-0012\n高石市 取石3-17-18",
+    "tel": "072-268-8839",
+    "openingHours": "17時～23時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176380/"
+  },
+  {
+    "name": "洋麺屋五右衛門高石店",
+    "address": "592-0012\n高石市 西取石5-11-46",
+    "tel": "072-261-3645",
+    "openingHours": "11：30～21：00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176154/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋高石西取石店",
+    "address": "592-0012\n高石市 西取石3-16-10",
+    "tel": "072-266-9990",
+    "openingHours": "",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs330511/"
+  },
+  {
+    "name": "プレシャスビュッフェ 和泉",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉 2F",
+    "tel": "0725-51-3297",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs319090/"
+  },
+  {
+    "name": "しゃぶ菜　ららぽーと和泉",
+    "address": "594-1157\n和泉市 あゆみ野4-4-1",
+    "tel": "0725-51-3295",
+    "openingHours": "11:00～22:00(L.O. 21:30)営業時間変更の可能性ございます。",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175328/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋　和泉いぶき野店",
+    "address": "594-0041\n和泉市 いぶき野五丁目5-2",
+    "tel": "0725-50-5110",
+    "openingHours": "",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175231/"
+  },
+  {
+    "name": "割烹　角わき",
+    "address": "595-0031\n泉大津市 我孫子1-1-10",
+    "tel": "0725-21-7355",
+    "openingHours": "17時～24時",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175135/"
+  },
+  {
+    "name": "ワイン食堂すまいる",
+    "address": "594-1101\n和泉市 室堂町726-1 進化第20ビル",
+    "tel": "0725-90-5277",
+    "openingHours": "18:00～23:30",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs175091/"
+  },
+  {
+    "name": "とんかつ万福",
+    "address": "594-1105\n和泉市 のぞみ野3-4-41 エイトハーフビル1階B",
+    "tel": "0725-25-5576",
+    "openingHours": "11:00～14:30、17:30～22:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174773/"
+  },
+  {
+    "name": "ボスコリサイア",
+    "address": "595-0025\n泉大津市 旭町19番2号 N.KLASS 泉大津内",
+    "tel": "0725-92-7373",
+    "openingHours": "17:00～24:00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174769/"
+  },
+  {
+    "name": "うまいもん家蛮図",
+    "address": "592-0005\n高石市 千代田5丁目20-3 北助松駅前ビル",
+    "tel": "072-264-4902",
+    "openingHours": "18時から23時迄",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174747/"
+  },
+  {
+    "name": "海鮮工房 中川",
+    "address": "592-0012\n高石市 西取石3-9-16",
+    "tel": "072-266-3700",
+    "openingHours": "17:30～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174643/"
+  },
+  {
+    "name": "庄ちゃん寿司",
+    "address": "595-0072\n泉大津市 松之浜町2-5-14",
+    "tel": "0725-22-5877",
+    "openingHours": "平日 17:00～24:00 土日祝 17:00～23:00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174609/"
+  },
+  {
+    "name": "焼肉一両",
+    "address": "594-1115\n和泉市 平井町306-3",
+    "tel": "0725-55-8220",
+    "openingHours": "PM5時～PM11時",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174574/"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋 泉大津我孫子店",
+    "address": "595-0031\n泉大津市 我孫子178-2",
+    "tel": "0725-20-5755",
+    "openingHours": "",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174559/"
+  },
+  {
+    "name": "大阪ふくちぁんラーメン　和泉葛の葉店",
+    "address": "594-0081\n和泉市 葛の葉町1-14-24",
+    "tel": "0725-43-3038",
+    "openingHours": "１１：００　～　２４：００",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174505/"
+  },
+  {
+    "name": "海鮮居酒屋すし竜",
+    "address": "592-0014\n高石市 綾園1-14-7",
+    "tel": "072-263-2036",
+    "openingHours": "17時から22時",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174366/"
+  },
+  {
+    "name": "新懐石井阪",
+    "address": "594-0054\n和泉市 一条院町115-4",
+    "tel": "0725-41-3164",
+    "openingHours": "11:30-22:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174335/"
+  },
+  {
+    "name": "デニーズ泉大津店",
+    "address": "595-0072\n泉大津市 松之浜町1-1-20",
+    "tel": "0725-21-7227",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174319/"
+  },
+  {
+    "name": "岡巳之",
+    "address": "594-0071\n和泉市 府中町3-4-5",
+    "tel": "0725-41-0198",
+    "openingHours": "午前10：30～",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174258/"
+  },
+  {
+    "name": "炭火焼鳥じゅん家",
+    "address": "594-1101\n和泉市 室堂町726-16 進化第14ビル１F",
+    "tel": "0725-55-7077",
+    "openingHours": "17:30～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs174201/"
+  },
+  {
+    "name": "ダンニャワードエコールいずみ店",
+    "address": "594-0041\n和泉市 いぶき野5-1-12 エコールいずみショッピングセンターアムゼモール２F",
+    "tel": "072-592-6900",
+    "openingHours": "11：00～21：00",
+    "tags": [
+      "カレー",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173857/"
+  },
+  {
+    "name": "ワンカルビ光明池店",
+    "address": "594-0031\n和泉市 伏屋町5-2-9",
+    "tel": "0725-56-8929",
+    "openingHours": "17:00～23:00 （土）12:00～14:00 16:00～24:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173595/"
+  },
+  {
+    "name": "ワンカルビ泉大津南店",
+    "address": "595-0036\n泉大津市 昭和町4-18",
+    "tel": "0725-23-2988",
+    "openingHours": "17:00～23:00 （土）12:00～14:00 16:00～24:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173584/"
+  },
+  {
+    "name": "ワンカルビ泉大津店",
+    "address": "594-0083\n和泉市 池上町265",
+    "tel": "0725-45-2914",
+    "openingHours": "17:00～23:00 （土）12:00～14:00 16:00～24:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173573/"
+  },
+  {
+    "name": "きんのぶた和泉中央駅前店",
+    "address": "594-0041\n和泉市 いぶき野3-15-8",
+    "tel": "0725-55-4929",
+    "openingHours": "17:00～23:00 （土日祝)　12:00～23:00",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173551/"
+  },
+  {
+    "name": "はなまるうどん 和泉中央店",
+    "address": "594-0032\n和泉市 池田下町157－2",
+    "tel": "0725-50-0870",
+    "openingHours": "",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173493/"
+  },
+  {
+    "name": "cookhouse南海泉大津駅店",
+    "address": "595-0025\n泉大津市 旭町２７１－１　高架下",
+    "tel": "0725-21-5855",
+    "openingHours": "",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173122/"
+  },
+  {
+    "name": "お鍋と創作料理のお店　てぃえむ",
+    "address": "595-0024\n泉大津市 池浦町1-12-30",
+    "tel": "0725-30-6422",
+    "openingHours": "火～金11:30-14:00/17:30-22:30 土日17:00-23:30",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs173065/"
+  },
+  {
+    "name": "しゃぶ葉光明池",
+    "address": "594-0031\n和泉市 伏屋町５－１４－７",
+    "tel": "0725-50-2018",
+    "openingHours": "11:00～23:30",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172597/"
+  },
+  {
+    "name": "むさしの森珈琲和泉府中",
+    "address": "594-0071\n和泉市 府中町８５０－４",
+    "tel": "0725-40-3044",
+    "openingHours": "8:00～23:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172596/"
+  },
+  {
+    "name": "ガスト和泉",
+    "address": "594-0065\n和泉市 観音寺町６７７－１",
+    "tel": "0725-40-3105",
+    "openingHours": "9:00～23:30",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs172595/"
+  },
+  {
+    "name": "とんかつかつ喜　ららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉2階",
+    "tel": "0725-90-4191",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171580/"
+  },
+  {
+    "name": "とんかつかつ喜　高石店",
+    "address": "592-0012\n高石市 西取石6-6-48",
+    "tel": "072-267-0525",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171579/"
+  },
+  {
+    "name": "河内らーめん喜神　和泉納花店",
+    "address": "594-1116\n和泉市 納花町333-1",
+    "tel": "0725-50-5005",
+    "openingHours": "",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171565/"
+  },
+  {
+    "name": "とんかつかつ喜　和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野3-16-9",
+    "tel": "0725-58-2227",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171556/"
+  },
+  {
+    "name": "海と大地の恵 京都蕎麦「天風」",
+    "address": "594-1157\n和泉市 あゆみ野４ー４ー７ 三井ショッピングパーク　ららぽーと和泉2F",
+    "tel": "0725-51-7181",
+    "openingHours": "11:00～21:00",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171413/"
+  },
+  {
+    "name": "本家さぬきや　和泉福瀬店",
+    "address": "594-1123\n和泉市 福瀬町386-3",
+    "tel": "0725-92-0108",
+    "openingHours": "11:00～21:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171408/"
+  },
+  {
+    "name": "本家さぬきや　泉大津店",
+    "address": "595-0012\n泉大津市 北豊中町3-1-16",
+    "tel": "0725-44-1391",
+    "openingHours": "11:00～22:00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171407/"
+  },
+  {
+    "name": "美彩美食　小津",
+    "address": "595-0025\n泉大津市 旭町18-5 ホテルレイクアルスターアルザ泉大津７F",
+    "tel": "0725-33-2569",
+    "openingHours": "ランチ11:30～14:30（LO14:00） ディナー 17:30～21:30（LO21:00）",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171404/"
+  },
+  {
+    "name": "THE TEA SALON",
+    "address": "595-0025\n泉大津市 旭町18-5 ホテルレイクアルスターアルザ泉大津３F",
+    "tel": "0725-20-1121",
+    "openingHours": "11:30～15:00（LO14：15）",
+    "tags": [
+      "ホテルレストラン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171403/"
+  },
+  {
+    "name": "クラブ・コントラーダ",
+    "address": "595-0055\n泉大津市 なぎさ町5-1 ホテルきららリゾート関空19F",
+    "tel": "0725-20-1110",
+    "openingHours": "ランチ　11:30～15:00（L.O.14:00）",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171402/"
+  },
+  {
+    "name": "日本料理『白水』",
+    "address": "595-0055\n泉大津市 なぎさ町5-1 ホテルきららリゾート関空5F",
+    "tel": "0725-20-1108",
+    "openingHours": "ランチ11:30～15:00（L.O. 14:00）",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171401/"
+  },
+  {
+    "name": "ティアラカフェ",
+    "address": "595-0055\n泉大津市 なぎさ町5-1 ホテルきららリゾート関空１F",
+    "tel": "0725-20-1111",
+    "openingHours": "10:00～18:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171400/"
+  },
+  {
+    "name": "河童ラーメン　本舗　和泉店",
+    "address": "594-0081\n和泉市 葛の葉町3-3-9",
+    "tel": "072-546-3111",
+    "openingHours": "11：00-29：00",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171269/"
+  },
+  {
+    "name": "和食さと　和泉葛の葉店",
+    "address": "595-0001\n泉大津市 綾井50-1",
+    "tel": "0725-47-3110",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171067/"
+  },
+  {
+    "name": "和食さと　和泉府中店",
+    "address": "594-0071\n和泉市 府中町4-13-10",
+    "tel": "0725-45-2952",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171065/"
+  },
+  {
+    "name": "ミツケキッチン　ららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野４－４－７　ららぽーと和泉　２階",
+    "tel": "0725-99-8686",
+    "openingHours": "11:00　～　22:00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170936/"
+  },
+  {
+    "name": "大阪王将　和泉納花店",
+    "address": "594-1116\n和泉市 納花町324-1",
+    "tel": "0725-56-8873",
+    "openingHours": "平日/11:00～21:30(LO.21:00)",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170825/"
+  },
+  {
+    "name": "タリーズコーヒーららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーといずみ2F",
+    "tel": "0725-51-2467",
+    "openingHours": "10:00～21:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170788/"
+  },
+  {
+    "name": "丸源ラーメン高石店",
+    "address": "592-0012\n高石市 西取石6丁目6-58",
+    "tel": "072-267-1188",
+    "openingHours": "",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs170183/"
+  },
+  {
+    "name": "焼肉ホルモン ふちゅう萬",
+    "address": "594-0071\n和泉市 府中町1-1-6",
+    "tel": "0725-54-8063",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs288097/"
+  },
+  {
+    "name": "鳥貴族　泉大津店",
+    "address": "595-0065\n泉大津市 若宮町10-1　3F 星和ダイヤモンドビル３階",
+    "tel": "0725-92-8411",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169258/"
+  },
+  {
+    "name": "鳥貴族　高石店",
+    "address": "592-0014\n高石市 綾園1-11-23",
+    "tel": "072-230-4414",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169251/"
+  },
+  {
+    "name": "鳥貴族　和泉府中店",
+    "address": "594-0071\n和泉市 府中町1-1-6",
+    "tel": "0725-44-6800",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169246/"
+  },
+  {
+    "name": "PISOLA和泉観音寺店",
+    "address": "594-0065\n和泉市 観音寺町717-1",
+    "tel": "0725-44-0107",
+    "openingHours": "11時～24時（ラストオーダー23時）",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs169141/"
+  },
+  {
+    "name": "らー麺スミイチ",
+    "address": "594-0083\n和泉市 池上町907",
+    "tel": "0725-41-4847",
+    "openingHours": "",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167779/"
+  },
+  {
+    "name": "鳥あみ焼彩",
+    "address": "594-0032\n和泉市 池田下町201-2",
+    "tel": "0725-55-7400",
+    "openingHours": "17:30~24:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167701/"
+  },
+  {
+    "name": "やきとり　克蔵　只今参上",
+    "address": "594-1101\n和泉市 室堂町824-29 泉北第5ビル",
+    "tel": "0725-55-8191",
+    "openingHours": "平日17時半～24時、土日17時～25時、日祝17時～24時",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167603/"
+  },
+  {
+    "name": "四六時中　和泉府中店",
+    "address": "594-0076\n和泉市 肥子町2-2-1 イオン和泉府中店1階",
+    "tel": "0725-41-7751",
+    "openingHours": "11：00～20：00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167514/"
+  },
+  {
+    "name": "た藁や 和泉府中店",
+    "address": "594-0071\n和泉市 府中町1-6-19",
+    "tel": "0725-44-5577",
+    "openingHours": "月～金17:00-24:00 土日祝日15:00-24:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs167443/"
+  },
+  {
+    "name": "いち輪　泉大津",
+    "address": "595-0021\n泉大津市 東豊中町2-4-3　C号室",
+    "tel": "0725-92-9277",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166211/"
+  },
+  {
+    "name": "にくみつ",
+    "address": "594-0042\n和泉市 箕形町1-6-20",
+    "tel": "0725-30-3838",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166139/"
+  },
+  {
+    "name": "SANGOBAR",
+    "address": "594-0071\n和泉市 府中町三丁目16-20",
+    "tel": "090-7872-6487",
+    "openingHours": "17時半から25時まで",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs166072/"
+  },
+  {
+    "name": "居酒屋　義経　羽衣店",
+    "address": "592-0002\n高石市 羽衣1-6-1 ルネ羽衣1階28号",
+    "tel": "072-247-9010",
+    "openingHours": "17:00~23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165946/"
+  },
+  {
+    "name": "いきなりステーキ泉大津店",
+    "address": "595-0036\n泉大津市 昭和町3-30",
+    "tel": "0725-90-5029",
+    "openingHours": "11：00～23：00（ラストオーダー22：45）",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165752/"
+  },
+  {
+    "name": "元祖泉州たこ焼き&居酒屋みなとや",
+    "address": "595-0021\n泉大津市 東豊中町3-2-5",
+    "tel": "0725-99-8281",
+    "openingHours": "12:00～23:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165715/"
+  },
+  {
+    "name": "ウッフカフェ",
+    "address": "594-0065\n和泉市 観音寺町656 グリーンビル1階",
+    "tel": "0725-41-8220",
+    "openingHours": "14：00～24：00",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165444/"
+  },
+  {
+    "name": "ごちそう村　高石店",
+    "address": "592-0012\n高石市 西取石5丁目11-3",
+    "tel": "072-260-4347",
+    "openingHours": "11：30～15：00/18：00～22：30",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165461/"
+  },
+  {
+    "name": "ごちそう村　和泉中央店",
+    "address": "594-0032\n和泉市 池田下町215-1",
+    "tel": "0725-50-4747",
+    "openingHours": "11：30～15：00/18：00～22：30",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165456/"
+  },
+  {
+    "name": "しゃぶしゃぶどん亭 高石店",
+    "address": "592-0012\n高石市 西取石7-11-37",
+    "tel": "072-266-3630",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164949/"
+  },
+  {
+    "name": "大阪王将　高石店",
+    "address": "592-0012\n高石市 西取石7-11-28",
+    "tel": "072-263-0380",
+    "openingHours": "11:00～23:00",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164922/"
+  },
+  {
+    "name": "もつ鍋　永楽",
+    "address": "595-0036\n泉大津市 昭和町９－７",
+    "tel": "0725-33-0606",
+    "openingHours": "",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs164786/"
+  },
+  {
+    "name": "酒屋ダイニング　しん",
+    "address": "595-0072\n泉大津市 松之浜町2-5-22",
+    "tel": "0725-33-8286",
+    "openingHours": "17時から23時まで",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163951/"
+  },
+  {
+    "name": "はやフードスタジアム和泉店",
+    "address": "594-0082\n和泉市 富秋町2-10-2",
+    "tel": "072-558-6000",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163922/"
+  },
+  {
+    "name": "やきとり　よろこんで",
+    "address": "594-1155\n和泉市 緑ヶ丘1-11-16",
+    "tel": "0725-54-3537",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163818/"
+  },
+  {
+    "name": "やきとり大吉　鶴山台店",
+    "address": "594-0003\n和泉市 太町560-1",
+    "tel": "0725-46-5329",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163816/"
+  },
+  {
+    "name": "鼎’S　ららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉",
+    "tel": "0795-50-5980",
+    "openingHours": "11:00～22：00",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163806/"
+  },
+  {
+    "name": "転石",
+    "address": "592-0014\n高石市 綾園5-7-54",
+    "tel": "072-263-9001",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163039/"
+  },
+  {
+    "name": "串かつボンボン",
+    "address": "595-0021\n泉大津市 東豊中町1-6-28",
+    "tel": "0725-92-9330",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs163024/"
+  },
+  {
+    "name": "錦わらい　泉大津店",
+    "address": "595-0037\n泉大津市 虫取町1-4-30",
+    "tel": "0725-32-1911",
+    "openingHours": "",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs162222/"
+  },
+  {
+    "name": "薩摩産直 炭火焼肉うしかい 泉大津店",
+    "address": "595-0005\n泉大津市 森町2-8-34",
+    "tel": "0725-20-0429",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161876/"
+  },
+  {
+    "name": "黒毛和牛焼肉ビーファーズ 光明池牧場",
+    "address": "594-1101\n和泉市 室堂町7-1",
+    "tel": "0725-50-2901",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161866/"
+  },
+  {
+    "name": "たから寿司泉大津店",
+    "address": "595-0025\n泉大津市 旭町18-3 アルザ泉大津1Ｆ",
+    "tel": "0725-32-7700",
+    "openingHours": "",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161718/"
+  },
+  {
+    "name": "カプリチョーザららぽーと和泉",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉2階",
+    "tel": "0725-90-4330",
+    "openingHours": "",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs161129/"
+  },
+  {
+    "name": "にぎり長次郎和泉中央店",
+    "address": "594-0032\n和泉市 池田下町1913-1",
+    "tel": "0725-90-6178",
+    "openingHours": "平日11:00～15:15 16:45～22:30土日祝11:00～22:30",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs160908/"
+  },
+  {
+    "name": "にぎり長次郎泉大津店",
+    "address": "595-0023\n泉大津市 豊中町2丁目5-3",
+    "tel": "0725-20-5222",
+    "openingHours": "平日11:00～15:15 16:45～22:30土日祝11:00～22:30",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs160893/"
+  },
+  {
+    "name": "ふぐ料理 よし川",
+    "address": "594-1141\n和泉市 春木町35",
+    "tel": "0725-54-2024",
+    "openingHours": "17：00～23：00",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs159179/"
+  },
+  {
+    "name": "びっくりドンキー　高石店",
+    "address": "592-0012\n高石市 西取石6-6-52",
+    "tel": "072-265-2739",
+    "openingHours": "11:00～26:00",
+    "tags": [
+      "洋食・西洋料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158825/"
+  },
+  {
+    "name": "とりかわ権兵衛　和泉店",
+    "address": "594-0082\n和泉市 富秋町1-15-56",
+    "tel": "0725-33-2525",
+    "openingHours": "全日17:00～24:00",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158820/"
+  },
+  {
+    "name": "とりかわ権兵衛　泉大津店",
+    "address": "595-0025\n泉大津市 旭町19-2 N.KLASS　泉大津1F",
+    "tel": "072-533-9990",
+    "openingHours": "全日17:00～24:00",
+    "tags": [
+      "鍋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158818/"
+  },
+  {
+    "name": "trattoria almo",
+    "address": "594-0041\n和泉市 いぶき野5-7",
+    "tel": "0725-56-2678",
+    "openingHours": "11:30-15:00　18:00-22:00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158429/"
+  },
+  {
+    "name": "沖寿司",
+    "address": "595-0031\n泉大津市 我孫子1-2-47 ホワイトビル",
+    "tel": "0725-30-4655",
+    "openingHours": "17:00～24:00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158372/"
+  },
+  {
+    "name": "や台ずし　和泉府中駅前町",
+    "address": "594-0071\n和泉市 府中町1-6-17",
+    "tel": "0725-45-2829",
+    "openingHours": "16:00～2：00",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158257/"
+  },
+  {
+    "name": "奴寿司",
+    "address": "594-0005\n和泉市 幸1丁目6-5",
+    "tel": "0725-41-0667",
+    "openingHours": "11時から20時",
+    "tags": [
+      "寿司・魚料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156475/"
+  },
+  {
+    "name": "大阪王将和泉中央店",
+    "address": "594-1105\n和泉市 のぞみ野3-11-1 イルガットビル",
+    "tel": "0725-55-8777",
+    "openingHours": "10時ー24時",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156346/"
+  },
+  {
+    "name": "居笑屋天国　和泉府中店",
+    "address": "594-0071\n和泉市 府中町1-5-11",
+    "tel": "0725-40-1059",
+    "openingHours": "17:00～2:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156311/"
+  },
+  {
+    "name": "料理屋　包丁一本",
+    "address": "594-0066\n和泉市 桑原町279-2 第一泉洋ビル1F",
+    "tel": "0725-43-7205",
+    "openingHours": "18:00～24:00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155911/"
+  },
+  {
+    "name": "幸せのパンケーキ　和泉中央店",
+    "address": "594-0041\n和泉市 いぶき野5-1-1　 和泉中央駅構内",
+    "tel": "0725-57-3130",
+    "openingHours": "9:45～20:00（LO19:20）",
+    "tags": [
+      "カフェ・スイーツ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs156062/"
+  },
+  {
+    "name": "与助",
+    "address": "595-0013\n泉大津市 宮町1-1",
+    "tel": "0725-23-0970",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155167/"
+  },
+  {
+    "name": "三代目　中華料理　やっこ",
+    "address": "595-0805\n泉北郡忠岡町 忠岡東1-21-31",
+    "tel": "0725-21-5937",
+    "openingHours": "11:00~14:00 17:00~22:00",
+    "tags": [
+      "中華料理",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155139/"
+  },
+  {
+    "name": "得得　光明池店",
+    "address": "594-1101\n和泉市 室堂町824-36 コムボックス光明池１階",
+    "tel": "0725-57-5006",
+    "openingHours": "11：00-21：45",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155117/"
+  },
+  {
+    "name": "三代目網元　魚鮮水産　泉大津店",
+    "address": "595-0025\n泉大津市 旭町１９－２－１",
+    "tel": "072-590-6192",
+    "openingHours": "16：00～23：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155129/"
+  },
+  {
+    "name": "がんこ泉大津店",
+    "address": "595-0012\n泉大津市 北豊中町2-17-27",
+    "tel": "0725-20-1383",
+    "openingHours": "11：30～22：00",
+    "tags": [
+      "和食",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155073/"
+  },
+  {
+    "name": "のらや和泉店",
+    "address": "594-1101\n和泉市 室堂町55-4",
+    "tel": "0725-55-7711",
+    "openingHours": "平日11：30～15：00、17：30～22：00　",
+    "tags": [
+      "うどん・そば",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155011/"
+  },
+  {
+    "name": "すいきょう",
+    "address": "594-1101\n和泉市 室堂町726-1　103 進化第２０ビル１０３",
+    "tel": "090-7100-0077",
+    "openingHours": "17：00　24：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154838/"
+  },
+  {
+    "name": "夕食Diningげんべ",
+    "address": "594-1156\n和泉市 内田町 ラディッシュガーデン103",
+    "tel": "0725-26-0660",
+    "openingHours": "17時～",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154810/"
+  },
+  {
+    "name": "トラットリア　ルチアーノ",
+    "address": "594-1105\n和泉市 のぞみ野３－１－２０",
+    "tel": "0725-26-0666",
+    "openingHours": "",
+    "tags": [
+      "イタリアン・フレンチ",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154656/"
+  },
+  {
+    "name": "ぢどり亭光明池店",
+    "address": "594-0031\n和泉市 伏屋町1-2-32",
+    "tel": "0725-57-8989",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs154023/"
+  },
+  {
+    "name": "新鮮鳥焼き　ぼんじり泉大津店",
+    "address": "595-0031\n泉大津市 我孫子2-5-5",
+    "tel": "0725-33-0022",
+    "openingHours": "17：30～23：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153606/"
+  },
+  {
+    "name": "鶴橋風月ららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉　２F",
+    "tel": "0725-51-3024",
+    "openingHours": "11:00~22:00",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153568/"
+  },
+  {
+    "name": "ぢどり亭和泉中央店",
+    "address": "594-1105\n和泉市 のぞみ野3－9－8",
+    "tel": "0725-90-6029",
+    "openingHours": "17：00～25：00",
+    "tags": [
+      "居酒屋",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153047/"
+  }
+]
