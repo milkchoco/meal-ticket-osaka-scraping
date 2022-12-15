@@ -14,7 +14,7 @@ export async function downloadAndCreateShopData(area: string, areaKey: string, g
 
   // 取得したいエリアのチェックボックスにチェックを入れる
   await page.evaluate((area) => {
-    document.getElementById(area)?.click()
+    document.querySelector<HTMLLabelElement>(`#${area} + label`)?.click()
   }, area)
 
   // 取得したいジャンルのチェックボックスにチェックを入れる
