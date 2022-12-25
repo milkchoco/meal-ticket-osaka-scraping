@@ -1,5 +1,115 @@
 [
   {
+    "name": "天下第一 堺店",
+    "address": "590-0061\n堺市堺区 翁橋町1-8-3",
+    "tel": "072-229-8560",
+    "openingHours": "11時～24時",
+    "tags": [
+      "ラーメン・つけ麺",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380537/"
+  },
+  {
+    "name": "カラオケライブ百舌鳥八幡店",
+    "address": "550-0024\n堺市北区 百舌鳥梅北町5-472",
+    "tel": "072-251-3355",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380506/"
+  },
+  {
+    "name": "カラオケライブBeeBee堺北花田店",
+    "address": "591-8004\n堺市北区 蔵前町2-17-33",
+    "tel": "072-254-8250",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380500/"
+  },
+  {
+    "name": "カラオケライブ堺岩室店",
+    "address": "591-0012\n堺市南区 岩室956",
+    "tel": "072-237-7701",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380499/"
+  },
+  {
+    "name": "カラオケライブJＲ堺市駅前店",
+    "address": "591-8043\n堺市北区 北長尾町1-7-1 クラウンビル２Ｆ",
+    "tel": "072-258-1345",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380498/"
+  },
+  {
+    "name": "カラオケライブ中百舌鳥店",
+    "address": "591-8032\n堺市北区 百舌鳥梅町3-5-1",
+    "tel": "072-250-3001",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380496/"
+  },
+  {
+    "name": "メガビッグ光明池駅前店",
+    "address": "590-0138\n堺市南区 鴨谷台2-1-3",
+    "tel": "072-289-6123",
+    "openingHours": "10:00～翌5:00",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380485/"
+  },
+  {
+    "name": "ビッグエコー鳳２６店",
+    "address": "593-8326\n堺市西区 鳳西町 2-1-15",
+    "tel": "072-264-4426",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380439/"
+  },
+  {
+    "name": "ラウンドワン堺駅前店",
+    "address": "590-0985\n堺市堺区 戎島町4-44-3",
+    "tel": "072-222-0120",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380430/"
+  },
+  {
+    "name": "ラウンドワン堺中央環状店",
+    "address": "599-8102\n堺市東区 石原町2-241",
+    "tel": "072-253-9559",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380429/"
+  },
+  {
     "name": "函館市場アリオ鳳店",
     "address": "593-8325\n堺市西区 鳳南町3丁199番12号 アリオ鳳",
     "tel": "072-260-1666",
@@ -11526,115 +11636,5 @@
       "泉州"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151486/"
-  },
-  {
-    "name": "株式会社来来亭泉北アロー店",
-    "address": "590-0142\n堺市南区 檜尾3654-19",
-    "tel": "072-274-6556",
-    "openingHours": "11時から24時まで",
-    "tags": [
-      "ラーメン・つけ麺",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151473/"
-  },
-  {
-    "name": "割烹　竜起",
-    "address": "593-8325\n堺市西区 鳳南町5丁512-2",
-    "tel": "072-274-1500",
-    "openingHours": "",
-    "tags": [
-      "和食",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151424/"
-  },
-  {
-    "name": "味所望",
-    "address": "591-8022\n堺市北区 金岡町3005-25",
-    "tel": "072-257-2769",
-    "openingHours": "",
-    "tags": [
-      "和食",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151297/"
-  },
-  {
-    "name": "上等カレー　レインボー金岡店",
-    "address": "591-8004\n堺市北区 蔵前町1-7-15　レインボー金岡地下一階 レインボー金岡",
-    "tel": "072-255-0085",
-    "openingHours": "11：00～16：00",
-    "tags": [
-      "カレー",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151272/"
-  },
-  {
-    "name": "ジャラン　ジャラン",
-    "address": "590-0079\n堺市堺区 新町5番27号 ジャラン　ジャラン",
-    "tel": "072-224-2410",
-    "openingHours": "11時~14時　17時30分～21時",
-    "tags": [
-      "イタリアン・フレンチ",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151249/"
-  },
-  {
-    "name": "はや魚太郎　泉北の郷",
-    "address": "590-0132\n堺市南区 原山台5-21-2",
-    "tel": "072-297-9988",
-    "openingHours": "",
-    "tags": [
-      "焼肉・ホルモン",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs221800/"
-  },
-  {
-    "name": "焼肉　あいうえお",
-    "address": "592-8333\n堺市西区 浜寺石津町西３－３－１１",
-    "tel": "072-243-0091",
-    "openingHours": "",
-    "tags": [
-      "焼肉・ホルモン",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151221/"
-  },
-  {
-    "name": "仁家　北花田店",
-    "address": "591-8002\n堺市北区 北花田町３－４３－９",
-    "tel": "072-258-4129",
-    "openingHours": "",
-    "tags": [
-      "焼肉・ホルモン",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151220/"
-  },
-  {
-    "name": "西口酒店",
-    "address": "590-0075\n堺市堺区 南花田口町1-2-13",
-    "tel": "072-233-0445",
-    "openingHours": "４時から９時",
-    "tags": [
-      "居酒屋",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151195/"
-  },
-  {
-    "name": "ビストロ寿司居酒屋 魚屋",
-    "address": "590-0152\n堺市南区 和田271-1",
-    "tel": "072-295-3030",
-    "openingHours": "11:30～22:00",
-    "tags": [
-      "寿司・魚料理",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151148/"
   }
 ]

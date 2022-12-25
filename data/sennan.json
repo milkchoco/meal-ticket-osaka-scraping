@@ -1,5 +1,71 @@
 [
   {
+    "name": "カラオケBanBan岸和田中井町",
+    "address": "596-0003\n岸和田市 中井町3-21-1",
+    "tel": "050-3134-0786",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380804/"
+  },
+  {
+    "name": "カラオケBanBan阪南",
+    "address": "599-0212\n阪南市 自然田315-3",
+    "tel": "050-3134-0553",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380798/"
+  },
+  {
+    "name": "コンシェルジュ阪南店",
+    "address": "599-0201\n阪南市 尾崎町169",
+    "tel": "072-488-7785",
+    "openingHours": "１２：００～２：００",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380524/"
+  },
+  {
+    "name": "カラオケライブ岸和田店",
+    "address": "596-0826\n岸和田市 作才町1丁目３－２",
+    "tel": "072-432-3841",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380497/"
+  },
+  {
+    "name": "ビッグエコー岸和田２６店",
+    "address": "596-0821\n岸和田市 小松里町 2427",
+    "tel": "072-441-4426",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380440/"
+  },
+  {
+    "name": "ラウンドワン岸和田店",
+    "address": "569-0049\n岸和田市 八阪町2-11-1",
+    "tel": "072-429-1100",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380432/"
+  },
+  {
     "name": "金と銀　熊取大久保南店",
     "address": "590-0405\n泉南郡熊取町 大久保南2丁目17-1",
     "tel": "072-453-2238",
@@ -823,17 +889,6 @@
       "泉州"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs364023/"
-  },
-  {
-    "name": "トラットリア　ソグノ",
-    "address": "596-0805\n岸和田市 田治米町351-3",
-    "tel": "072-448-6228",
-    "openingHours": "11:30～14:30/17:30～22:00",
-    "tags": [
-      "イタリアン・フレンチ",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs363570/"
   },
   {
     "name": "活魚ヒロ",
@@ -7621,60 +7676,5 @@
       "泉州"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151074/"
-  },
-  {
-    "name": "MEGURI CAFE KITCHEN美秀膳",
-    "address": "598-0015\n泉佐野市 高松南2-4-45-102",
-    "tel": "072-468-7762",
-    "openingHours": "平日11:00-14:30 土日祝11:30-15:00/ディナー予約18:00-21:00",
-    "tags": [
-      "その他",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151063/"
-  },
-  {
-    "name": "楽食ダイニング　ＪＵＮ屋",
-    "address": "596-0825\n岸和田市 土生町３－１４－１５",
-    "tel": "072-439-3919",
-    "openingHours": "17：00～24：00",
-    "tags": [
-      "居酒屋",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150995/"
-  },
-  {
-    "name": "Bistro bar Olu Olu",
-    "address": "598-0015\n泉佐野市 高松南2丁目4-45 103号",
-    "tel": "072-486-0606",
-    "openingHours": "11時30分～14時30分 18時～22時",
-    "tags": [
-      "洋食・西洋料理",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150993/"
-  },
-  {
-    "name": "レストラン　ブルーテ",
-    "address": "596-0826\n岸和田市 作才町1-5-29",
-    "tel": "072-436-3540",
-    "openingHours": "ランチ11:30～13:30（LO）ディナー17:30～20:00（LO）",
-    "tags": [
-      "洋食・西洋料理",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150797/"
-  },
-  {
-    "name": "たるの店　山麓苑",
-    "address": "596-0113\n岸和田市 河合町1221-2",
-    "tel": "072-446-8018",
-    "openingHours": "AM11:00～PM10:00（※季節によりPM9:00まで）",
-    "tags": [
-      "焼肉・ホルモン",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150796/"
   }
 ]

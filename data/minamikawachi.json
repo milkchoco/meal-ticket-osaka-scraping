@@ -1,5 +1,38 @@
 [
   {
+    "name": "炭火焼鳥　一徹",
+    "address": "586-0012\n河内長野市 菊水町1-7 サンシティ長野",
+    "tel": "0721-55-1161",
+    "openingHours": "午後5時～午後10時",
+    "tags": [
+      "居酒屋",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380551/"
+  },
+  {
+    "name": "カラオケライブ富田林駅前店",
+    "address": "566-0071\n富田林市 本町520-2 ニューカナヤビル４階",
+    "tel": "0721-24-2226",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380503/"
+  },
+  {
+    "name": "ビッグエコー近鉄古市駅前店",
+    "address": "583-0853\n羽曳野市 栄町 2-5",
+    "tel": "072-957-9500",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380452/"
+  },
+  {
     "name": "フラワー上河内店",
     "address": "585-0024\n南河内郡河南町 上河内116",
     "tel": "0721-26-7702",
@@ -2202,8 +2235,8 @@
   {
     "name": "古民家カフェ福智庵",
     "address": "586-0052\n河内長野市 河合寺53",
-    "tel": "080-8406-6189",
-    "openingHours": "10:00～16:00,18:00～22:00",
+    "tel": "0721-87-0954",
+    "openingHours": "11:00～16:00（金・土のみ 18:00～22:00も営業）",
     "tags": [
       "その他",
       "南河内"
@@ -5927,5 +5960,192 @@
       "南河内"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152414/"
+  },
+  {
+    "name": "和牛焼肉　まつり家　富田林店",
+    "address": "584-0005\n富田林市 喜志町5-9-3",
+    "tel": "0721-23-1129",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152397/"
+  },
+  {
+    "name": "来来亭　富田林店",
+    "address": "584-0011\n富田林市 宮町１－６－２２",
+    "tel": "0721-23-7768",
+    "openingHours": "１１時～２４時",
+    "tags": [
+      "ラーメン・つけ麺",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152219/"
+  },
+  {
+    "name": "麺工房夢",
+    "address": "586-0038\n河内長野市 上原西町24-18",
+    "tel": "0721-56-5619",
+    "openingHours": "11～15",
+    "tags": [
+      "うどん・そば",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152078/"
+  },
+  {
+    "name": "逢喜の郷",
+    "address": "589-0021\n大阪狭山市 今熊7-1111",
+    "tel": "072-366-4444",
+    "openingHours": "11:30～15：00　17：00～22：00",
+    "tags": [
+      "洋食・西洋料理",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs152075/"
+  },
+  {
+    "name": "餃子屋本舗",
+    "address": "583-0035\n藤井寺市 北岡2-1-32",
+    "tel": "072-938-2139",
+    "openingHours": "［金・土］17:00~23:00［それ以外］17:00~22:30",
+    "tags": [
+      "中華料理",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151682/"
+  },
+  {
+    "name": "にこにこ亭",
+    "address": "580-0016\n松原市 上田１丁目４－１ マツノビル２Ｆ",
+    "tel": "072-331-9166",
+    "openingHours": "11:00~14:00 17:30~22:30",
+    "tags": [
+      "中華料理",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151644/"
+  },
+  {
+    "name": "手打ちうどん　初太",
+    "address": "584-0036\n富田林市 甲田3丁目2－31",
+    "tel": "072-125-1528",
+    "openingHours": "11時～21時半",
+    "tags": [
+      "うどん・そば",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151637/"
+  },
+  {
+    "name": "ホルモン焼きうどんひーくん",
+    "address": "583-0018\n藤井寺市 西古室2-9-14",
+    "tel": "072-959-3450",
+    "openingHours": "",
+    "tags": [
+      "焼肉・ホルモン",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151611/"
+  },
+  {
+    "name": "ふぐ政　富田林店",
+    "address": "584-0025\n富田林市 若松町西2-1470-1",
+    "tel": "0721-24-3965",
+    "openingHours": "am11:30～pm3:00 pm4:00～pm10:30",
+    "tags": [
+      "和食",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151530/"
+  },
+  {
+    "name": "八剣伝　羽曳野店",
+    "address": "583-0871\n羽曳野市 野々上4-5-2",
+    "tel": "072-937-2822",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151528/"
+  },
+  {
+    "name": "acerbo",
+    "address": "589-0013\n大阪狭山市 茱萸木6丁目808 エムケイハイツ101",
+    "tel": "072-290-7789",
+    "openingHours": "11:30～14:30 18:00～21:00",
+    "tags": [
+      "イタリアン・フレンチ",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151517/"
+  },
+  {
+    "name": "ＮＯＢＣＡＦＥ",
+    "address": "589-0023\n大阪狭山市 大野台２－１３－３",
+    "tel": "072-350-3093",
+    "openingHours": "7:30～19:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151398/"
+  },
+  {
+    "name": "鉄板竜",
+    "address": "580-0032\n松原市 天美東7-67 コスミビル1階",
+    "tel": "090-5645-9366",
+    "openingHours": "18:00~24:00",
+    "tags": [
+      "居酒屋",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151328/"
+  },
+  {
+    "name": "来来亭河内長野店",
+    "address": "586-0007\n河内長野市 松ケ丘東町1490",
+    "tel": "0721-56-2217",
+    "openingHours": "11時～25時",
+    "tags": [
+      "ラーメン・つけ麺",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151293/"
+  },
+  {
+    "name": "SHIMIZUYA",
+    "address": "583-0886\n羽曳野市 恵我之荘",
+    "tel": "072-955-1221",
+    "openingHours": "11:30~14:00. 17:00~23:00",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151192/"
+  },
+  {
+    "name": "日光うどん",
+    "address": "589-0006\n大阪狭山市 金剛1-1-1 南海金剛駅",
+    "tel": "072-366-3791",
+    "openingHours": "10時30分から21時（現在短縮営業）",
+    "tags": [
+      "うどん・そば",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151022/"
+  },
+  {
+    "name": "山崎屋",
+    "address": "580-0044\n松原市 田井城1-5-12 山崎屋",
+    "tel": "072-330-2045",
+    "openingHours": "15:00～23:00",
+    "tags": [
+      "寿司・魚料理",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150990/"
   }
 ]

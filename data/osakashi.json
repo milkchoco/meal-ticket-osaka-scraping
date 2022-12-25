@@ -1,5 +1,973 @@
 [
   {
+    "name": "カラオケBanBan喜連瓜破駅前",
+    "address": "547-0024\n大阪市平野区 瓜破2-1-8",
+    "tel": "050-3134-0993",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380811/"
+  },
+  {
+    "name": "カラオケBanBan喜連瓜破インター",
+    "address": "547-0025\n大阪市平野区 瓜破西1丁目8番26号 ザクロコーポレション平野ビル3F",
+    "tel": "050-3134-0810",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380805/"
+  },
+  {
+    "name": "北新地ここの",
+    "address": "530-0003\n大阪市北区 堂島1-5-4-B1 はつ根ビル",
+    "tel": "",
+    "openingHours": "18時〜24時",
+    "tags": [
+      "居酒屋",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs165684/"
+  },
+  {
+    "name": "そば処　さぬき路",
+    "address": "551-0031\n大阪市大正区 泉尾1-27-5 サンコー第10ハイツ",
+    "tel": "06-6553-8927",
+    "openingHours": "11時-２２時",
+    "tags": [
+      "うどん・そば",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380561/"
+  },
+  {
+    "name": "しんぱち食堂 JR京橋駅前店",
+    "address": "534-0024\n大阪市都島区 東野田町3-10-3 大京クラブ1F",
+    "tel": "06-6354-7674",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380553/"
+  },
+  {
+    "name": "すし、海力",
+    "address": "537-0025\n大阪市東成区 中道2-4-4 森之宮光栄ビル1F",
+    "tel": "06-6974-1239",
+    "openingHours": "",
+    "tags": [
+      "寿司・魚料理",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380552/"
+  },
+  {
+    "name": "康福",
+    "address": "550-0025\n大阪市西区 九条南2丁目1-2 西村ビル",
+    "tel": "06-7173-0966",
+    "openingHours": "17:00-22:30",
+    "tags": [
+      "中華料理",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380550/"
+  },
+  {
+    "name": "鮨ととぎん 三国駅前店",
+    "address": "532-0005\n大阪市淀川区 三国本町3-29-12",
+    "tel": "06-6152-6342",
+    "openingHours": "17：00～23：00",
+    "tags": [
+      "寿司・魚料理",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380549/"
+  },
+  {
+    "name": "おうちごはんより道",
+    "address": "541-0056\n大阪市中央区 久太郎町3-1-27 ヒグチビル１階",
+    "tel": "080-6065-8416",
+    "openingHours": "17:00-24:00",
+    "tags": [
+      "居酒屋",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380548/"
+  },
+  {
+    "name": "OSTERIA AL CORALLO",
+    "address": "541-0056\n大阪市中央区 久太郎町4-2-5 中甚ビル1階",
+    "tel": "06-6210-3314",
+    "openingHours": "",
+    "tags": [
+      "イタリアン・フレンチ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380547/"
+  },
+  {
+    "name": "洋食スエヒロ",
+    "address": "530-0041\n大阪市北区 天神橋6-6-12",
+    "tel": "06-4397-4177",
+    "openingHours": "11:00~21:00",
+    "tags": [
+      "洋食・西洋料理",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380546/"
+  },
+  {
+    "name": "カラオケサウンドキューブ上本町店",
+    "address": "543-0001\n大阪市天王寺区 上本町6-7-2 地下1階",
+    "tel": "06-4303-3377",
+    "openingHours": "11:00-5:00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380545/"
+  },
+  {
+    "name": "カラオケサウンドキューブ玉出店",
+    "address": "557-0044\n大阪市西成区 玉出中2-6-13",
+    "tel": "06-6653-1288",
+    "openingHours": "11:00-5:00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380544/"
+  },
+  {
+    "name": "カラオケサウンドキューブ生野店",
+    "address": "544-0015\n大阪市生野区 巽南4-9-25",
+    "tel": "06-6770-5939",
+    "openingHours": "12:00-5:00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380543/"
+  },
+  {
+    "name": "ウチノオカン~野菜と麹のやさしいお店~",
+    "address": "532-0026\n大阪市淀川区 塚本2-29-1",
+    "tel": "050-6862-9248",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380540/"
+  },
+  {
+    "name": "鶏あんざい",
+    "address": "540-0012\n大阪市中央区 谷町7-1-39 新谷町第二ビル116",
+    "tel": "06-6762-8800",
+    "openingHours": "16:30-2:00",
+    "tags": [
+      "居酒屋",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380538/"
+  },
+  {
+    "name": "カラオケ館北新地店",
+    "address": "530-0002\n大阪市北区 曽根崎新地1-3-21",
+    "tel": "06-6344-2790",
+    "openingHours": "13：00～翌6：00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380533/"
+  },
+  {
+    "name": "カラオケ館なんば戎橋本店",
+    "address": "542-0076\n大阪市中央区 難波1-5-16",
+    "tel": "06-4708-1061",
+    "openingHours": "日～木・祝　11:00～翌6:00 金・土・祝前日　11:00～翌7:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380532/"
+  },
+  {
+    "name": "マグスミノエ カラオケB-SIDE",
+    "address": "559-0023\n大阪市住之江区 泉1-1-82 マグスミノエ",
+    "tel": "06-6685-8860",
+    "openingHours": "10:00～2:00、10:00～3:00、9:00～0:00",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380530/"
+  },
+  {
+    "name": "カラオケZERO4西中島店",
+    "address": "532-0011\n大阪市淀川区 西中島3丁目23-9 中里第二ビル5階",
+    "tel": "06-6301-0004",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380529/"
+  },
+  {
+    "name": "ワンズアレイ",
+    "address": "530-0041\n大阪市北区 天神橋2丁目3-26 ドゥマン梅田2F",
+    "tel": "06-6467-4411",
+    "openingHours": "",
+    "tags": [
+      "洋食・西洋料理",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380528/"
+  },
+  {
+    "name": "旬味満菜居酒屋味寛",
+    "address": "550-0027\n大阪市西区 九条1-20-23 福元マンション１階",
+    "tel": "06-6583-8810",
+    "openingHours": "11時半-13時半　17時-23時半",
+    "tags": [
+      "居酒屋",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380525/"
+  },
+  {
+    "name": "サウンドフラッシュ住吉店",
+    "address": "558-0042\n大阪市住吉区 殿辻２丁目２番１０号 パチンコシグマ２階",
+    "tel": "06-6674-6567",
+    "openingHours": "１２：００～５：００",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380523/"
+  },
+  {
+    "name": "コンシェルジュ新大阪店",
+    "address": "532-0004\n大阪市淀川区 西宮原 ２丁目７番１４号",
+    "tel": "06-6392-6670",
+    "openingHours": "１２：００～５：００",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380522/"
+  },
+  {
+    "name": "カラオケスタジオブギ",
+    "address": "530-0018\n大阪市北区 小松原町４－１２",
+    "tel": "06-6312-4495",
+    "openingHours": "12:00～翌6:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380520/"
+  },
+  {
+    "name": "カラオケティファニー大正店",
+    "address": "551-0031\n大阪市大正区 泉尾5-1-9",
+    "tel": "06-6553-7022",
+    "openingHours": "12：00～翌5：00",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380518/"
+  },
+  {
+    "name": "カラオケサウンドスタイル九条店",
+    "address": "550-0027\n大阪市西区 九条1-18-7",
+    "tel": "06-6585-3303",
+    "openingHours": "11：00～翌5：00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380517/"
+  },
+  {
+    "name": "カラオケファミリープラザ深江橋店",
+    "address": "537-0001\n大阪市東成区 深江北1-1-32",
+    "tel": "06-6981-3500",
+    "openingHours": "12：00～翌5：00",
+    "tags": [
+      "その他",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380515/"
+  },
+  {
+    "name": "カラオケディーバ天三店",
+    "address": "530-0041\n大阪市北区 天神橋3-3-18 天三興栄ビル2階",
+    "tel": "06-6352-5050",
+    "openingHours": "12：00～翌5：00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380514/"
+  },
+  {
+    "name": "カラオケサウンドスタイル西成店",
+    "address": "557-0031\n大阪市西成区 鶴見橋1-16-36",
+    "tel": "06-6631-0070",
+    "openingHours": "11：00～翌5：00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380513/"
+  },
+  {
+    "name": "カラオケオアシス森之宮店",
+    "address": "540-0003\n大阪市中央区 森ノ宮中央1-16-17 岡田ビル1階",
+    "tel": "06-6947-0703",
+    "openingHours": "12：00～翌5：00",
+    "tags": [
+      "その他",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380512/"
+  },
+  {
+    "name": "カラオケライブ境川店",
+    "address": "577-0001\n大阪市西区 境川1-4-38 ハイハットアベニュービル３階",
+    "tel": "06-6583-1717",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380505/"
+  },
+  {
+    "name": "カラオケライブ平野出戸店",
+    "address": "547-0016\n大阪市平野区 長吉長原1-2-49 ラ・パンセ２Ｆ",
+    "tel": "06-6709-7337",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380493/"
+  },
+  {
+    "name": "カラオケライブ弁天町駅前店",
+    "address": "552-0001\n大阪市港区 波除3-1-20　2階",
+    "tel": "06-4393-1277",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "ベイエリア"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380491/"
+  },
+  {
+    "name": "メガビッグ天満本店",
+    "address": "530-0041\n大阪市北区 天神橋4丁目10-8",
+    "tel": "06-6867-7617",
+    "openingHours": "10:00-5:00（金土祝前6:00）",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380489/"
+  },
+  {
+    "name": "メガビッグ今福鶴見駅前店",
+    "address": "536-0002\n大阪市城東区 今福東2丁目14-2 ENT今福鶴見3-4階",
+    "tel": "06-6180-6136",
+    "openingHours": "10:00-5:00",
+    "tags": [
+      "その他",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380488/"
+  },
+  {
+    "name": "メガビッグアイラブ天満店",
+    "address": "530-0041\n大阪市北区 天神橋5丁目6-24",
+    "tel": "06-4800-3180",
+    "openingHours": "10:00-5:00（金土祝前6:00）",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380487/"
+  },
+  {
+    "name": "ビッグエコー天六店",
+    "address": "531-0041\n大阪市北区 天神橋7-2-15 天六幸榮ビル6階",
+    "tel": "06-6949-8174",
+    "openingHours": "11:00～翌5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380474/"
+  },
+  {
+    "name": "ビッグエコー鶴橋駅前店",
+    "address": "543-0025\n大阪市天王寺区 下味原町1-22",
+    "tel": "06-6779-2006",
+    "openingHours": "11:00～翌5:00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380473/"
+  },
+  {
+    "name": "ビッグエコー天満駅前店",
+    "address": "531-0041\n大阪市北区 天神橋4－11－6　 ミクシィー・ワンビル2階",
+    "tel": "06-6355-2555",
+    "openingHours": "11:00～翌5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380472/"
+  },
+  {
+    "name": "ビッグエコーあべの店",
+    "address": "545-0052\n大阪市阿倍野区 阿倍野筋2-1-20 クロワッサンビル2F",
+    "tel": "06-6626-6711",
+    "openingHours": "11：00～5：00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380471/"
+  },
+  {
+    "name": "ビッグエコーあべのごちそうビル店",
+    "address": "545-0052\n大阪市阿倍野区 阿倍野筋1-1-61 新宿ごちそうビル6F",
+    "tel": "06-6621-5100",
+    "openingHours": "12：00～5：00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380470/"
+  },
+  {
+    "name": "ビッグエコー天王寺あべの駅前店",
+    "address": "545-0052\n大阪市阿倍野区 阿倍野筋1-3-18",
+    "tel": "06-6625-7888",
+    "openingHours": "11：00～5：00",
+    "tags": [
+      "その他",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380469/"
+  },
+  {
+    "name": "ビッグエコーなんば戎橋店",
+    "address": "542-0076\n大阪市中央区 難波3-5-1　 ナンバ一番ビルB1",
+    "tel": "06-6630-8851",
+    "openingHours": "月～金、祝前日12:00～29:00　土、日、祝日11:00～29:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380468/"
+  },
+  {
+    "name": "ビッグエコーなんば千日前店",
+    "address": "542-0074\n大阪市中央区 千日前2-11-9",
+    "tel": "06-6649-8200",
+    "openingHours": "月～金、祝前日12:00～29:00　土、日、祝日11:00～29:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380467/"
+  },
+  {
+    "name": "ビッグエコー千日前アムザ店",
+    "address": "542-0074\n大阪市中央区 千日前2-9-17　 アムザ1000　3F",
+    "tel": "06-4397-2121",
+    "openingHours": "月～金、祝前日11:00～29:00　土、日、祝日10:00～29:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380466/"
+  },
+  {
+    "name": "ビッグエコー淀屋橋駅前店",
+    "address": "541-0041\n大阪市中央区 北浜3-5-22　 オリックス淀屋橋ビルB1",
+    "tel": "06-4707-7550",
+    "openingHours": "月～金、祝前日18:00～29:00　土12:00～29:00　日、祝日12:00～23:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380465/"
+  },
+  {
+    "name": "ビッグエコー本町つるやビル店",
+    "address": "541-0053\n大阪市中央区 本町3-3-5 つるや本社ビルB1",
+    "tel": "06-6120-9721",
+    "openingHours": "月～金、祝前日14:00～29:00　土12:00～29:00　日、祝日12:00～23:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380464/"
+  },
+  {
+    "name": "ビッグエコー大阪本町店",
+    "address": "541-0052\n大阪市中央区 安土町3-4-5　 本丸田ビル1F",
+    "tel": "06-4964-1777",
+    "openingHours": "月～木、土18:00～25:00、金、祝前日18:00～29:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380463/"
+  },
+  {
+    "name": "ビッグエコー茶屋町店",
+    "address": "530-0013\n大阪市北区 茶屋町1-5 ＭＤビル",
+    "tel": "06-6359-5553",
+    "openingHours": "月～木12時～24時（金～5時・祝前日～23時） 土11時～5時（日・祝～23時）",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380462/"
+  },
+  {
+    "name": "ビッグエコー梅田茶屋町本店",
+    "address": "530-0013\n大阪市北区 茶屋町2-16 イースクエア茶屋町2F",
+    "tel": "06-6292-8575",
+    "openingHours": "月 ～木11:00～5:00（金・祝前日～6:00） 土 10:00～6:00（日・祝 ～5:00）",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380461/"
+  },
+  {
+    "name": "ビッグエコー大阪梅田本店",
+    "address": "530-0018\n大阪市北区 小松原町1-1 田園ビル",
+    "tel": "06-6809-3523",
+    "openingHours": "月 ～木11:00～5:00（金・祝前日～6:00） 土 10:00～6:00（日・祝 ～5:00）",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380460/"
+  },
+  {
+    "name": "ビッグエコー梅田東通り店",
+    "address": "530-0018\n大阪市北区 小松原町4-5 純情モンテカルロビル",
+    "tel": "06-6131-3811",
+    "openingHours": "月～金 ・祝前日 14:00～5:00 土 14:00～6:00 日曜・祝祭日 14:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380459/"
+  },
+  {
+    "name": "ビッグエコー阪急東通り店",
+    "address": "530-0027\n大阪市北区 堂山町5-6 起世ビル",
+    "tel": "06-6366-8848",
+    "openingHours": "月～木 12:00～5:00 金・土・祝前日 12:00～6:00 日・祝 12:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380458/"
+  },
+  {
+    "name": "ビッグエコー野田阪神駅前店",
+    "address": "553-0006\n大阪市福島区 吉野2丁目15-12 カドヤビル5-7F",
+    "tel": "06-4256-5250",
+    "openingHours": "10:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380457/"
+  },
+  {
+    "name": "ビッグエコーお初天神店",
+    "address": "530-0057\n大阪市北区 曽根崎2丁目8-15 K'sスクエアビル　1F",
+    "tel": "06-6360-7776",
+    "openingHours": "月～木 14:00～5:00 金・土・祝前日 14:00～6:00 日・祝 14:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380456/"
+  },
+  {
+    "name": "ビッグエコー曽根崎お初天神",
+    "address": "530-0057\n大阪市北区 曽根崎2丁目13-17　 渡辺ビル2F",
+    "tel": "06-6312-3451",
+    "openingHours": "月～木18:00～23:00（金・祝前日～5:00） 土14:00～5:00（日・祝～23:00）",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380455/"
+  },
+  {
+    "name": "ビッグエコー梅田中央店",
+    "address": "530-0018\n大阪市北区 小松原町1-10　 梅田パルビル1-3F",
+    "tel": "06-6313-1050",
+    "openingHours": "月～木11:00～5:00 金・土・祝前日11:00～6:00 日・祝11:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380454/"
+  },
+  {
+    "name": "ビッグエコー地下鉄玉出駅前店",
+    "address": "557-0045\n大阪市西成区 玉出西 2-4-28",
+    "tel": "06-6658-2500",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380451/"
+  },
+  {
+    "name": "ビッグエコー地下鉄平野駅前店",
+    "address": "547-0034\n大阪市平野区 背戸口 5-6-23",
+    "tel": "06-6704-4441",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380450/"
+  },
+  {
+    "name": "ビッグエコー梅田桜橋北新地店",
+    "address": "530-0002\n大阪市北区 曽根崎新地 1-4-17",
+    "tel": "06-6457-9898",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380449/"
+  },
+  {
+    "name": "ビッグエコー京橋京阪モール店",
+    "address": "534-0024\n大阪市都島区 東野田町 2-9-23",
+    "tel": "06-6358-4455",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380448/"
+  },
+  {
+    "name": "ビッグエコー福島駅前店",
+    "address": "553-0003\n大阪市福島区 福島 5-14-16",
+    "tel": "06-6458-1188",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380447/"
+  },
+  {
+    "name": "ビッグエコー針中野駅前店",
+    "address": "546-0011\n大阪市東住吉区 針中野 3-1-30",
+    "tel": "06-6701-2266",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380446/"
+  },
+  {
+    "name": "ビッグエコー梅田北新地店",
+    "address": "530-0002\n大阪市北区 曽根崎新地 1-11-20",
+    "tel": "06-4797-0200",
+    "openingHours": "17:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380445/"
+  },
+  {
+    "name": "ビッグエコー十三東口店",
+    "address": "532-0023\n大阪市淀川区 十三東 2-8-11",
+    "tel": "06-6309-9988",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380444/"
+  },
+  {
+    "name": "ビッグエコー京橋駅前店",
+    "address": "534-0024\n大阪市都島区 東野田町 3-10-1",
+    "tel": "06-4801-2233",
+    "openingHours": "11:00～0：00",
+    "tags": [
+      "その他",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380443/"
+  },
+  {
+    "name": "ビッグエコー淡路駅前店",
+    "address": "533-0032\n大阪市東淀川区 淡路 4-3-15",
+    "tel": "06-6325-8800",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "北摂"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380442/"
+  },
+  {
+    "name": "ビッグエコー蒲生四丁目駅前店",
+    "address": "536-0016\n大阪市城東区 蒲生 4-22-4",
+    "tel": "06-4255-4466",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380441/"
+  },
+  {
+    "name": "ビッグエコー上新庄駅前店",
+    "address": "533-0005\n大阪市東淀川区 瑞光 1-12-3",
+    "tel": "06-6320-3722",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "北摂"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380438/"
+  },
+  {
+    "name": "ビッグエコー平野長吉店",
+    "address": "547-0014\n大阪市平野区 長吉川辺 3-1-24",
+    "tel": "06-6705-4441",
+    "openingHours": "11:00～5:00",
+    "tags": [
+      "その他",
+      "南河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380437/"
+  },
+  {
+    "name": "ラウンドワン千日前店",
+    "address": "542-0076\n大阪市中央区 難波1-3-1",
+    "tel": "06-4708-2600",
+    "openingHours": "24時間営業",
+    "tags": [
+      "その他",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380434/"
+  },
+  {
+    "name": "ラウンドワン梅田店",
+    "address": "530-0018\n大阪市北区 小松原町4-16",
+    "tel": "06-6312-6800",
+    "openingHours": "24時間営業",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380433/"
+  },
+  {
+    "name": "ラウンドワン城東放出店",
+    "address": "536-0003\n大阪市城東区 今福南3-4-38",
+    "tel": "06-6936-0100",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380424/"
+  },
+  {
+    "name": "ラウンドワン東淀川店",
+    "address": "533-0022\n大阪市東淀川区 菅原7-14-29",
+    "tel": "06-6160-2221",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380423/"
+  },
+  {
+    "name": "ピノキオ　なんばCITY",
+    "address": "542-0076\n大阪市中央区 難波5丁目1-60 なんばＣＩＴＹ南館 1F",
+    "tel": "06-4396-1122",
+    "openingHours": "11:00～22:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380420/"
+  },
+  {
+    "name": "土山人　阪急32番街",
+    "address": "530-0017\n大阪市北区 角田町8-47 阪急グランドビル28Ｆ店舗番号2804号",
+    "tel": "06-6362-0666",
+    "openingHours": "11:00～21:00",
+    "tags": [
+      "うどん・そば",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380419/"
+  },
+  {
+    "name": "ピノキオ　西宮原",
+    "address": "532-0004\n大阪市淀川区 西宮原2-7-4 ドーミー新大阪1F",
+    "tel": "06-6150-1112",
+    "openingHours": "7:30～21:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380418/"
+  },
+  {
+    "name": "ピノキオ　福島",
+    "address": "553-0003\n大阪市福島区 福島7-14-9",
+    "tel": "06-6346-1270",
+    "openingHours": "7:30～21:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380417/"
+  },
+  {
+    "name": "じゅうじゅう屋　玉造",
+    "address": "543-0014\n大阪市天王寺区 玉造元町1番40号 玉造駅コンコース内",
+    "tel": "06-6767-3535",
+    "openingHours": "11:00～22:00",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380416/"
+  },
+  {
+    "name": "デリス　LINKS UMEDA",
+    "address": "530-0011\n大阪市北区 大深町1-1 リンクスウメダ１F",
+    "tel": "06-4256-5161",
+    "openingHours": "11:30～21:30",
+    "tags": [
+      "カフェ・スイーツ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380415/"
+  },
+  {
+    "name": "炭火焼魚定食　心斎橋食堂",
+    "address": "542-0081\n大阪市中央区 南船場3-7-17 ミウラヤビル1F",
+    "tel": "06-6243-7336",
+    "openingHours": "11:00～21:00",
+    "tags": [
+      "和食",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380413/"
+  },
+  {
+    "name": "モダン焼き寿々",
+    "address": "541-0057\n大阪市中央区 北久宝寺町４丁目2-3 下牧ビル1F",
+    "tel": "06-4708-3910",
+    "openingHours": "月-金11:00-14:00 月-土17:00-2:00",
+    "tags": [
+      "お好み焼き・たこ焼き",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380035/"
+  },
+  {
+    "name": "てっちりラボ",
+    "address": "536-0003\n大阪市城東区 今福南1-6-4",
+    "tel": "06-4400-4057",
+    "openingHours": "月-土曜日17-27時、日祝11-23時",
+    "tags": [
+      "鍋",
+      "大阪城"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379981/"
+  },
+  {
+    "name": "阪神スナックパーク　HANSHIN　DRINK KOBO",
+    "address": "530-8224\n大阪市北区 梅田１丁目１３－１３ 大阪梅田ツインタワーズ・サウスＢ２",
+    "tel": "06-6345-1201",
+    "openingHours": "10:00～21:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379971/"
+  },
+  {
+    "name": "阪神大食堂　羽田市場",
+    "address": "530-8224\n大阪市北区 梅田１丁目１３－１３ 大阪梅田ツインタワーズ・サウスＢ２",
+    "tel": "06-6345-1201",
+    "openingHours": "11:00～22:00",
+    "tags": [
+      "寿司・魚料理",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379970/"
+  },
+  {
+    "name": "阪神バル横丁　茶寮伊藤園",
+    "address": "530-8224\n大阪市北区 梅田１丁目１３－１３ 大阪梅田ツインタワーズ・サウスＢ２",
+    "tel": "06-6345-1201",
+    "openingHours": "11:00～22:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379969/"
+  },
+  {
+    "name": "阪神バル横丁　オホーツクおこっぺミルクスタンド",
+    "address": "530-8224\n大阪市北区 梅田１丁目１３－１３ 大阪梅田ツインタワーズ・サウスＢ２",
+    "tel": "06-6345-1201",
+    "openingHours": "11:00～22:00",
+    "tags": [
+      "カフェ・スイーツ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379968/"
+  },
+  {
     "name": "立ち飲みベーカリー うらパネ",
     "address": "550-0004\n大阪市西区 靱本町1-9-18",
     "tel": "06-6476-8984",
@@ -295,17 +1263,6 @@
       "キタ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379596/"
-  },
-  {
-    "name": "アバッキオ",
-    "address": "542-0012\n大阪市中央区 谷町6-11-34",
-    "tel": "06-7503-1015",
-    "openingHours": "18:00~22:00",
-    "tags": [
-      "イタリアン・フレンチ",
-      "ミナミ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379593/"
   },
   {
     "name": "おいしいお酒の和彩ビストロ旬亭",
@@ -1037,7 +1994,7 @@
     "name": "焼肉家げんちゃん",
     "address": "534-0022\n大阪市都島区 都島中通3-5-8",
     "tel": "080-4487-3186",
-    "openingHours": "１７時半から３時",
+    "openingHours": "17時半〜23時",
     "tags": [
       "焼肉・ホルモン",
       "大阪城"
@@ -1219,17 +2176,6 @@
       "ミナミ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379293/"
-  },
-  {
-    "name": "麺屋國丸　靭公園前店",
-    "address": "550-0004\n大阪市西区 靱本町1丁目6-14 1階",
-    "tel": "06-6450-6606",
-    "openingHours": "11:00～21:30",
-    "tags": [
-      "ラーメン・つけ麺",
-      "キタ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379291/"
   },
   {
     "name": "ＢＩＮＤＵ グランフロント大阪店",
@@ -2828,14 +3774,14 @@
   },
   {
     "name": "alcobareno",
-    "address": "545-0053\n大阪市阿倍野区 松崎町2-3-59 SSノース2階",
-    "tel": "06-6690-7757",
-    "openingHours": "14:00～24:00",
+    "address": "545-0053\n大阪市阿倍野区 松崎町2-3-59 ssノース2階",
+    "tel": "06-66907757",
+    "openingHours": "16:00～24:00 土日祝は14:00～24:00",
     "tags": [
       "その他",
       "あべの・天王寺"
     ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs204009/"
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373495/"
   },
   {
     "name": "すし富 龍",
@@ -3199,17 +4145,6 @@
       "ミナミ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373413/"
-  },
-  {
-    "name": "RODDA group",
-    "address": "550-0023\n大阪市西区 千代崎1-23-9 桜ビル1階2号",
-    "tel": "06-6582-7556",
-    "openingHours": "",
-    "tags": [
-      "カレー",
-      "ミナミ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs373412/"
   },
   {
     "name": "串かつ 居酒屋 倭",
@@ -27063,7 +27998,7 @@
     "name": "三ッ寺筋　秀月",
     "address": "542-0084\n大阪市中央区 宗右衛門町5-33",
     "tel": "06-6211-1236",
-    "openingHours": "17:00～22:30",
+    "openingHours": "17時〜23時（ラストオーダー 22時30分）",
     "tags": [
       "和食",
       "ミナミ"
@@ -28928,17 +29863,6 @@
       "キタ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202725/"
-  },
-  {
-    "name": "酒呑総合窓口　スラッシュ",
-    "address": "541-0041\n大阪市中央区 北浜1-9-10 宗田ビル1階",
-    "tel": "06-6227-8587",
-    "openingHours": "11時～14時　18時～翌1時",
-    "tags": [
-      "居酒屋",
-      "キタ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs202722/"
   },
   {
     "name": "遊食家",
@@ -43725,17 +44649,6 @@
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191445/"
   },
   {
-    "name": "天満上海食苑",
-    "address": "530-0033\n大阪市北区 池田町6-7",
-    "tel": "06-6882-4582",
-    "openingHours": "",
-    "tags": [
-      "中華料理",
-      "キタ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs191443/"
-  },
-  {
     "name": "天神橋上海食苑",
     "address": "530-0041\n大阪市北区 天神橋4-6-19",
     "tel": "06-6358-1577",
@@ -49063,7 +49976,7 @@
     "name": "割烹肉膳　光月",
     "address": "542-0083\n大阪市中央区 東心斎橋2-8-19-1F サザンダイヤビル",
     "tel": "06-6211-3202",
-    "openingHours": "18時～23時",
+    "openingHours": "17:00〜22:00",
     "tags": [
       "和食",
       "ミナミ"
@@ -52338,17 +53251,6 @@
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187224/"
   },
   {
-    "name": "北新地　福助",
-    "address": "530-0003\n大阪市北区 堂島1-4-23 北新地吉本ビル4階",
-    "tel": "06-6348-5078",
-    "openingHours": "17時～23時",
-    "tags": [
-      "和食",
-      "キタ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs187215/"
-  },
-  {
     "name": "魚菜処ほりばた",
     "address": "532-0005\n大阪市淀川区 三国本町3－37－8 岩崎ビル",
     "tel": "06-6350-8700",
@@ -55319,17 +56221,6 @@
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185352/"
   },
   {
-    "name": "焼酎蕎麦やはやさき",
-    "address": "541-0053\n大阪市中央区 本町4-7-15 タウンコート本町1F",
-    "tel": "06-6266-0924",
-    "openingHours": "11時30分～14時00分　17時00分～22時00分",
-    "tags": [
-      "うどん・そば",
-      "ミナミ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185351/"
-  },
-  {
     "name": "居酒屋　俺の大関",
     "address": "530-0001\n大阪市北区 梅田1-11-4-B200 大阪駅前第四ビルB2",
     "tel": "090-5888-8871",
@@ -55493,17 +56384,6 @@
       "ミナミ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185260/"
-  },
-  {
-    "name": "お好み、鉄板焼き堀川",
-    "address": "530-0027\n大阪市北区 堂山町17-1 FKビル２F",
-    "tel": "06-6363-1020",
-    "openingHours": "１８時～２２時",
-    "tags": [
-      "お好み焼き・たこ焼き",
-      "キタ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs185252/"
   },
   {
     "name": "しのぶ庵　心斎橋パルコ店",
@@ -65175,17 +66055,6 @@
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179774/"
   },
   {
-    "name": "ローカーボキッチン然-zen- 北堀江店",
-    "address": "550-0014\n大阪市西区 北堀江１－６－４ 欧州館２階",
-    "tel": "080-2518-9678",
-    "openingHours": "11:30-15:00/18:00-22:00",
-    "tags": [
-      "その他",
-      "ミナミ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs179772/"
-  },
-  {
     "name": "博多味処水たきいろは梅田店",
     "address": "531-0072\n大阪市北区 豊崎2-4-24",
     "tel": "06-6377-0168",
@@ -67681,17 +68550,6 @@
       "キタ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176766/"
-  },
-  {
-    "name": "南自由軒",
-    "address": "557-0002\n大阪市西成区 太子1ー11ー5",
-    "tel": "06-6641-0404",
-    "openingHours": "AM11時30分～PM8時30分",
-    "tags": [
-      "洋食・西洋料理",
-      "あべの・天王寺"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs176758/"
   },
   {
     "name": "タコハウス",
@@ -78329,17 +79187,6 @@
       "ミナミ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171693/"
-  },
-  {
-    "name": "frigerio",
-    "address": "550-0015\n大阪市西区 南堀江3-8-9 プレミアム南堀江1F",
-    "tel": "06-6532-3500",
-    "openingHours": "",
-    "tags": [
-      "イタリアン・フレンチ",
-      "ミナミ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs171692/"
   },
   {
     "name": "世界の山ちゃん本町店",
@@ -93559,7 +94406,7 @@
     "name": "HEAVENS KITCHEN BOOST",
     "address": "534-0024\n大阪市都島区 東野田町3丁目8-2 吉川ビル 204",
     "tel": "06-6360-4752",
-    "openingHours": "18時～朝5時",
+    "openingHours": "18時から2時",
     "tags": [
       "その他",
       "大阪城"
@@ -102114,17 +102961,6 @@
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158595/"
   },
   {
-    "name": "味ごころ　四季彩",
-    "address": "558-0023\n大阪市住吉区 山之内1-5-16",
-    "tel": "06-6692-5445",
-    "openingHours": "17:00-23:00",
-    "tags": [
-      "居酒屋",
-      "ベイエリア"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs158594/"
-  },
-  {
     "name": "桝田",
     "address": "542-0085\n大阪市中央区 心斎橋筋1－3－12 田毎プラザ２Ｆ",
     "tel": "06-6251-5077",
@@ -105989,7 +106825,7 @@
     "name": "鶴橋風月 天神橋筋四番街店",
     "address": "530-0041\n大阪市北区 天神橋4-6-21",
     "tel": "06-6353-7231",
-    "openingHours": "11時～23時(ラストオーダー22時)",
+    "openingHours": "11:00～22:00(ラストオーダー21:00)",
     "tags": [
       "お好み焼き・たこ焼き",
       "キタ"
@@ -108140,17 +108976,6 @@
       "あべの・天王寺"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155209/"
-  },
-  {
-    "name": "京懐石 美濃吉 天満橋店",
-    "address": "540-0032\n大阪市中央区 天満橋京町1-1 京阪シティモール8F",
-    "tel": "06-6910-8760",
-    "openingHours": "11:30～15:00/17:00～23：00",
-    "tags": [
-      "和食",
-      "キタ"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs155208/"
   },
   {
     "name": "京懐石 美濃吉 心斎橋御堂筋店",
@@ -116109,7 +116934,7 @@
     "name": "伊たこ焼梅田本店",
     "address": "530-0012\n大阪市北区 芝田町1-3-11 ウイン不動産芝田町ビル",
     "tel": "06-6375-8108",
-    "openingHours": "",
+    "openingHours": "平日 17:00～23:00 土日祝 12：00～23：00",
     "tags": [
       "お好み焼き・たこ焼き",
       "キタ"
@@ -122649,5 +123474,71 @@
       "キタ"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150698/"
+  },
+  {
+    "name": "居酒屋でん",
+    "address": "530-0051\n大阪市北区 太融寺町７－１１ フジノビル１階",
+    "tel": "06-6365-5915",
+    "openingHours": "月～木、土 17:00-翌1:00 金曜日のみ 17:00-翌3:00",
+    "tags": [
+      "居酒屋",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150696/"
+  },
+  {
+    "name": "ブラッスリーランコン",
+    "address": "530-0057\n大阪市北区 曽根崎2-5-24 中央ビル2階",
+    "tel": "06-6360-6747",
+    "openingHours": "18時から23時",
+    "tags": [
+      "イタリアン・フレンチ",
+      "キタ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150694/"
+  },
+  {
+    "name": "おおさか料理　浅井",
+    "address": "542-0083\n大阪市中央区 東心斎橋1-6-19 ロイヤル中家１F",
+    "tel": "06-6243-7100",
+    "openingHours": "",
+    "tags": [
+      "和食",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150647/"
+  },
+  {
+    "name": "なにわフレンチBegin",
+    "address": "542-0083\n大阪市中央区 東心斎橋2-5-31 月虎５１番館402号",
+    "tel": "06-6211-1240",
+    "openingHours": "１７時から２３時",
+    "tags": [
+      "イタリアン・フレンチ",
+      "ミナミ"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150628/"
+  },
+  {
+    "name": "焼肉鶴橋新館",
+    "address": "543-0025\n大阪市天王寺区 下味原町2-6",
+    "tel": "050-5289-1774",
+    "openingHours": "[月、水～日、祝日、祝前日] 12:00～22:00",
+    "tags": [
+      "焼肉・ホルモン",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150617/"
+  },
+  {
+    "name": "焼肉鶴橋別邸",
+    "address": "543-0025\n大阪市天王寺区 下味原町2-5",
+    "tel": "06-6779-1134",
+    "openingHours": "15:00-23:30",
+    "tags": [
+      "焼肉・ホルモン",
+      "あべの・天王寺"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs150616/"
   }
 ]

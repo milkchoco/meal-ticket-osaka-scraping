@@ -1,5 +1,27 @@
 [
   {
+    "name": "カラオケ館泉大津店",
+    "address": "595-0012\n泉大津市 北豊中町2-18-20",
+    "tel": "0725-31-2210",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380535/"
+  },
+  {
+    "name": "ラウンドワンららぽーと和泉店",
+    "address": "594-1157\n和泉市 あゆみ野4-4-7　4階",
+    "tel": "0725-51-2100",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "泉州"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380435/"
+  },
+  {
     "name": "Bar L’ami",
     "address": "594-0071\n和泉市 府中町1-3-12",
     "tel": "080-9165-5078",
@@ -3276,27 +3298,5 @@
       "泉州"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153606/"
-  },
-  {
-    "name": "鶴橋風月ららぽーと和泉店",
-    "address": "594-1157\n和泉市 あゆみ野4-4-7 ららぽーと和泉　２F",
-    "tel": "0725-51-3024",
-    "openingHours": "11:00~22:00",
-    "tags": [
-      "お好み焼き・たこ焼き",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153568/"
-  },
-  {
-    "name": "ぢどり亭和泉中央店",
-    "address": "594-1105\n和泉市 のぞみ野3－9－8",
-    "tel": "0725-90-6029",
-    "openingHours": "17：00～25：00",
-    "tags": [
-      "居酒屋",
-      "泉州"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs153047/"
   }
 ]

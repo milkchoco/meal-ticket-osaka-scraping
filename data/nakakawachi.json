@@ -1,5 +1,115 @@
 [
   {
+    "name": "カラオケBanBan東大阪",
+    "address": "578-0982\n東大阪市 吉田本町3-6-10",
+    "tel": "050-3134-0562",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380799/"
+  },
+  {
+    "name": "KITCHEN Ohana",
+    "address": "579-8045\n東大阪市 本町15-13 中西ビル 1F",
+    "tel": "072-986-3338",
+    "openingHours": "",
+    "tags": [
+      "居酒屋",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380554/"
+  },
+  {
+    "name": "カラオケサウンドキューブ布施店",
+    "address": "577-0056\n東大阪市 長堂1-10-6",
+    "tel": "06-6784-6566",
+    "openingHours": "11:00-5:00",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380542/"
+  },
+  {
+    "name": "カラオケライブ河内小坂店",
+    "address": "591-8031\n東大阪市 小阪1丁目12-12 小阪プラザ2Ｆ",
+    "tel": "06-6224-7278",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380507/"
+  },
+  {
+    "name": "カラオケライブ徳庵駅前店",
+    "address": "584-0093\n東大阪市 徳庵本町4-8",
+    "tel": "06-6744-7755",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380504/"
+  },
+  {
+    "name": "カラオケライブ東大阪店",
+    "address": "577-0004\n東大阪市 稲田新町3-10-18",
+    "tel": "06-6745-6622",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380494/"
+  },
+  {
+    "name": "カラオケライブ南上小阪",
+    "address": "577-0814\n東大阪市 南上小阪10-60",
+    "tel": "06-6729-5567",
+    "openingHours": "",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380492/"
+  },
+  {
+    "name": "メガビッグ布施駅前店",
+    "address": "577-0056\n東大阪市 長堂2-1-23",
+    "tel": "06-6784-0500",
+    "openingHours": "10:00～翌5:00",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380486/"
+  },
+  {
+    "name": "ラウンドワン東大阪店",
+    "address": "578-0943\n東大阪市 若江南町1-2-12",
+    "tel": "06-6224-1700",
+    "openingHours": "平日10時～6時週末24時間営業",
+    "tags": [
+      "その他",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs380428/"
+  },
+  {
+    "name": "珉珉鴻池店",
+    "address": "578-0976\n東大阪市 西鴻池町2-1-5",
+    "tel": "06-6744-2500",
+    "openingHours": "午前11時から午後10時半",
+    "tags": [
+      "中華料理",
+      "中河内"
+    ],
+    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs379982/"
+  },
+  {
     "name": "乾杯食堂Awesome!",
     "address": "577-0802\n東大阪市 小阪本町1-4-10",
     "tel": "06-6727-8414",
@@ -1186,17 +1296,6 @@
       "中河内"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs367061/"
-  },
-  {
-    "name": "焼肉・新鮮ホルモン肉丸",
-    "address": "577-0801\n東大阪市 小阪2-11-16 久宝堂ビル1F",
-    "tel": "06-4308-4640",
-    "openingHours": "17時から23時",
-    "tags": [
-      "焼肉・ホルモン",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs366824/"
   },
   {
     "name": "小料理　ゆるり",
@@ -9766,104 +9865,5 @@
       "中河内"
     ],
     "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151699/"
-  },
-  {
-    "name": "焼肉いつき",
-    "address": "577-0056\n東大阪市 長堂1-2-11 焼肉いつき",
-    "tel": "06-6784-5555",
-    "openingHours": "ランチ11:30～14:30 ディナー17:30～23:30",
-    "tags": [
-      "焼肉・ホルモン",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151452/"
-  },
-  {
-    "name": "駒すし",
-    "address": "579-8021\n東大阪市 額田町8-24",
-    "tel": "072-981-3591",
-    "openingHours": "11時～14時　17時～21時",
-    "tags": [
-      "寿司・魚料理",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151425/"
-  },
-  {
-    "name": "すし処恵比寿",
-    "address": "581-0003\n八尾市 本町５丁目1-1 ローレル八尾本町ビル1階",
-    "tel": "072-924-3520",
-    "openingHours": "17:00から23:00",
-    "tags": [
-      "寿司・魚料理",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151399/"
-  },
-  {
-    "name": "肉バル　meatkitchen298",
-    "address": "577-0801\n東大阪市 小阪2－15－14 ミドービル102",
-    "tel": "06-4309-7250",
-    "openingHours": "16：30～23：00",
-    "tags": [
-      "洋食・西洋料理",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151384/"
-  },
-  {
-    "name": "天ぷら 大喜",
-    "address": "577-0011\n東大阪市 荒本北2-2-43",
-    "tel": "06-4309-1180",
-    "openingHours": "11:30～13:30 17:00～22:00",
-    "tags": [
-      "和食",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151358/"
-  },
-  {
-    "name": "味地歩心",
-    "address": "577-0048\n東大阪市 西堤西1-21",
-    "tel": "06-6781-1823",
-    "openingHours": "火曜日～金曜日17時から23時 土曜日と日曜日15時より",
-    "tags": [
-      "居酒屋",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151346/"
-  },
-  {
-    "name": "海席　与志乃",
-    "address": "578-0976\n東大阪市 西鴻池町2-4-1 与志乃ビル１階",
-    "tel": "06-6747-3535",
-    "openingHours": "17:00~23:00(l.o22：30)",
-    "tags": [
-      "和食",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151333/"
-  },
-  {
-    "name": "すずや × 石切丸　石切神社前店",
-    "address": "579-8011\n東大阪市 東石切町1-6-36",
-    "tel": "072-982-3119",
-    "openingHours": "10:30-16:00",
-    "tags": [
-      "うどん・そば",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151330/"
-  },
-  {
-    "name": "吉鳥　吉田駅前店",
-    "address": "578-0981\n東大阪市 島之内2-14-20 グランディオーゾ辰巳1F西",
-    "tel": "072-966-7455",
-    "openingHours": "17:00～翌5:00",
-    "tags": [
-      "居酒屋",
-      "中河内"
-    ],
-    "url": "https://goto-eat.weare.osaka-info.jp/gotoeat/gs151327/"
   }
 ]
